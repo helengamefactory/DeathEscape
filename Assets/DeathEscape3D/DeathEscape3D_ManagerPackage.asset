@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b4a24d0e4a28423fb3249b923d7e418, type: 3}
+  m_Name: DeathEscape3D_ManagerPackage
+  m_EditorClassIdentifier: 
+  actionsManager: {fileID: 11400000, guid: f32dde164a7bfa245bfbdfdfc9fb8015, type: 2}
+  sceneManager: {fileID: 11400000, guid: 5c93c5ce5cf9f114c87a9300467c35ce, type: 2}
+  settingsManager: {fileID: 11400000, guid: e54d9fc1a0b3d5645bddeb3e23bfbf70, type: 2}
+  inventoryManager: {fileID: 11400000, guid: 8755dccf3e188f04a834058a7988cefc, type: 2}
+  variablesManager: {fileID: 11400000, guid: 6017385c448607348a4f5777c79acf35, type: 2}
+  speechManager: {fileID: 11400000, guid: 4bba9673713c9f64293e2a9225c63ebc, type: 2}
+  cursorManager: {fileID: 11400000, guid: b5570114acc3ba14380606744d1f2c5f, type: 2}
+  menuManager: {fileID: 11400000, guid: 8a2affff5e7df8146a7fb4dbfcbf6041, type: 2}
