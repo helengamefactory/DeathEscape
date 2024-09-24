@@ -39,15 +39,15 @@ MonoBehaviour:
   player: {fileID: 0}
   players: []
   movementMethod: 2
-  inputMethod: 2
+  inputMethod: 0
   interactionMethod: 2
   selectInteractions: 0
   autoHideInteractionIcons: 1
-  cancelInteractions: 0
+  cancelInteractions: 2
   seeInteractions: 0
   closeInteractionMenuIfTapHotspot: 1
-  stopPlayerOnClickHotspot: 0
-  cycleInventoryCursors: 1
+  stopPlayerOnClickHotspot: 1
+  cycleInventoryCursors: 0
   scaleCursorSpeedWithScreen: 1
   autoCycleWhenInteract: 0
   showHoverInteractionInHotspotLabel: 0
@@ -55,12 +55,12 @@ MonoBehaviour:
   alwaysCloseInteractionMenus: 1
   whenReselectHotspot: 0
   lockCursorOnStart: 0
-  hideLockedCursor: 0
+  hideLockedCursor: 1
   disableFreeAimWhenDragging: 0
   runConversationsWithKeys: 0
   clickUpInteractions: 0
   defaultMouseClicks: 1
-  allowGameplayDuringConversations: 0
+  allowGameplayDuringConversations: 1
   shareInventory: 0
   inventoryDragDrop: 0
   dragDropThreshold: 0
@@ -72,7 +72,7 @@ MonoBehaviour:
   allowDefaultInventoryInteractions: 0
   inventoryDisableUnhandled: 1
   inventoryDisableDefined: 1
-  inventoryInteractionsHaltPlayer: 0
+  inventoryInteractionsHaltPlayer: 1
   activeWhenHover: 0
   inventoryActiveEffect: 1
   inventoryPulseSpeed: 1
@@ -128,8 +128,8 @@ MonoBehaviour:
   directTouchScreen: 0
   touchUpWhenPaused: 0
   forceAspectRatio: 0
-  aspectRatioEnforcement: 0
-  wantedAspectRatio: 1.5
+  aspectRatioEnforcement: 1
+  wantedAspectRatio: 2.2
   maxAspectRatio: 2.39
   renderBorderCamera: 1
   landscapeModeOnly: 1
@@ -167,7 +167,7 @@ MonoBehaviour:
   loadingSceneIs: 0
   loadingSceneName: 
   loadingScene: 0
-  useAsyncLoading: 0
+  useAsyncLoading: 1
   loadingDelay: 0
   blackOutWhenInitialising: 1
   spawnPersistentEnginePrefab: 1
