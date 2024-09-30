@@ -193,13 +193,13 @@ MonoBehaviour:
     isUpgraded: 0
   angleSnapping: 0
   walkSpeedScale: 1
-  runSpeedScale: 4
-  reverseSpeedFactor: 1
+  runSpeedScale: 3
+  reverseSpeedFactor: 0.5
   turnSpeed: 5
-  acceleration: 3
+  acceleration: 2
   deceleration: 0
   turnBeforeWalking: 0
-  runDistanceThreshold: 1
+  runDistanceThreshold: 2
   antiGlideMode: 0
   retroPathfinding: 0
   ignoreGravity: 0
@@ -270,7 +270,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -283,9 +283,9 @@ AudioSource:
   MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
+  BypassEffects: 1
+  BypassListenerEffects: 1
+  BypassReverbZones: 1
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
