@@ -22,7 +22,7 @@ MonoBehaviour:
   useProfiles: 0
   maxSaves: 0
   orderSavesByUpdateTime: 0
-  reloadSceneWhenLoading: 0
+  reloadSceneWhenLoading: 1
   saveWithThreading: 0
   saveAssetReferencesWithAddressables: 0
   saveLabels:
@@ -34,9 +34,9 @@ MonoBehaviour:
     autosaveLabelID: -1
   sceneAttributes: []
   actionListOnStart: {fileID: 0}
-  blackOutWhenSkipping: 1
+  blackOutWhenSkipping: 0
   playerSwitching: 1
-  player: {fileID: 0}
+  player: {fileID: 9010972320813386933, guid: f43788187378d694daaa5f130aaf5f76, type: 3}
   players: []
   movementMethod: 2
   inputMethod: 0
@@ -55,7 +55,7 @@ MonoBehaviour:
   alwaysCloseInteractionMenus: 1
   whenReselectHotspot: 0
   lockCursorOnStart: 0
-  hideLockedCursor: 1
+  hideLockedCursor: 0
   disableFreeAimWhenDragging: 0
   runConversationsWithKeys: 0
   clickUpInteractions: 0
@@ -106,18 +106,18 @@ MonoBehaviour:
   pathfindUpdateFrequency: 0
   verticalReductionFactor: 0.7
   rotationsAffectedByVerticalReduction: 1
-  jumpSpeed: 4
+  jumpSpeed: 3
   singleTapStraight: 0
   singleTapStraightPathfind: 0
   clickHoldSeparationStraight: 0.3
   useFPCamDuringConversations: 1
   onlyInteractWhenCursorUnlocked: 0
   freeAimSmoothSpeed: 50
-  firstPersonMovementSmoothing: 1
+  firstPersonMovementSmoothing: 0
   assumeInputsDefined: 0
   activeInputs: []
   freeAimTouchSpeed: 0.01
-  dragWalkThreshold: 5
+  dragWalkThreshold: 3
   dragRunThreshold: 20
   drawDragLine: 0
   dragLineWidth: 3
@@ -128,7 +128,7 @@ MonoBehaviour:
   directTouchScreen: 0
   touchUpWhenPaused: 0
   forceAspectRatio: 0
-  aspectRatioEnforcement: 1
+  aspectRatioEnforcement: 0
   wantedAspectRatio: 2.2
   maxAspectRatio: 2.39
   renderBorderCamera: 1
@@ -136,7 +136,7 @@ MonoBehaviour:
   cameraPerspective: 2
   cacheCameraMain: 0
   linearColorTextures: 0
-  relyOnSafeArea: 1
+  relyOnSafeArea: 0
   movingTurning: 3
   hotspotDetection: 0
   closeInteractionMenusIfPlayerLeavesVicinity: 0
@@ -155,8 +155,8 @@ MonoBehaviour:
   hotspotDrawing: 0
   hideUnhandledHotspots: 0
   navMeshRaycastLength: 100
-  hotspotRaycastLength: 100
-  moveableRaycastLength: 30
+  hotspotRaycastLength: 5
+  moveableRaycastLength: 5
   hotspotLayer: Default
   distantHotspotLayer: DistantHotspot
   navMeshLayer: NavMesh
@@ -167,10 +167,10 @@ MonoBehaviour:
   loadingSceneIs: 0
   loadingSceneName: 
   loadingScene: 0
-  useAsyncLoading: 1
+  useAsyncLoading: 0
   loadingDelay: 0
-  blackOutWhenInitialising: 1
-  spawnPersistentEnginePrefab: 1
+  blackOutWhenInitialising: 0
+  spawnPersistentEnginePrefab: 0
   playMusicWhilePaused: 0
   playAmbienceWhilePaused: 0
   musicStorages: []
@@ -195,7 +195,7 @@ MonoBehaviour:
   defaultSfxVolume: 0.9
   defaultMusicVolume: 0.6
   defaultSpeechVolume: 1
-  showDebugLogs: 0
+  showDebugLogs: 1
   printActionCommentsInConsole: 0
   actionCommentLogging: 0
-  showActiveActionLists: 0
+  showActiveActionLists: 1

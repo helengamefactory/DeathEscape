@@ -24,7 +24,7 @@ MonoBehaviour:
   panSpeed: 1
   autoPanNearWindowEdge: 1
   defaultClass: -1
-  defaultClassName: ActionParamCheck
+  defaultClassName: ActionAnim
   AllActions:
   - fileName: ActionParamCheck
     category: 0

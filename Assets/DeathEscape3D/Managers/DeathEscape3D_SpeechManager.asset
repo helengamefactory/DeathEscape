@@ -54,10 +54,13 @@ MonoBehaviour:
   lines: []
   languages:
   - Original
-  languageIsRightToLeft: 00
+  - "\u0641\u0627\u0631\u0633\u06CC"
+  languageIsRightToLeft: 0001
   languageAudioAssetBundles:
   - 
+  - 
   languageLipsyncAssetBundles:
+  - 
   - 
   ignoreOriginalText: 0
   sfxDucking: 0

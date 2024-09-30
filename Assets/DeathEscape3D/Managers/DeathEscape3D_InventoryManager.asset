@@ -56,13 +56,13 @@ MonoBehaviour:
     hotspotPrefix2:
       label: on
       lineID: -1
-    useActionList: {fileID: 0}
+    useActionList: {fileID: 11400000, guid: ddf43936e833c7d449e5c5d3ae36bcde, type: 2}
     lookActionList: {fileID: 0}
     interactions: []
     combineInteractions: []
     combineActionList: []
     combineID: 
-    unhandledActionList: {fileID: 0}
+    unhandledActionList: {fileID: 11400000, guid: 92fb13e13491b534f90a4b707475e59c, type: 2}
     unhandledCombineActionList: {fileID: 0}
     carryOnStartID: -1
     useSeparateSlots: 0
@@ -71,7 +71,7 @@ MonoBehaviour:
   bins: []
   invVars: []
   unhandledCombine: {fileID: 0}
-  unhandledHotspot: {fileID: 0}
+  unhandledHotspot: {fileID: 11400000, guid: 6bfa1be1c91ce1a4eab1aaacbbcdff23, type: 2}
   passUnhandledHotspotAsParameter: 0
   unhandledGive: {fileID: 0}
   recipes: []
