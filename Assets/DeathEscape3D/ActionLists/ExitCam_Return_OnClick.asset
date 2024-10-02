@@ -43,7 +43,7 @@ MonoBehaviour:
   constantID: 0
   parameterID: -1
   linkedCamera: {fileID: 0}
-  transitionTime: 0.5
+  transitionTime: 1
   transitionTimeParameterID: -1
   timeCurve:
     serializedVersion: 2

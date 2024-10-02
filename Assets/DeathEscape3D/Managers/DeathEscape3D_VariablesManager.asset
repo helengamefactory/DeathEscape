@@ -72,5 +72,16 @@ MonoBehaviour:
     showInFilter: 1
   varPresets: []
   updateRuntime: 1
-  popUpLabelData: []
+  popUpLabelData:
+  - editorLabel: RotateValue
+    id: 1
+    labels:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    lineID: -1
+    canTranslate: 0
   scrollPos: {x: 0, y: 0}
