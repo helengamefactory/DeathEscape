@@ -11677,6 +11677,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 458662, guid: facf14ae9ce68b7479827bcf72fba835, type: 3}
   m_PrefabInstance: {fileID: 1259027404}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &920225796 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 439108, guid: e8844f0074e08e146ac42fb5eaeab3db, type: 3}
+  m_PrefabInstance: {fileID: 1692342103}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &922710500
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19966,6 +19971,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 483686, guid: e8844f0074e08e146ac42fb5eaeab3db, type: 3}
       insertIndex: -1
       addedObject: {fileID: 8412450467082555873}
+    - targetCorrespondingSourceObject: {fileID: 439108, guid: e8844f0074e08e146ac42fb5eaeab3db, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 543450651812600447}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 130342, guid: e8844f0074e08e146ac42fb5eaeab3db, type: 3}
       insertIndex: -1
@@ -27400,6 +27408,11 @@ MonoBehaviour:
   iconSortingOrder: 0
   doubleClickingHotspot: 0
   playerTurnsHead: 1
+--- !u!4 &543450651812600447 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8639153154682616549, guid: b92b883c086c2184b8207f3563594390, type: 3}
+  m_PrefabInstance: {fileID: 658305068841698087}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &543450651841423262 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 907624127602953221, guid: 454d53e7136f5574ebf5ff72a0cad304, type: 3}
@@ -27473,6 +27486,75 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1330813794}
   m_SourcePrefab: {fileID: 100100000, guid: 6d2247901c9cbad479a0417b7348a0b3, type: 3}
+--- !u!1001 &658305068841698087
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 920225796}
+    m_Modifications:
+    - target: {fileID: 3401994078089276662, guid: b92b883c086c2184b8207f3563594390, type: 3}
+      propertyPath: m_Name
+      value: ZombieDying
+      objectReference: {fileID: 0}
+    - target: {fileID: 8639153154682616549, guid: b92b883c086c2184b8207f3563594390, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 8639153154682616549, guid: b92b883c086c2184b8207f3563594390, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 8639153154682616549, guid: b92b883c086c2184b8207f3563594390, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 8639153154682616549, guid: b92b883c086c2184b8207f3563594390, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.9099894
+      objectReference: {fileID: 0}
+    - target: {fileID: 8639153154682616549, guid: b92b883c086c2184b8207f3563594390, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -87.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8639153154682616549, guid: b92b883c086c2184b8207f3563594390, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 18.686485
+      objectReference: {fileID: 0}
+    - target: {fileID: 8639153154682616549, guid: b92b883c086c2184b8207f3563594390, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.00000016292068
+      objectReference: {fileID: 0}
+    - target: {fileID: 8639153154682616549, guid: b92b883c086c2184b8207f3563594390, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8639153154682616549, guid: b92b883c086c2184b8207f3563594390, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8639153154682616549, guid: b92b883c086c2184b8207f3563594390, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8639153154682616549, guid: b92b883c086c2184b8207f3563594390, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8639153154682616549, guid: b92b883c086c2184b8207f3563594390, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8639153154682616549, guid: b92b883c086c2184b8207f3563594390, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b92b883c086c2184b8207f3563594390, type: 3}
 --- !u!114 &891773589972194065
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28899,8 +28981,8 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
+  near clip plane: 0.01
+  far clip plane: 50
   field of view: 60
   orthographic: 0
   orthographic size: 3
@@ -28946,8 +29028,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1803803340146719401}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.35543332, y: 0.2104459, z: -0.082473464, w: 0.9069608}
-  m_LocalPosition: {x: 1.3518875, y: 1.3556247, z: 7.133507}
+  m_LocalRotation: {x: 0.3071885, y: 0.22687462, z: -0.07566258, w: 0.9211071}
+  m_LocalPosition: {x: 1.3606793, y: 0.8165654, z: 7.5951614}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -30193,7 +30275,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.01
-  far clip plane: 1000
+  far clip plane: 50
   field of view: 60
   orthographic: 0
   orthographic size: 5
@@ -30945,7 +31027,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.01
-  far clip plane: 1000
+  far clip plane: 50
   field of view: 60
   orthographic: 0
   orthographic size: 5
@@ -31960,8 +32042,8 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
+  near clip plane: 0.01
+  far clip plane: 50
   field of view: 60
   orthographic: 0
   orthographic size: 3
@@ -32198,8 +32280,8 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
+  near clip plane: 0.01
+  far clip plane: 50
   field of view: 60
   orthographic: 0
   orthographic size: 3
@@ -32845,8 +32927,8 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
+  near clip plane: 0.01
+  far clip plane: 50
   field of view: 60
   orthographic: 0
   orthographic size: 3
@@ -35699,8 +35781,8 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
+  near clip plane: 0.01
+  far clip plane: 50
   field of view: 60
   orthographic: 0
   orthographic size: 3
@@ -36567,8 +36649,8 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
+  near clip plane: 0.01
+  far clip plane: 50
   field of view: 60
   orthographic: 0
   orthographic size: 3
