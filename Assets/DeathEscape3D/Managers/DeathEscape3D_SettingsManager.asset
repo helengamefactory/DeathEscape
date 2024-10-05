@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   separateEditorSaveFiles: 0
   saveFileName: DeathEscape
-  saveTimeDisplay: 0
+  saveTimeDisplay: 1
   customSaveFormat: MMMM dd, yyyy
   takeSaveScreenshots: 0
-  saveScreenshots: 0
+  saveScreenshots: 1
   screenshotResolutionFactor: 1
-  useProfiles: 0
+  useProfiles: 1
   maxSaves: 0
   orderSavesByUpdateTime: 0
   reloadSceneWhenLoading: 1
@@ -36,7 +36,7 @@ MonoBehaviour:
   actionListOnStart: {fileID: 11400000, guid: 49b07663dd0ccc24abd0b93e4f36b7df, type: 2}
   blackOutWhenSkipping: 0
   playerSwitching: 1
-  player: {fileID: 9010972320813386933, guid: f43788187378d694daaa5f130aaf5f76, type: 3}
+  player: {fileID: 6400253439099899167, guid: 8a629ef365eafbe458fbcc6153daec4e, type: 3}
   players: []
   movementMethod: 2
   inputMethod: 0
