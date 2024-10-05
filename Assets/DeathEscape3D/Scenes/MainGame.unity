@@ -2182,7 +2182,7 @@ MonoBehaviour:
   constantID: 127196
   retainInPrefab: 0
   autoManual: 0
-  startState: 1
+  startState: 0
   affectChildren: 0
   saveColour: 0
 --- !u!4 &114471567 stripped
@@ -2712,7 +2712,7 @@ MonoBehaviour:
   constantID: 127192
   retainInPrefab: 0
   autoManual: 0
-  startState: 1
+  startState: 0
   affectChildren: 0
   saveColour: 0
 --- !u!114 &150210817
@@ -3967,7 +3967,7 @@ MonoBehaviour:
   constantID: 127204
   retainInPrefab: 0
   autoManual: 0
-  startState: 1
+  startState: 0
   affectChildren: 0
   saveColour: 0
 --- !u!1 &201830443
@@ -6392,6 +6392,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 364927950}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &365191835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d8fc38712ca94d019e6fe60b1c4a944, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  turningStyle: 1
+  isSpriteBased: 0
 --- !u!1 &370119716
 GameObject:
   m_ObjectHideFlags: 0
@@ -9096,7 +9110,7 @@ MonoBehaviour:
   constantID: 127200
   retainInPrefab: 0
   autoManual: 0
-  startState: 1
+  startState: 0
   affectChildren: 0
   saveColour: 0
 --- !u!1 &571261114 stripped
@@ -11444,7 +11458,7 @@ MonoBehaviour:
   constantID: 127184
   retainInPrefab: 0
   autoManual: 0
-  startState: 1
+  startState: 0
   affectChildren: 0
   saveColour: 0
 --- !u!1001 &721999533
@@ -11504,6 +11518,20 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: facf14ae9ce68b7479827bcf72fba835, type: 3}
+--- !u!114 &724429701
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d8fc38712ca94d019e6fe60b1c4a944, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  turningStyle: 1
+  isSpriteBased: 0
 --- !u!114 &728168710
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11719,48 +11747,6 @@ MonoBehaviour:
   compareVariablesConstantID: 0
   placeholderType: 1
   placeholderPopUpLabelDataID: 0
---- !u!114 &741460327
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9289eb0ca58ef471f9062a5f77161403, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 0
-    skipAction: -1
-    skipActionActual: {fileID: 0}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 0
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 14
-    y: 14
-    width: 300
-    height: 92
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 6875167550331573917}
-  parameterID: -1
-  timeToPause: 0
 --- !u!4 &751562383 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 3}
@@ -13911,7 +13897,7 @@ MonoBehaviour:
   constantID: 127216
   retainInPrefab: 0
   autoManual: 0
-  startState: 1
+  startState: 0
   affectChildren: 0
   saveColour: 0
 --- !u!1 &844256240
@@ -16783,7 +16769,7 @@ MonoBehaviour:
   constantID: 127220
   retainInPrefab: 0
   autoManual: 0
-  startState: 1
+  startState: 0
   affectChildren: 0
   saveColour: 0
 --- !u!1 &1067700135
@@ -17564,7 +17550,7 @@ MonoBehaviour:
   constantID: 127208
   retainInPrefab: 0
   autoManual: 0
-  startState: 1
+  startState: 0
   affectChildren: 0
   saveColour: 0
 --- !u!4 &1111712737 stripped
@@ -23801,7 +23787,7 @@ MonoBehaviour:
   playMode: 0
   animationEngine: 3
   customClassName: 
-  animEngine: {fileID: 2082251315}
+  animEngine: {fileID: 365191835}
 --- !u!1 &1598914058
 GameObject:
   m_ObjectHideFlags: 0
@@ -27783,6 +27769,78 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1819056598}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1826257721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2314b8a5519074a1fadc27b4aa968f97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 0
+    skipAction: -1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 14
+    width: 300
+    height: 192
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 6875167550331573917}
+  parameterID: -1
+  constantID: 0
+  _anim: {fileID: 0}
+  runtimeAnim: {fileID: 0}
+  clip: {fileID: 0}
+  fadeTime: 0
+  clipParameterID: -1
+  _anim2D: {fileID: 0}
+  runtimeAnim2D: {fileID: 0}
+  animator: {fileID: 0}
+  runtimeAnimator: {fileID: 0}
+  clip2D: 
+  clip2DParameterID: -1
+  wrapMode2D: 0
+  layerInt: 0
+  shapeObject: {fileID: 0}
+  runtimeShapeObject: {fileID: 0}
+  shapeKey: 0
+  shapeValue: 0
+  isPlayer: 0
+  methodMecanim: 0
+  mecanimParameterType: 0
+  parameterName: 
+  parameterNameID: -1
+  parameterValue: 0
+  parameterValueParameterID: -1
+  method: 0
+  blendMode: 0
+  playMode: 0
+  animationEngine: 3
+  customClassName: 
+  animEngine: {fileID: 724429701}
 --- !u!1001 &1828336879
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27954,7 +28012,7 @@ MonoBehaviour:
   constantID: 127212
   retainInPrefab: 0
   autoManual: 0
-  startState: 1
+  startState: 0
   affectChildren: 0
   saveColour: 0
 --- !u!4 &1833172052 stripped
@@ -32110,20 +32168,6 @@ MonoBehaviour:
   animationEngine: 3
   customClassName: 
   animEngine: {fileID: 1385651992}
---- !u!114 &2082251315
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1d8fc38712ca94d019e6fe60b1c4a944, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  turningStyle: 1
-  isSpriteBased: 0
 --- !u!114 &2088978315
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33132,7 +33176,7 @@ MonoBehaviour:
   constantID: 127188
   retainInPrefab: 0
   autoManual: 0
-  startState: 1
+  startState: 0
   affectChildren: 0
   saveColour: 0
 --- !u!1001 &2138739131
@@ -39034,8 +39078,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2283037545700473465}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.13899562, y: -0.385143, z: 0.058799546, w: -0.9104327}
-  m_LocalPosition: {x: -0.3603353, y: 0.8759465, z: 8.149668}
+  m_LocalRotation: {x: 0.38992438, y: -0.54025143, z: 0.31076646, w: 0.6778729}
+  m_LocalPosition: {x: -3.1846209, y: 2.0069337, z: 2.6362638}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -47339,7 +47383,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   actions:
-  - {fileID: 741460327}
+  - {fileID: 1826257721}
   isSkippable: 1
   triggerTime: 0
   autosaveAfter: 0
