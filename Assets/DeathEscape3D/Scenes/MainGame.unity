@@ -9115,6 +9115,20 @@ MonoBehaviour:
   mouthClip2D: 
   mouthLayer: 0
   waitTimeOffset: 0
+--- !u!114 &500862126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d8fc38712ca94d019e6fe60b1c4a944, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  turningStyle: 1
+  isSpriteBased: 0
 --- !u!114 &501599434
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12006,6 +12020,78 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 490622, guid: b09e95949a2b3cf489baf6fd2307361e, type: 3}
   m_PrefabInstance: {fileID: 1621730897}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &673217477
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2314b8a5519074a1fadc27b4aa968f97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 1
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 1
+    skipActionActual: {fileID: 1274956552}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 236
+    width: 300
+    height: 212
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 5659490872382079549}
+  parameterID: -1
+  constantID: 0
+  _anim: {fileID: 0}
+  runtimeAnim: {fileID: 0}
+  clip: {fileID: 0}
+  fadeTime: 0
+  clipParameterID: -1
+  _anim2D: {fileID: 0}
+  runtimeAnim2D: {fileID: 0}
+  animator: {fileID: 1709727342}
+  runtimeAnimator: {fileID: 0}
+  clip2D: 
+  clip2DParameterID: -1
+  wrapMode2D: 0
+  layerInt: 0
+  shapeObject: {fileID: 0}
+  runtimeShapeObject: {fileID: 0}
+  shapeKey: 0
+  shapeValue: 0
+  isPlayer: 0
+  methodMecanim: 0
+  mecanimParameterType: 3
+  parameterName: ChangeStat
+  parameterNameID: -1
+  parameterValue: 0
+  parameterValueParameterID: -1
+  method: 0
+  blendMode: 0
+  playMode: 0
+  animationEngine: 3
+  customClassName: 
+  animEngine: {fileID: 500862126}
 --- !u!1001 &675103646
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12987,6 +13073,76 @@ MonoBehaviour:
   compareVariablesConstantID: 0
   placeholderType: 1
   placeholderPopUpLabelDataID: 0
+--- !u!114 &750919666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ae5aff2ad1140a085a9c59cd30723a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 1
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 1
+    skipAction: -1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 20
+    y: 570
+    width: 300
+    height: 152
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 6682342900755355952}
+  parameterID: -1
+  constantID: 0
+  linkedCamera: {fileID: 0}
+  transitionTime: 0.5
+  transitionTimeParameterID: -1
+  fadeCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  returnToLast: 1
 --- !u!4 &751562383 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 3}
@@ -15720,6 +15876,76 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3929ad56bed972f45964b19cb68d5c45, type: 3}
+--- !u!114 &857188015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ae5aff2ad1140a085a9c59cd30723a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 1
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 1
+    skipActionActual: {fileID: 1855866737}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 14
+    width: 300
+    height: 192
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 6682342900755355952}
+  parameterID: -1
+  constantID: 0
+  linkedCamera: {fileID: 4534916473503585585}
+  transitionTime: 0.5
+  transitionTimeParameterID: -1
+  fadeCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  returnToLast: 0
 --- !u!114 &859043255
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22412,6 +22638,66 @@ MonoBehaviour:
   compareVariablesConstantID: 0
   placeholderType: 1
   placeholderPopUpLabelDataID: 0
+--- !u!114 &1274956552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 0
+    skipAction: -1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 478
+    width: 300
+    height: 212
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 5659490872382079549}
+  constantID: 0
+  parameterID: -1
+  messageParameterID: -1
+  isPlayer: 1
+  playerID: -1
+  speaker: {fileID: 0}
+  messageText: Kheili Sefte baz nemishe daresh
+  lineID: -1
+  multiLineIDs: 
+  isBackground: 0
+  noAnimation: 0
+  headClip: {fileID: 0}
+  mouthClip: {fileID: 0}
+  play2DHeadAnim: 0
+  headClip2D: 
+  headLayer: 0
+  play2DMouthAnim: 0
+  mouthClip2D: 
+  mouthLayer: 0
+  waitTimeOffset: 1
 --- !u!4 &1289883936 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 485294, guid: e0419c97f225685458a68669b159f710, type: 3}
@@ -23378,6 +23664,66 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   turningStyle: 1
   isSpriteBased: 0
+--- !u!114 &1342532374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 0
+    skipAction: -1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 17
+    y: 328
+    width: 300
+    height: 212
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 6682342900755355952}
+  constantID: 0
+  parameterID: -1
+  messageParameterID: -1
+  isPlayer: 1
+  playerID: -1
+  speaker: {fileID: 0}
+  messageText: ye maghz tooshe. che chendesh
+  lineID: -1
+  multiLineIDs: 
+  isBackground: 0
+  noAnimation: 0
+  headClip: {fileID: 0}
+  mouthClip: {fileID: 0}
+  play2DHeadAnim: 0
+  headClip2D: 
+  headLayer: 0
+  play2DMouthAnim: 0
+  mouthClip2D: 
+  mouthLayer: 0
+  waitTimeOffset: 0
 --- !u!4 &1349312559 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 463726, guid: e8844f0074e08e146ac42fb5eaeab3db, type: 3}
@@ -24049,6 +24395,76 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 460678, guid: 79646652f63865f4185986c750a93b72, type: 3}
   m_PrefabInstance: {fileID: 1089411306}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1386122282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ae5aff2ad1140a085a9c59cd30723a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 1
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 0
+    skipAction: -1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 720
+    width: 300
+    height: 152
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 5659490872382079549}
+  parameterID: -1
+  constantID: 0
+  linkedCamera: {fileID: 0}
+  transitionTime: 0.5
+  transitionTimeParameterID: -1
+  fadeCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  returnToLast: 1
 --- !u!1 &1388232280
 GameObject:
   m_ObjectHideFlags: 0
@@ -24725,6 +25141,7 @@ Transform:
   - {fileID: 4952921732105851359}
   - {fileID: 2146134795025565803}
   - {fileID: 6966382977391389628}
+  - {fileID: 4534916473509149937}
   m_Father: {fileID: 148429380}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1453386604 stripped
@@ -25157,6 +25574,20 @@ MonoBehaviour:
   playerID: 0
   addToFront: 1
   removeLast: 0
+--- !u!114 &1479939794
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d8fc38712ca94d019e6fe60b1c4a944, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  turningStyle: 1
+  isSpriteBased: 0
 --- !u!114 &1486356918
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28813,9 +29244,6 @@ Transform:
   - {fileID: 1464644687979788820}
   - {fileID: 2237777867509305682}
   - {fileID: 3490770723802155360}
-  - {fileID: 1590101807850551712}
-  - {fileID: 6359874921038234736}
-  - {fileID: 8322026197701794685}
   - {fileID: 6069508839527489696}
   - {fileID: 4090778071671578890}
   - {fileID: 7366437303501852123}
@@ -29369,6 +29797,32 @@ MonoBehaviour:
   animationEngine: 3
   customClassName: 
   animEngine: {fileID: 894896447}
+--- !u!1 &1709727339 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 167236, guid: 759f41d0d03c01c42891d874400f8ffb, type: 3}
+  m_PrefabInstance: {fileID: 1857846158}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1709727342
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709727339}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 82e70dd94c5b8ad4cb7ff3bb38a35ea0, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!114 &1709742608
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29928,6 +30382,76 @@ MonoBehaviour:
   compareVariablesConstantID: 0
   placeholderType: 1
   placeholderPopUpLabelDataID: 0
+--- !u!114 &1733006880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ae5aff2ad1140a085a9c59cd30723a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 1
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 4
+    skipActionActual: {fileID: 673217477}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 14
+    width: 300
+    height: 192
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 5659490872382079549}
+  parameterID: -1
+  constantID: 0
+  linkedCamera: {fileID: 4534916473503585585}
+  transitionTime: 0.5
+  transitionTimeParameterID: -1
+  fadeCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  returnToLast: 0
 --- !u!1 &1733765410
 GameObject:
   m_ObjectHideFlags: 0
@@ -30020,6 +30544,8 @@ Transform:
   - {fileID: 1111619892825567250}
   - {fileID: 6091798134163952090}
   - {fileID: 8293356203467548492}
+  - {fileID: 6682342900745613552}
+  - {fileID: 5659490872372079613}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1737731191
@@ -31363,6 +31889,78 @@ MonoBehaviour:
   mouthClip2D: 
   mouthLayer: 0
   waitTimeOffset: 2
+--- !u!114 &1796784240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2314b8a5519074a1fadc27b4aa968f97, type: 3}
+  m_Name: (Clone)
+  m_EditorClassIdentifier: 
+  id: 1
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 1
+    skipAction: 4
+    skipActionActual: {fileID: 673217477}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 902
+    width: 300
+    height: 192
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 5659490872382079549}
+  parameterID: -1
+  constantID: 0
+  _anim: {fileID: 0}
+  runtimeAnim: {fileID: 0}
+  clip: {fileID: 0}
+  fadeTime: 0
+  clipParameterID: -1
+  _anim2D: {fileID: 0}
+  runtimeAnim2D: {fileID: 0}
+  animator: {fileID: 1709727342}
+  runtimeAnimator: {fileID: 0}
+  clip2D: 
+  clip2DParameterID: -1
+  wrapMode2D: 0
+  layerInt: 0
+  shapeObject: {fileID: 0}
+  runtimeShapeObject: {fileID: 0}
+  shapeKey: 0
+  shapeValue: 0
+  isPlayer: 0
+  methodMecanim: 0
+  mecanimParameterType: 3
+  parameterName: ChangeStat
+  parameterNameID: -1
+  parameterValue: 0
+  parameterValueParameterID: -1
+  method: 0
+  blendMode: 0
+  playMode: 0
+  animationEngine: 3
+  customClassName: 
+  animEngine: {fileID: 1479939794}
 --- !u!114 &1799257282
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32520,6 +33118,66 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   turningStyle: 1
   isSpriteBased: 0
+--- !u!114 &1855866737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed656dc9f403a441f8fe89408c7a7189, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 0
+    skipAction: -1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 0
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 17
+    y: 328
+    width: 300
+    height: 212
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  constantID: 0
+  parameterID: -1
+  messageParameterID: -1
+  isPlayer: 1
+  playerID: -1
+  speaker: {fileID: 0}
+  messageText: ye maghz tooshe. che chendesh
+  lineID: -1
+  multiLineIDs: 
+  isBackground: 0
+  noAnimation: 0
+  headClip: {fileID: 0}
+  mouthClip: {fileID: 0}
+  play2DHeadAnim: 0
+  headClip2D: 
+  headLayer: 0
+  play2DMouthAnim: 0
+  mouthClip2D: 
+  mouthLayer: 0
+  waitTimeOffset: 0
 --- !u!114 &1855976402
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32701,7 +33359,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 438518, guid: 759f41d0d03c01c42891d874400f8ffb, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 438518, guid: 759f41d0d03c01c42891d874400f8ffb, type: 3}
       propertyPath: m_LocalRotation.y
@@ -32709,12 +33367,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 438518, guid: 759f41d0d03c01c42891d874400f8ffb, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 167236, guid: 759f41d0d03c01c42891d874400f8ffb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1709727342}
   m_SourcePrefab: {fileID: 100100000, guid: 759f41d0d03c01c42891d874400f8ffb, type: 3}
 --- !u!114 &1860023616
 MonoBehaviour:
@@ -42140,7 +42801,7 @@ GameObject:
   - component: {fileID: 1464644687982202420}
   - component: {fileID: 1464644687986512852}
   m_Layer: 0
-  m_Name: Small Glass Jar
+  m_Name: Small Glass Jar3
   m_TagString: Untagged
   m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -42369,161 +43030,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &1590101807840399456
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1590101807850644864}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1b7c3ce72f27144c1be5a4a8ce09121d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  interactionSource: 0
-  limitToCamera: {fileID: 6727530949226747339}
-  interactiveBoundary: {fileID: 0}
-  hotspotName: Larg Glass Jar
-  lineID: -1
-  highlight: {fileID: 0}
-  walkToMarker: {fileID: 0}
-  centrePoint: {fileID: 0}
-  centrePointOverrides: 0
-  provideUseInteraction: 0
-  useButton:
-    interaction: {fileID: 0}
-    assetFile: {fileID: 0}
-    customScriptObject: {fileID: 0}
-    customScriptFunction: 
-    isDisabled: 0
-    invID: 0
-    iconID: -1
-    selectItemMode: 0
-    playerAction: 0
-    setProximity: 0
-    proximity: 1
-    faceAfter: 0
-    isBlocking: 0
-    parameterID: -1
-    invParameterID: -1
-  useButtons: []
-  oneClick: 0
-  provideLookInteraction: 0
-  lookButton:
-    interaction: {fileID: 0}
-    assetFile: {fileID: 0}
-    customScriptObject: {fileID: 0}
-    customScriptFunction: 
-    isDisabled: 0
-    invID: 0
-    iconID: -1
-    selectItemMode: 0
-    playerAction: 0
-    setProximity: 0
-    proximity: 1
-    faceAfter: 0
-    isBlocking: 0
-    parameterID: -1
-    invParameterID: -1
-  provideInvInteraction: 0
-  invButtons: []
-  provideUnhandledUseInteraction: 0
-  provideUnhandledInvInteraction: 0
-  unhandledUseButton:
-    interaction: {fileID: 0}
-    assetFile: {fileID: 0}
-    customScriptObject: {fileID: 0}
-    customScriptFunction: 
-    isDisabled: 0
-    invID: 0
-    iconID: -1
-    selectItemMode: 0
-    playerAction: 0
-    setProximity: 0
-    proximity: 1
-    faceAfter: 0
-    isBlocking: 0
-    parameterID: -1
-    invParameterID: -1
-  unhandledInvButton:
-    interaction: {fileID: 0}
-    assetFile: {fileID: 0}
-    customScriptObject: {fileID: 0}
-    customScriptFunction: 
-    isDisabled: 0
-    invID: 0
-    iconID: -1
-    selectItemMode: 0
-    playerAction: 0
-    setProximity: 0
-    proximity: 1
-    faceAfter: 0
-    isBlocking: 0
-    parameterID: -1
-    invParameterID: -1
-  canBeLowerCase: 0
-  drawGizmos: 1
-  lastInteractionIndex: 0
-  displayLineID: -1
-  iconSortingLayer: 
-  iconSortingOrder: 0
-  doubleClickingHotspot: 0
-  playerTurnsHead: 1
---- !u!4 &1590101807850551712
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1590101807850644864}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.8640003, y: 1.8341836, z: 5.8199997}
-  m_LocalScale: {x: 0.2718265, y: 0.33836526, z: 0.2718265}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1661226865}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1590101807850644864
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1590101807850551712}
-  - component: {fileID: 1590101807852834176}
-  - component: {fileID: 1590101807840399456}
-  m_Layer: 0
-  m_Name: Larg Glass Jar
-  m_TagString: Untagged
-  m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!65 &1590101807852834176
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1590101807850644864}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 1
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!82 &1635301027852997270
 AudioSource:
   m_ObjectHideFlags: 0
@@ -44224,7 +44730,7 @@ GameObject:
   - component: {fileID: 2104723123934948880}
   - component: {fileID: 2104723123931689968}
   m_Layer: 0
-  m_Name: Small Glass Jar
+  m_Name: Small Glass Jar0
   m_TagString: Untagged
   m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -44944,7 +45450,7 @@ GameObject:
   - component: {fileID: 2237777867515274610}
   - component: {fileID: 2237777867519064210}
   m_Layer: 0
-  m_Name: Small Glass Jar
+  m_Name: Small Glass Jar4
   m_TagString: Untagged
   m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -47123,7 +47629,7 @@ GameObject:
   - component: {fileID: 3016112561710259854}
   - component: {fileID: 3016112561714856814}
   m_Layer: 0
-  m_Name: Small Glass Jar
+  m_Name: Small Glass Jar2
   m_TagString: Untagged
   m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -66355,7 +66861,7 @@ GameObject:
   - component: {fileID: 3490770723808132416}
   - component: {fileID: 3490770723795132576}
   m_Layer: 0
-  m_Name: Small Glass Jar
+  m_Name: Small Glass Jar5
   m_TagString: Untagged
   m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -68152,7 +68658,7 @@ GameObject:
   - component: {fileID: 4222052886578719969}
   - component: {fileID: 4222052886581948673}
   m_Layer: 0
-  m_Name: Small Glass Jar
+  m_Name: Small Glass Jar1
   m_TagString: Untagged
   m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -69040,6 +69546,107 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1733765411}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4534916473503585585
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4534916473509109969}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1cc433b62dde4f73ba3ce6f0a386147, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetIsPlayer: 1
+  target: {fileID: 0}
+  isDragControlled: 0
+  focalDistance: 10
+  is2D: 0
+--- !u!20 &4534916473508651761
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4534916473509109969}
+  m_Enabled: 0
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0.019607844}
+  m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
+  m_Iso: 200
+  m_ShutterSpeed: 0.005
+  m_Aperture: 16
+  m_FocusDistance: 10
+  m_FocalLength: 50
+  m_BladeCount: 5
+  m_Curvature: {x: 2, y: 11}
+  m_BarrelClipping: 0.25
+  m_Anamorphism: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.01
+  far clip plane: 5
+  field of view: 60
+  orthographic: 0
+  orthographic size: 5
+  m_Depth: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 0
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!1 &4534916473509109969
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4534916473509149937}
+  - component: {fileID: 4534916473508651761}
+  - component: {fileID: 4534916473503585585}
+  m_Layer: 2
+  m_Name: BrainInJarCam
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4534916473509149937
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4534916473509109969}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.101033114, y: 0.56306386, z: -0.069606386, w: -0.8172554}
+  m_LocalPosition: {x: -3.5105968, y: 1.8777893, z: 5.0289106}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1452862532}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &4619475934483134832
 MonoBehaviour:
@@ -72351,6 +72958,69 @@ MonoBehaviour:
   tagID: 0
   syncParamValues: 1
   backupData: []
+--- !u!1 &5659490872371853277
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5659490872372079613}
+  - component: {fileID: 5659490872382079549}
+  m_Layer: 0
+  m_Name: 'Larg Glass Jar: Pick'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5659490872372079613
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5659490872371853277}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1733765411}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5659490872382079549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5659490872371853277}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a1e6413216104fd580c7ce85907039c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 1733006880}
+  - {fileID: 1274956552}
+  - {fileID: 1386122282}
+  - {fileID: 1796784240}
+  - {fileID: 673217477}
+  isSkippable: 1
+  triggerTime: 0
+  autosaveAfter: 0
+  actionListType: 0
+  conversation: {fileID: 0}
+  assetFile: {fileID: 0}
+  source: 0
+  unfreezePauseMenus: 1
+  useParameters: 0
+  parameters: []
+  tagID: 0
+  syncParamValues: 1
+  backupData: []
 --- !u!114 &5660535265323496417
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -73143,8 +73813,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6069508839527857280}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.8480005, y: 1.8341836, z: 5.1590004}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.848001, y: 1.834184, z: 5.159}
   m_LocalScale: {x: 0.3563498, y: 0.33836526, z: 0.3563498}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -73210,7 +73880,7 @@ MonoBehaviour:
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
   centrePointOverrides: 0
-  provideUseInteraction: 0
+  provideUseInteraction: 1
   useButton:
     interaction: {fileID: 0}
     assetFile: {fileID: 0}
@@ -73227,7 +73897,37 @@ MonoBehaviour:
     isBlocking: 0
     parameterID: -1
     invParameterID: -1
-  useButtons: []
+  useButtons:
+  - interaction: {fileID: 6682342900755355952}
+    assetFile: {fileID: 0}
+    customScriptObject: {fileID: 0}
+    customScriptFunction: 
+    isDisabled: 0
+    invID: 0
+    iconID: 2
+    selectItemMode: 0
+    playerAction: 1
+    setProximity: 0
+    proximity: 1
+    faceAfter: 0
+    isBlocking: 0
+    parameterID: -1
+    invParameterID: -1
+  - interaction: {fileID: 5659490872382079549}
+    assetFile: {fileID: 0}
+    customScriptObject: {fileID: 0}
+    customScriptFunction: 
+    isDisabled: 0
+    invID: 0
+    iconID: 3
+    selectItemMode: 0
+    playerAction: 0
+    setProximity: 0
+    proximity: 1
+    faceAfter: 0
+    isBlocking: 0
+    parameterID: -1
+    invParameterID: -1
   oneClick: 0
   provideLookInteraction: 0
   lookButton:
@@ -73901,161 +74601,6 @@ MonoBehaviour:
   iconSortingOrder: 0
   doubleClickingHotspot: 0
   playerTurnsHead: 1
---- !u!65 &6359874921031757904
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6359874921037944912}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 1
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!1 &6359874921037944912
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 6359874921038234736}
-  - component: {fileID: 6359874921031757904}
-  - component: {fileID: 6359874921045011888}
-  m_Layer: 0
-  m_Name: Larg Glass Jar
-  m_TagString: Untagged
-  m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &6359874921038234736
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6359874921037944912}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.8640003, y: 1.8341836, z: 5.498}
-  m_LocalScale: {x: 0.2718265, y: 0.33836526, z: 0.2718265}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1661226865}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6359874921045011888
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6359874921037944912}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1b7c3ce72f27144c1be5a4a8ce09121d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  interactionSource: 0
-  limitToCamera: {fileID: 6727530949226747339}
-  interactiveBoundary: {fileID: 0}
-  hotspotName: Larg Glass Jar
-  lineID: -1
-  highlight: {fileID: 0}
-  walkToMarker: {fileID: 0}
-  centrePoint: {fileID: 0}
-  centrePointOverrides: 0
-  provideUseInteraction: 0
-  useButton:
-    interaction: {fileID: 0}
-    assetFile: {fileID: 0}
-    customScriptObject: {fileID: 0}
-    customScriptFunction: 
-    isDisabled: 0
-    invID: 0
-    iconID: -1
-    selectItemMode: 0
-    playerAction: 0
-    setProximity: 0
-    proximity: 1
-    faceAfter: 0
-    isBlocking: 0
-    parameterID: -1
-    invParameterID: -1
-  useButtons: []
-  oneClick: 0
-  provideLookInteraction: 0
-  lookButton:
-    interaction: {fileID: 0}
-    assetFile: {fileID: 0}
-    customScriptObject: {fileID: 0}
-    customScriptFunction: 
-    isDisabled: 0
-    invID: 0
-    iconID: -1
-    selectItemMode: 0
-    playerAction: 0
-    setProximity: 0
-    proximity: 1
-    faceAfter: 0
-    isBlocking: 0
-    parameterID: -1
-    invParameterID: -1
-  provideInvInteraction: 0
-  invButtons: []
-  provideUnhandledUseInteraction: 0
-  provideUnhandledInvInteraction: 0
-  unhandledUseButton:
-    interaction: {fileID: 0}
-    assetFile: {fileID: 0}
-    customScriptObject: {fileID: 0}
-    customScriptFunction: 
-    isDisabled: 0
-    invID: 0
-    iconID: -1
-    selectItemMode: 0
-    playerAction: 0
-    setProximity: 0
-    proximity: 1
-    faceAfter: 0
-    isBlocking: 0
-    parameterID: -1
-    invParameterID: -1
-  unhandledInvButton:
-    interaction: {fileID: 0}
-    assetFile: {fileID: 0}
-    customScriptObject: {fileID: 0}
-    customScriptFunction: 
-    isDisabled: 0
-    invID: 0
-    iconID: -1
-    selectItemMode: 0
-    playerAction: 0
-    setProximity: 0
-    proximity: 1
-    faceAfter: 0
-    isBlocking: 0
-    parameterID: -1
-    invParameterID: -1
-  canBeLowerCase: 0
-  drawGizmos: 1
-  lastInteractionIndex: 0
-  displayLineID: -1
-  iconSortingLayer: 
-  iconSortingOrder: 0
-  doubleClickingHotspot: 0
-  playerTurnsHead: 1
 --- !u!1001 &6409268913065993620
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -74066,7 +74611,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6518270614757572169, guid: 8a629ef365eafbe458fbcc6153daec4e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -2.53
       objectReference: {fileID: 0}
     - target: {fileID: 6518270614757572169, guid: 8a629ef365eafbe458fbcc6153daec4e, type: 3}
       propertyPath: m_LocalPosition.y
@@ -74074,23 +74619,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6518270614757572169, guid: 8a629ef365eafbe458fbcc6153daec4e, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 6.04
       objectReference: {fileID: 0}
     - target: {fileID: 6518270614757572169, guid: 8a629ef365eafbe458fbcc6153daec4e, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.5699712
       objectReference: {fileID: 0}
     - target: {fileID: 6518270614757572169, guid: 8a629ef365eafbe458fbcc6153daec4e, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 6518270614757572169, guid: 8a629ef365eafbe458fbcc6153daec4e, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0.8216647
       objectReference: {fileID: 0}
     - target: {fileID: 6518270614757572169, guid: 8a629ef365eafbe458fbcc6153daec4e, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 6518270614757572169, guid: 8a629ef365eafbe458fbcc6153daec4e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -74098,7 +74643,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6518270614757572169, guid: 8a629ef365eafbe458fbcc6153daec4e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: -110.504
       objectReference: {fileID: 0}
     - target: {fileID: 6518270614757572169, guid: 8a629ef365eafbe458fbcc6153daec4e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -74389,6 +74934,67 @@ MonoBehaviour:
   constantID: 76688
   retainInPrefab: 0
   autoManual: 0
+--- !u!4 &6682342900745613552
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6682342900745645264}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1733765411}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6682342900745645264
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6682342900745613552}
+  - component: {fileID: 6682342900755355952}
+  m_Layer: 0
+  m_Name: 'Larg Glass Jar: Look at'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &6682342900755355952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6682342900745645264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a1e6413216104fd580c7ce85907039c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 857188015}
+  - {fileID: 1342532374}
+  - {fileID: 750919666}
+  isSkippable: 1
+  triggerTime: 0
+  autosaveAfter: 0
+  actionListType: 0
+  conversation: {fileID: 0}
+  assetFile: {fileID: 0}
+  source: 0
+  unfreezePauseMenus: 1
+  useParameters: 0
+  parameters: []
+  tagID: 0
+  syncParamValues: 1
+  backupData: []
 --- !u!1 &6705985558934480875
 GameObject:
   m_ObjectHideFlags: 0
@@ -77086,161 +77692,6 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
---- !u!114 &8322026197695951549
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8322026197701953373}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1b7c3ce72f27144c1be5a4a8ce09121d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  interactionSource: 0
-  limitToCamera: {fileID: 6727530949226747339}
-  interactiveBoundary: {fileID: 0}
-  hotspotName: Larg Glass Jar
-  lineID: -1
-  highlight: {fileID: 0}
-  walkToMarker: {fileID: 0}
-  centrePoint: {fileID: 0}
-  centrePointOverrides: 0
-  provideUseInteraction: 0
-  useButton:
-    interaction: {fileID: 0}
-    assetFile: {fileID: 0}
-    customScriptObject: {fileID: 0}
-    customScriptFunction: 
-    isDisabled: 0
-    invID: 0
-    iconID: -1
-    selectItemMode: 0
-    playerAction: 0
-    setProximity: 0
-    proximity: 1
-    faceAfter: 0
-    isBlocking: 0
-    parameterID: -1
-    invParameterID: -1
-  useButtons: []
-  oneClick: 0
-  provideLookInteraction: 0
-  lookButton:
-    interaction: {fileID: 0}
-    assetFile: {fileID: 0}
-    customScriptObject: {fileID: 0}
-    customScriptFunction: 
-    isDisabled: 0
-    invID: 0
-    iconID: -1
-    selectItemMode: 0
-    playerAction: 0
-    setProximity: 0
-    proximity: 1
-    faceAfter: 0
-    isBlocking: 0
-    parameterID: -1
-    invParameterID: -1
-  provideInvInteraction: 0
-  invButtons: []
-  provideUnhandledUseInteraction: 0
-  provideUnhandledInvInteraction: 0
-  unhandledUseButton:
-    interaction: {fileID: 0}
-    assetFile: {fileID: 0}
-    customScriptObject: {fileID: 0}
-    customScriptFunction: 
-    isDisabled: 0
-    invID: 0
-    iconID: -1
-    selectItemMode: 0
-    playerAction: 0
-    setProximity: 0
-    proximity: 1
-    faceAfter: 0
-    isBlocking: 0
-    parameterID: -1
-    invParameterID: -1
-  unhandledInvButton:
-    interaction: {fileID: 0}
-    assetFile: {fileID: 0}
-    customScriptObject: {fileID: 0}
-    customScriptFunction: 
-    isDisabled: 0
-    invID: 0
-    iconID: -1
-    selectItemMode: 0
-    playerAction: 0
-    setProximity: 0
-    proximity: 1
-    faceAfter: 0
-    isBlocking: 0
-    parameterID: -1
-    invParameterID: -1
-  canBeLowerCase: 0
-  drawGizmos: 1
-  lastInteractionIndex: 0
-  displayLineID: -1
-  iconSortingLayer: 
-  iconSortingOrder: 0
-  doubleClickingHotspot: 0
-  playerTurnsHead: 1
---- !u!4 &8322026197701794685
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8322026197701953373}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.8452482, y: 1.8341321, z: 4.799614}
-  m_LocalScale: {x: 0.34746498, y: 0.33836526, z: 0.34746498}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1661226865}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &8322026197701953373
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 8322026197701794685}
-  - component: {fileID: 8322026197708418909}
-  - component: {fileID: 8322026197695951549}
-  m_Layer: 0
-  m_Name: Larg Glass Jar
-  m_TagString: Untagged
-  m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!65 &8322026197708418909
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8322026197701953373}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 1
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &8322775500543898845
 Transform:
   m_ObjectHideFlags: 0
