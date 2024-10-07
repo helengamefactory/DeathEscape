@@ -456,7 +456,7 @@ MonoBehaviour:
   - label: CompleteBrain
     id: 8
     altLabel: Whole Brain
-    carryOnStart: 1
+    carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -511,12 +511,12 @@ MonoBehaviour:
   - label: SmallBrains
     id: 9
     altLabel: Samll Pieces of Brain
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
     canCarryMultiple: 1
-    count: 1
+    count: 4
     canBeLowerCase: 1
     maxCount: 4
     itemStackingMode: 1
@@ -621,7 +621,7 @@ MonoBehaviour:
   - label: Sciesors
     id: 11
     altLabel: 
-    carryOnStart: 1
+    carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -676,7 +676,7 @@ MonoBehaviour:
   - label: Scalp
     id: 12
     altLabel: 
-    carryOnStart: 1
+    carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
