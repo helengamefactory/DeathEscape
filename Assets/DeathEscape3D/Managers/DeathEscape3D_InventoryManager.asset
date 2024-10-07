@@ -104,15 +104,15 @@ MonoBehaviour:
     lineID: -1
     useIconID: 0
     binID: -1
-    overrideUseSyntax: 0
+    overrideUseSyntax: 1
     hotspotPrefix1:
-      label: Use
+      label: Pour
       lineID: -1
     hotspotPrefix2:
-      label: on
+      label: Into
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: f42aa00dbf74dbc48abca9330ee0cb2b, type: 2}
     interactions: []
     combineInteractions: []
     combineActionList: []
@@ -159,15 +159,15 @@ MonoBehaviour:
     lineID: -1
     useIconID: 0
     binID: -1
-    overrideUseSyntax: 0
+    overrideUseSyntax: 1
     hotspotPrefix1:
-      label: Use
+      label: Pour
       lineID: -1
     hotspotPrefix2:
-      label: on
+      label: Into
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: f42aa00dbf74dbc48abca9330ee0cb2b, type: 2}
     interactions: []
     combineInteractions: []
     combineActionList: []
@@ -214,15 +214,15 @@ MonoBehaviour:
     lineID: -1
     useIconID: 0
     binID: -1
-    overrideUseSyntax: 0
+    overrideUseSyntax: 1
     hotspotPrefix1:
-      label: Use
+      label: Pour
       lineID: -1
     hotspotPrefix2:
-      label: on
+      label: Into
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: f42aa00dbf74dbc48abca9330ee0cb2b, type: 2}
     interactions: []
     combineInteractions: []
     combineActionList: []
@@ -269,15 +269,15 @@ MonoBehaviour:
     lineID: -1
     useIconID: 0
     binID: -1
-    overrideUseSyntax: 0
+    overrideUseSyntax: 1
     hotspotPrefix1:
-      label: Use
+      label: Pour
       lineID: -1
     hotspotPrefix2:
-      label: on
+      label: Into
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: f42aa00dbf74dbc48abca9330ee0cb2b, type: 2}
     interactions: []
     combineInteractions: []
     combineActionList: []
@@ -324,15 +324,15 @@ MonoBehaviour:
     lineID: -1
     useIconID: 0
     binID: -1
-    overrideUseSyntax: 0
+    overrideUseSyntax: 1
     hotspotPrefix1:
-      label: Use
+      label: Pour
       lineID: -1
     hotspotPrefix2:
-      label: on
+      label: Into
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: f42aa00dbf74dbc48abca9330ee0cb2b, type: 2}
     interactions: []
     combineInteractions: []
     combineActionList: []
@@ -379,15 +379,15 @@ MonoBehaviour:
     lineID: -1
     useIconID: 0
     binID: -1
-    overrideUseSyntax: 0
+    overrideUseSyntax: 1
     hotspotPrefix1:
-      label: Use
+      label: Pour
       lineID: -1
     hotspotPrefix2:
-      label: on
+      label: Into
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: f42aa00dbf74dbc48abca9330ee0cb2b, type: 2}
     interactions: []
     combineInteractions: []
     combineActionList: []
@@ -434,15 +434,15 @@ MonoBehaviour:
     lineID: -1
     useIconID: 0
     binID: -1
-    overrideUseSyntax: 0
+    overrideUseSyntax: 1
     hotspotPrefix1:
-      label: Use
+      label: Pour
       lineID: -1
     hotspotPrefix2:
-      label: on
+      label: Into
       lineID: -1
     useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
+    lookActionList: {fileID: 11400000, guid: f42aa00dbf74dbc48abca9330ee0cb2b, type: 2}
     interactions: []
     combineInteractions: []
     combineActionList: []
@@ -869,7 +869,7 @@ MonoBehaviour:
   - label: RedPot
     id: 15
     altLabel: Red Pot
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -902,12 +902,12 @@ MonoBehaviour:
     lineID: -1
     useIconID: 0
     binID: -1
-    overrideUseSyntax: 0
+    overrideUseSyntax: 1
     hotspotPrefix1:
-      label: Use
+      label: Pour
       lineID: -1
     hotspotPrefix2:
-      label: on
+      label: Into
       lineID: -1
     useActionList: {fileID: 0}
     lookActionList: {fileID: 0}
@@ -924,7 +924,7 @@ MonoBehaviour:
   - label: GreenPot
     id: 16
     altLabel: Green Pot
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -957,12 +957,12 @@ MonoBehaviour:
     lineID: -1
     useIconID: 0
     binID: -1
-    overrideUseSyntax: 0
+    overrideUseSyntax: 1
     hotspotPrefix1:
-      label: Use
+      label: Pour
       lineID: -1
     hotspotPrefix2:
-      label: on
+      label: Into
       lineID: -1
     useActionList: {fileID: 0}
     lookActionList: {fileID: 0}
@@ -979,7 +979,7 @@ MonoBehaviour:
   - label: Orange Pot
     id: 17
     altLabel: Orange Pot
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -1012,12 +1012,12 @@ MonoBehaviour:
     lineID: -1
     useIconID: 0
     binID: -1
-    overrideUseSyntax: 0
+    overrideUseSyntax: 1
     hotspotPrefix1:
-      label: Use
+      label: Pour
       lineID: -1
     hotspotPrefix2:
-      label: on
+      label: Into
       lineID: -1
     useActionList: {fileID: 0}
     lookActionList: {fileID: 0}
@@ -1034,7 +1034,7 @@ MonoBehaviour:
   - label: Yellow Pot
     id: 18
     altLabel: Yellow Pot
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -1067,12 +1067,12 @@ MonoBehaviour:
     lineID: -1
     useIconID: 0
     binID: -1
-    overrideUseSyntax: 0
+    overrideUseSyntax: 1
     hotspotPrefix1:
-      label: Use
+      label: Pour
       lineID: -1
     hotspotPrefix2:
-      label: on
+      label: Into
       lineID: -1
     useActionList: {fileID: 0}
     lookActionList: {fileID: 0}
@@ -1089,7 +1089,7 @@ MonoBehaviour:
   - label: Blue Pot
     id: 19
     altLabel: Blue Pot
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -1122,12 +1122,12 @@ MonoBehaviour:
     lineID: -1
     useIconID: 0
     binID: -1
-    overrideUseSyntax: 0
+    overrideUseSyntax: 1
     hotspotPrefix1:
-      label: Use
+      label: Pour
       lineID: -1
     hotspotPrefix2:
-      label: on
+      label: Into
       lineID: -1
     useActionList: {fileID: 0}
     lookActionList: {fileID: 0}
@@ -1144,7 +1144,7 @@ MonoBehaviour:
   - label: Indigo Pot
     id: 20
     altLabel: Indigo Pot
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -1177,12 +1177,12 @@ MonoBehaviour:
     lineID: -1
     useIconID: 0
     binID: -1
-    overrideUseSyntax: 0
+    overrideUseSyntax: 1
     hotspotPrefix1:
-      label: Use
+      label: Pour
       lineID: -1
     hotspotPrefix2:
-      label: on
+      label: Into
       lineID: -1
     useActionList: {fileID: 0}
     lookActionList: {fileID: 0}
@@ -1199,7 +1199,7 @@ MonoBehaviour:
   - label: Violet Pot
     id: 21
     altLabel: Violet Pot
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -1232,12 +1232,12 @@ MonoBehaviour:
     lineID: -1
     useIconID: 0
     binID: -1
-    overrideUseSyntax: 0
+    overrideUseSyntax: 1
     hotspotPrefix1:
-      label: Use
+      label: Pour
       lineID: -1
     hotspotPrefix2:
-      label: on
+      label: Into
       lineID: -1
     useActionList: {fileID: 0}
     lookActionList: {fileID: 0}
