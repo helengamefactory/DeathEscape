@@ -130,7 +130,7 @@ MonoBehaviour:
   - label: IsTapTurnedOn
     id: 6
     type: 0
-    val: 0
+    val: 1
     floatVal: 0
     textVal: 
     gameObjectVal: {fileID: 0}
@@ -179,4 +179,4 @@ MonoBehaviour:
     - 5
     lineID: -1
     canTranslate: 0
-  scrollPos: {x: 0, y: 144}
+  scrollPos: {x: 0, y: 165}

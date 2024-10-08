@@ -71,7 +71,7 @@ MonoBehaviour:
   - label: IndigoSack
     id: 1
     altLabel: Indigo Color Sack
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -126,7 +126,7 @@ MonoBehaviour:
   - label: BlueSack
     id: 2
     altLabel: Blue Color Sack
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -181,7 +181,7 @@ MonoBehaviour:
   - label: GreenSack
     id: 3
     altLabel: Green Color Sack
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -236,7 +236,7 @@ MonoBehaviour:
   - label: YellowSack
     id: 4
     altLabel: Yellow Color Sack
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -291,7 +291,7 @@ MonoBehaviour:
   - label: VioletSack
     id: 5
     altLabel: Violet Color Sack
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -346,7 +346,7 @@ MonoBehaviour:
   - label: OrangeSack
     id: 6
     altLabel: Orange Color Sack
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -401,7 +401,7 @@ MonoBehaviour:
   - label: RedSack
     id: 7
     altLabel: Red Color Sack
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -731,7 +731,7 @@ MonoBehaviour:
   - label: FullPot
     id: 13
     altLabel: Full Pot
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -821,8 +821,8 @@ MonoBehaviour:
     canCarryMultiple: 0
     count: 1
     canBeLowerCase: 0
-    maxCount: 999
-    itemStackingMode: 0
+    maxCount: 2
+    itemStackingMode: 1
     tex: {fileID: 0}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
@@ -869,7 +869,7 @@ MonoBehaviour:
   - label: RedPot
     id: 15
     altLabel: Red Pot
-    carryOnStart: 1
+    carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -924,7 +924,7 @@ MonoBehaviour:
   - label: GreenPot
     id: 16
     altLabel: Green Pot
-    carryOnStart: 1
+    carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -979,7 +979,7 @@ MonoBehaviour:
   - label: Orange Pot
     id: 17
     altLabel: Orange Pot
-    carryOnStart: 1
+    carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -1034,7 +1034,7 @@ MonoBehaviour:
   - label: Yellow Pot
     id: 18
     altLabel: Yellow Pot
-    carryOnStart: 1
+    carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -1089,7 +1089,7 @@ MonoBehaviour:
   - label: Blue Pot
     id: 19
     altLabel: Blue Pot
-    carryOnStart: 1
+    carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -1144,7 +1144,7 @@ MonoBehaviour:
   - label: Indigo Pot
     id: 20
     altLabel: Indigo Pot
-    carryOnStart: 1
+    carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -1199,7 +1199,7 @@ MonoBehaviour:
   - label: Violet Pot
     id: 21
     altLabel: Violet Pot
-    carryOnStart: 1
+    carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
