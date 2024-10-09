@@ -14,7 +14,7 @@ public class TimlyAnimatorChanger : MonoBehaviour
     [SerializeField] float _interval;
     [SerializeField] bool _isEnabled = true;
     [SerializeField] bool _setOnStart = true;
-    void Start()
+    void OnEnable()
     {
         _anim = GetComponent<Animator>();
         _parameterCurrentValue = _parameterMinValue;
@@ -26,6 +26,7 @@ public class TimlyAnimatorChanger : MonoBehaviour
         }
         StartCoroutine(_changeValue());
     }
+    
     IEnumerator _changeValue()
     {
         while (_isEnabled)
@@ -36,6 +37,7 @@ public class TimlyAnimatorChanger : MonoBehaviour
 
         }
     }
+    
     void _setParameter()
     {
         _anim.SetFloat(_parameterName, _parameterCurrentValue);
