@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/DeathEscape3D/Scenes/TitleScreen.unity
+    guid: 210cf0a1a20785e4a84adbfcfa6c1faa
+  - enabled: 1
     path: Assets/DeathEscape3D/Scenes/MainGame.unity
     guid: bd5b75fa99cc75d47a0729c12e1f7f7d
+  - enabled: 1
+    path: Assets/DeathEscape3D/Scenes/EndCast.unity
+    guid: 849e575304d5b0540ab967566e191e4a
   m_configObjects: {}
