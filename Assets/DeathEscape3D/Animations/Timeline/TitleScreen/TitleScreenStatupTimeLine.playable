@@ -22,10 +22,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 2.5
+    m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: 2656690428095075159}
-    m_Duration: 4.9
+    m_Duration: 2.183333333333333
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6680418625358191800}
     m_EaseInDuration: 0
@@ -91,10 +91,10 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: Man nemikham bemiram ....
   - m_Version: 1
-    m_Start: 9.4
+    m_Start: 2.8833333333333333
     m_ClipIn: 0
     m_Asset: {fileID: -6317881412649643928}
-    m_Duration: 1.6500000000000004
+    m_Duration: 4.033333333333333
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6680418625358191800}
     m_EaseInDuration: 0
@@ -169,7 +169,7 @@ MonoBehaviour:
   playerID: -1
   speakerObject: {fileID: 0}
   speakerConstantID: 0
-  playbackMode: 0
+  playbackMode: 1
 --- !u!114 &-6317881412649643928
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -192,8 +192,8 @@ MonoBehaviour:
       Khodaaaa
 
 '
-  speechTrackPlaybackMode: 0
-  trackInstanceID: -496896
+  speechTrackPlaybackMode: 1
+  trackInstanceID: 21326
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -233,5 +233,5 @@ MonoBehaviour:
   speechPlayableData:
     lineID: -1
     messageText: Man nemikham bemiram ....
-  speechTrackPlaybackMode: 0
-  trackInstanceID: -496896
+  speechTrackPlaybackMode: 1
+  trackInstanceID: 21326
