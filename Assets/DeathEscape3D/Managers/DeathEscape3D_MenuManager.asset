@@ -1324,8 +1324,8 @@ MonoBehaviour:
   showWhenPaused: 0
   canClickInCutscene: 0
   enabledOnStart: 0
-  actionListOnTurnOn: {fileID: 0}
-  actionListOnTurnOff: {fileID: 0}
+  actionListOnTurnOn: {fileID: 11400000, guid: 44f21d4c59a65e74fb7d06ca5bc9189d, type: 2}
+  actionListOnTurnOff: {fileID: 11400000, guid: 7eea9486ec5478e418780d5edfc9805d, type: 2}
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
@@ -2414,8 +2414,8 @@ MonoBehaviour:
   showWhenPaused: 0
   canClickInCutscene: 0
   enabledOnStart: 0
-  actionListOnTurnOn: {fileID: 0}
-  actionListOnTurnOff: {fileID: 0}
+  actionListOnTurnOn: {fileID: 11400000, guid: 579141d21dd983a4cbb95bec0d98a6e2, type: 2}
+  actionListOnTurnOff: {fileID: 11400000, guid: a9b11786a48370a4ead0096fd5d53468, type: 2}
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
@@ -2551,6 +2551,109 @@ MonoBehaviour:
   autoCreate: 1
   inventoryItemCountDisplay: 0
   containerSelectMode: 1
+--- !u!114 &-3092700952767042831
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5f455f0e4a864975bf60bc153fbe20d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  menuSource: 0
+  canvas: {fileID: 0}
+  canvasID: 0
+  rectTransform: {fileID: 0}
+  rectTransformID: 0
+  uiTransitionType: 0
+  uiPositionType: 0
+  _isLocked: 0
+  id: 19
+  title: CutSceneMenu
+  manualSize: {x: 100, y: 100}
+  positionType: 0
+  manualPosition: {x: 528, y: 240}
+  positionSmoothing: 0
+  alignment: 4
+  toggleKey: 
+  ignoreMouseClicks: 0
+  pauseWhenEnabled: 0
+  showWhenPaused: 0
+  canClickInCutscene: 0
+  enabledOnStart: 0
+  actionListOnTurnOn: {fileID: 11400000, guid: 0be32911437562d4290b14e683d3a1e3, type: 2}
+  actionListOnTurnOff: {fileID: 11400000, guid: ed6d7a5a8c7c73d408886d8b5d5ff625, type: 2}
+  updateWhenFadeOut: 1
+  hideDuringSaveScreenshots: 1
+  fitWithinScreen: 1
+  backgroundTexture: {fileID: 0}
+  visibleElements:
+  - {fileID: 888926506044748167}
+  - {fileID: 5155373565046684256}
+  transitionProgress: 0
+  appearType: 10
+  speechMenuType: 0
+  speechMenuLimit: 0
+  limitToCharacters: 
+  forceSubtitles: 0
+  moveWithCharacter: 1
+  selected_element: {fileID: 0}
+  selected_slot: 0
+  autoSelectFirstVisibleElement: 0
+  firstSelectedElement: 
+  elements:
+  - {fileID: 888926506044748167}
+  - {fileID: 5155373565046684256}
+  spacing: 0.5
+  sizeType: 1
+  autoSizeEveryFrame: 0
+  orientation: 1
+  transitionType: 4
+  panDirection: 0
+  panMovement: 0
+  timeCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panDistance: 0.5
+  fadeSpeed: 0
+  zoomAnchor: 4
+  zoomElements: 0
+  oneMenuPerSpeech: 0
+  speechProximityLimit: 0
+  speechProximityDistance: 10
+  deleteUIWhenTurnOff: 0
+  biggestElementSize: {x: 7.28, y: 7.28}
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1056
+    height: 480
+  showInFilter: 1
 --- !u!114 &-3026784243091424158
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3014,7 +3117,7 @@ MonoBehaviour:
   _isLocked: 0
   id: 12
   title: Pause
-  manualSize: {x: 17, y: 31.599998}
+  manualSize: {x: 17, y: 19.4}
   positionType: 0
   manualPosition: {x: 528, y: 240}
   positionSmoothing: 0
@@ -3026,7 +3129,7 @@ MonoBehaviour:
   canClickInCutscene: 0
   enabledOnStart: 0
   actionListOnTurnOn: {fileID: 11400000, guid: c6e29f6ea3d084d049c474742119836c, type: 2}
-  actionListOnTurnOff: {fileID: 0}
+  actionListOnTurnOff: {fileID: 11400000, guid: 6230f1528f53f9a43891a70a80ebeb8c, type: 2}
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
@@ -3034,8 +3137,6 @@ MonoBehaviour:
   visibleElements:
   - {fileID: 1661021797063010418}
   - {fileID: -2629644097135478389}
-  - {fileID: 5904333263648234343}
-  - {fileID: 1043093648439338829}
   - {fileID: 6737470743322959975}
   transitionProgress: 0
   appearType: 3
@@ -3093,13 +3194,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 174.24, y: 146.4}
+  biggestElementSize: {x: 174.24, y: 87.84}
   rect:
     serializedVersion: 2
     x: 438.24
-    y: 164.16
+    y: 193.44
     width: 179.52
-    height: 151.68
+    height: 93.119995
   showInFilter: 1
 --- !u!114 &-2011889074673794730
 MonoBehaviour:
@@ -3869,7 +3970,7 @@ MonoBehaviour:
   title: Interaction
   manualSize: {x: 27.9, y: 16.9}
   positionType: 2
-  manualPosition: {x: 85, y: 71}
+  manualPosition: {x: 50, y: 50}
   positionSmoothing: 0
   alignment: 2
   toggleKey: 
@@ -3949,8 +4050,8 @@ MonoBehaviour:
   biggestElementSize: {x: 142.256, y: 34.8512}
   rect:
     serializedVersion: 2
-    x: 750.288
-    y: 300.24
+    x: 380.688
+    y: 199.44
     width: 294.624
     height: 81.12
   showInFilter: 1
@@ -4048,6 +4149,7 @@ MonoBehaviour:
   - {fileID: 1559421555737136610}
   - {fileID: 6384638960552920436}
   - {fileID: -2375674716339920617}
+  - {fileID: -3092700952767042831}
   globalDepth: 0
   pauseTexture: {fileID: 0}
   scaleTextEffects: 0
@@ -4333,6 +4435,68 @@ MonoBehaviour:
   inventoryPropertyType: 0
   selectedObjectiveLabelType: 0
   itemSlotNumber: 0
+--- !u!114 &888926506044748167
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 611a3370e9fc74eebbb277d7159c4851, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ID: 0
+  title: TopDark
+  slotSize: {x: 100, y: 5}
+  sizeType: 1
+  positionType: 2
+  slotSpacing: 0
+  lineID: -1
+  alternativeInputButton: 
+  font: {fileID: 0}
+  fontScaleFactor: 2
+  fontColor: {r: 1, g: 1, b: 1, a: 1}
+  fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
+  isVisible: 1
+  isClickable: 0
+  orientation: 1
+  gridWidth: 3
+  backgroundTexture: {fileID: 0}
+  singleSlotBackgrounds: 0
+  highlightTexture: {fileID: 0}
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 0}
+  changeCursor: 0
+  cursorID: 0
+  linkedUiID: 0
+  maxAutoWidthFactor: 0.5
+  relativeRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1056
+    height: 24
+  relativePosition: {x: 0, y: 0}
+  numSlots: 1
+  uiImage: {fileID: 0}
+  graphicType: 0
+  graphic:
+    texture: {fileID: 2800000, guid: 2de7d16b4ac4b402182d4f2ca40e0b2d, type: 3}
+    isAnimated: 0
+    numFrames: 1
+    numRows: 1
+    numCols: 1
+    size: 0.015
+    animSpeed: 4
+    endAnimOnLastFrame: 0
+    skipFirstFrameWhenLooping: 0
+    clickOffset: {x: 0, y: 0}
+    frameSpeeds: []
+    alwaysAnimate: 0
+  uiRawImage: {fileID: 0}
+  uiImageType: 0
 --- !u!114 &1043093648439338829
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -4357,7 +4521,7 @@ MonoBehaviour:
   fontScaleFactor: 2
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
-  isVisible: 1
+  isVisible: 0
   isClickable: 1
   orientation: 0
   gridWidth: 3
@@ -4373,7 +4537,7 @@ MonoBehaviour:
   relativeRect:
     serializedVersion: 2
     x: 5.28
-    y: 93.12
+    y: 63.84
     width: 168.96
     height: 24
   relativePosition: {x: 0, y: 0}
@@ -4751,8 +4915,8 @@ MonoBehaviour:
   showWhenPaused: 0
   canClickInCutscene: 0
   enabledOnStart: 0
-  actionListOnTurnOn: {fileID: 0}
-  actionListOnTurnOff: {fileID: 0}
+  actionListOnTurnOn: {fileID: 11400000, guid: 4396eea5fba619a429a83f4dfe24a256, type: 2}
+  actionListOnTurnOff: {fileID: 11400000, guid: 321d3fb9672ca0744a1220e855e1eea0, type: 2}
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
@@ -5819,7 +5983,7 @@ MonoBehaviour:
   lineID: -1
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
-  fontScaleFactor: 2
+  fontScaleFactor: 2.5
   fontColor: {r: 0.7076935, g: 1, b: 0.5990566, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
@@ -5837,8 +6001,8 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 7.6032004
-    y: 7.6032004
+    x: 5.808
+    y: 5.808
     width: 591.36005
     height: 57.600002
   relativePosition: {x: 0, y: 0}
@@ -6228,6 +6392,68 @@ MonoBehaviour:
   graphicType: 3
   graphic:
     texture: {fileID: 0}
+    isAnimated: 0
+    numFrames: 1
+    numRows: 1
+    numCols: 1
+    size: 0.015
+    animSpeed: 4
+    endAnimOnLastFrame: 0
+    skipFirstFrameWhenLooping: 0
+    clickOffset: {x: 0, y: 0}
+    frameSpeeds: []
+    alwaysAnimate: 0
+  uiRawImage: {fileID: 0}
+  uiImageType: 0
+--- !u!114 &5155373565046684256
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 611a3370e9fc74eebbb277d7159c4851, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ID: 1
+  title: ButtomDark
+  slotSize: {x: 100, y: 5}
+  sizeType: 1
+  positionType: 2
+  slotSpacing: 0
+  lineID: -1
+  alternativeInputButton: 
+  font: {fileID: 0}
+  fontScaleFactor: 2
+  fontColor: {r: 1, g: 1, b: 1, a: 1}
+  fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
+  isVisible: 1
+  isClickable: 0
+  orientation: 1
+  gridWidth: 3
+  backgroundTexture: {fileID: 0}
+  singleSlotBackgrounds: 0
+  highlightTexture: {fileID: 0}
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 0}
+  changeCursor: 0
+  cursorID: 0
+  linkedUiID: 0
+  maxAutoWidthFactor: 0.5
+  relativeRect:
+    serializedVersion: 2
+    x: 0
+    y: 456.00003
+    width: 1056
+    height: 24
+  relativePosition: {x: 0, y: 95}
+  numSlots: 1
+  uiImage: {fileID: 0}
+  graphicType: 0
+  graphic:
+    texture: {fileID: 2800000, guid: 2de7d16b4ac4b402182d4f2ca40e0b2d, type: 3}
     isAnimated: 0
     numFrames: 1
     numRows: 1
@@ -6696,7 +6922,7 @@ MonoBehaviour:
   fontScaleFactor: 2
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
-  isVisible: 1
+  isVisible: 0
   isClickable: 1
   orientation: 0
   gridWidth: 3
@@ -7283,7 +7509,7 @@ MonoBehaviour:
   relativeRect:
     serializedVersion: 2
     x: 5.28
-    y: 122.4
+    y: 63.84
     width: 168.96
     height: 24
   relativePosition: {x: 0, y: 0}
@@ -7563,7 +7789,7 @@ MonoBehaviour:
   canClickInCutscene: 0
   enabledOnStart: 0
   actionListOnTurnOn: {fileID: 11400000, guid: d25b1951b64504ecca2be84c2a8e0668, type: 2}
-  actionListOnTurnOff: {fileID: 0}
+  actionListOnTurnOff: {fileID: 11400000, guid: 46044fe13d1151f45b951f75c4673bc9, type: 2}
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
@@ -7845,12 +8071,12 @@ MonoBehaviour:
   showWhenPaused: 0
   canClickInCutscene: 0
   enabledOnStart: 0
-  actionListOnTurnOn: {fileID: 0}
-  actionListOnTurnOff: {fileID: 0}
+  actionListOnTurnOn: {fileID: 11400000, guid: 22c55632eca4a4342b0f0b6347bc051f, type: 2}
+  actionListOnTurnOff: {fileID: 11400000, guid: 89548f1e1a9745243a306136b2f67d3d, type: 2}
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: 5f4f3dd6223164fe49aea7eb6c0bc529, type: 3}
   visibleElements:
   - {fileID: 3974713410247625331}
   - {fileID: 9211676623442372813}
@@ -7868,7 +8094,7 @@ MonoBehaviour:
   elements:
   - {fileID: 3974713410247625331}
   - {fileID: 9211676623442372813}
-  spacing: 0.72
+  spacing: 0.55
   sizeType: 1
   autoSizeEveryFrame: 0
   orientation: 1
@@ -8126,14 +8352,14 @@ MonoBehaviour:
   lineID: -1
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
-  fontScaleFactor: 2
+  fontScaleFactor: 2.2
   fontColor: {r: 0.5804932, g: 0.5613208, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
   isClickable: 0
   orientation: 0
   gridWidth: 3
-  backgroundTexture: {fileID: 2800000, guid: 5f4f3dd6223164fe49aea7eb6c0bc529, type: 3}
+  backgroundTexture: {fileID: 0}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 0}
   hoverSound: {fileID: 0}
@@ -8144,17 +8370,17 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 7.6032004
-    y: 72.806404
+    x: 5.808
+    y: 69.216
     width: 591.36005
     height: 43.2
-  relativePosition: {x: 0, y: 0}
+  relativePosition: {x: 2, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
   label: Hi!
   anchor: 3
-  textEffects: 0
-  outlineSize: 2
+  textEffects: 1
+  outlineSize: 1.9
   labelType: 2
   variableID: 0
   useCharacterColour: 0

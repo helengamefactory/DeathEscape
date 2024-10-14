@@ -71,7 +71,7 @@ MonoBehaviour:
   - label: IndigoSack
     id: 1
     altLabel: Indigo Color Sack
-    carryOnStart: 1
+    carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -126,7 +126,7 @@ MonoBehaviour:
   - label: BlueSack
     id: 2
     altLabel: Blue Color Sack
-    carryOnStart: 1
+    carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -135,7 +135,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 0}
+    tex: {fileID: 2800000, guid: 280a884fb79e1e44aabbc6a0f4b6ccdf, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -190,7 +190,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 0}
+    tex: {fileID: 2800000, guid: 798889bc8a73bca44b732579014f2f95, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -245,7 +245,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 0}
+    tex: {fileID: 2800000, guid: 476ab2774285517458c14b925a89cc10, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -355,7 +355,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 0}
+    tex: {fileID: 2800000, guid: 8e92fcb70574b3248b2b85fbfb56ef1a, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -410,7 +410,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 0}
+    tex: {fileID: 2800000, guid: d11be8790c96d354cb80e9cadfc5ef6d, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -465,7 +465,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 0}
+    tex: {fileID: 2800000, guid: b1fc97d2988dfbf4fa46996d7c892c50, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -489,12 +489,12 @@ MonoBehaviour:
     lineID: 338
     useIconID: 0
     binID: -1
-    overrideUseSyntax: 0
+    overrideUseSyntax: 1
     hotspotPrefix1:
-      label: Use
+      label: Put
       lineID: -1
     hotspotPrefix2:
-      label: on
+      label: On
       lineID: -1
     useActionList: {fileID: 0}
     lookActionList: {fileID: 0}
@@ -510,17 +510,17 @@ MonoBehaviour:
     showInFilter: 1
   - label: SmallBrains
     id: 9
-    altLabel: Samll Pieces of Brain
+    altLabel: Samll Piece of Brain
     carryOnStart: 0
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
     canCarryMultiple: 1
     count: 1
-    canBeLowerCase: 1
+    canBeLowerCase: 0
     maxCount: 4
     itemStackingMode: 1
-    tex: {fileID: 0}
+    tex: {fileID: 2800000, guid: 1c3291ae2c4c6cc4383d935b74494d14, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -544,67 +544,12 @@ MonoBehaviour:
     lineID: 339
     useIconID: 0
     binID: -1
-    overrideUseSyntax: 0
+    overrideUseSyntax: 1
     hotspotPrefix1:
-      label: Use
+      label: Through
       lineID: -1
     hotspotPrefix2:
-      label: on
-      lineID: -1
-    useActionList: {fileID: 0}
-    lookActionList: {fileID: 0}
-    interactions: []
-    combineInteractions: []
-    combineActionList: []
-    combineID: 
-    unhandledActionList: {fileID: 0}
-    unhandledCombineActionList: {fileID: 0}
-    carryOnStartID: -1
-    useSeparateSlots: 0
-    selectSingle: 0
-    showInFilter: 1
-  - label: JarBrain
-    id: 10
-    altLabel: 
-    carryOnStart: 0
-    carryOnStartNotDefault: 0
-    carryOnStartIDs: 00000000
-    vars: []
-    canCarryMultiple: 0
-    count: 1
-    canBeLowerCase: 0
-    maxCount: 999
-    itemStackingMode: 0
-    tex: {fileID: 0}
-    activeTex: {fileID: 0}
-    selectedTex: {fileID: 0}
-    linkedPrefab: {fileID: 0}
-    cursorIcon:
-      texture: {fileID: 0}
-      isAnimated: 0
-      numFrames: 1
-      numRows: 1
-      numCols: 1
-      size: 0.04
-      animSpeed: 4
-      endAnimOnLastFrame: 0
-      skipFirstFrameWhenLooping: 0
-      clickOffset: {x: 0, y: 0}
-      frameSpeeds: []
-      alwaysAnimate: 0
-      dontCycle: 0
-      label: Icon 1
-      lineID: -1
-      id: 0
-    lineID: 340
-    useIconID: 0
-    binID: -1
-    overrideUseSyntax: 0
-    hotspotPrefix1:
-      label: Use
-      lineID: -1
-    hotspotPrefix2:
-      label: on
+      label: In
       lineID: -1
     useActionList: {fileID: 0}
     lookActionList: {fileID: 0}
@@ -630,7 +575,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 0}
+    tex: {fileID: 2800000, guid: da756e69891a96f4f90df880203862c4, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -685,7 +630,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 0}
+    tex: {fileID: 2800000, guid: decc2bf51a9cc674b99a334f922cfadb, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -709,12 +654,12 @@ MonoBehaviour:
     lineID: 342
     useIconID: 0
     binID: -1
-    overrideUseSyntax: 0
+    overrideUseSyntax: 1
     hotspotPrefix1:
-      label: Use
+      label: With
       lineID: -1
     hotspotPrefix2:
-      label: on
+      label: Cut
       lineID: -1
     useActionList: {fileID: 0}
     lookActionList: {fileID: 0}
@@ -740,7 +685,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 0}
+    tex: {fileID: 2800000, guid: 35e0a5d0e13ae42429f22a68a73f3a1a, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -823,7 +768,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 2
     itemStackingMode: 1
-    tex: {fileID: 0}
+    tex: {fileID: 2800000, guid: 4506c9cb6ff32de4e9d0fcba97ea9947, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -878,7 +823,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 0}
+    tex: {fileID: 2800000, guid: 1f913e644b06cc342b19daa49ed2fa51, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -933,7 +878,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 0}
+    tex: {fileID: 2800000, guid: bbb7ef295f9c70648b7e7045defc151a, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -988,7 +933,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 0}
+    tex: {fileID: 2800000, guid: 51fc1c88a18f51640a013e92135ab755, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -1043,7 +988,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 0}
+    tex: {fileID: 2800000, guid: 004d4ba80c38aa5429f118b1be2a9bfa, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
@@ -1098,7 +1043,7 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 0}
+    tex: {fileID: 2800000, guid: 6c70474203e9c8e47a635bdf752808f1, type: 3}
     activeTex: {fileID: 0}
     selectedTex: {fileID: 0}
     linkedPrefab: {fileID: 0}
