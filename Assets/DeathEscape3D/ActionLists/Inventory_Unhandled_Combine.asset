@@ -71,7 +71,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Rabti be ham nadaran ...
-  lineID: 427
+  lineID: 737
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
