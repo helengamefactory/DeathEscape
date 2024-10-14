@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: TitleScreenSecond_ShareButton_OnClick
   m_EditorClassIdentifier: 
   actions:
-  - {fileID: 8602013639928182434}
+  - {fileID: 4335654886100280438}
   isSkippable: 1
   actionListType: 0
   unfreezePauseMenus: 1
@@ -24,7 +24,7 @@ MonoBehaviour:
   parameters: []
   tagID: 0
   backupData: []
---- !u!114 &8602013639928182434
+--- !u!114 &4335654886100280438
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -33,7 +33,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fee606cf6f21b4a7f98958d38261139e, type: 3}
+  m_Script: {fileID: 11500000, guid: 9289eb0ca58ef471f9062a5f77161403, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   id: 0
@@ -60,26 +60,9 @@ MonoBehaviour:
     x: 14
     y: 14
     width: 300
-    height: 328
+    height: 92
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
-  unityEvent:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 876335212107203773, guid: b6feabf3bb62c4a4bb494ae9a0cefa08, type: 3}
-        m_TargetAssemblyTypeName: EventTester, Assembly-CSharp
-        m_MethodName: TestEvent
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 1
-  skipEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  ignoreWhenSkipping: 1
+  parameterID: -1
+  timeToPause: 0

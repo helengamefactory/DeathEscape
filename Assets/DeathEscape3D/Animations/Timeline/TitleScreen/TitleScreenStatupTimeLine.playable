@@ -186,14 +186,14 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   speechPlayableData:
-    lineID: -1
+    lineID: 432
     messageText: 'Komakam Konid ....
 
       Khodaaaa
 
 '
   speechTrackPlaybackMode: 1
-  trackInstanceID: 21326
+  trackInstanceID: 21372
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -231,7 +231,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   speechPlayableData:
-    lineID: -1
+    lineID: 431
     messageText: Man nemikham bemiram ....
   speechTrackPlaybackMode: 1
-  trackInstanceID: 21326
+  trackInstanceID: 21372
