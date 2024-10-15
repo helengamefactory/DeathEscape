@@ -234,21 +234,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 4
   title: LanguageCycle
-  slotSize: {x: 36, y: 5}
+  slotSize: {x: 36, y: 10}
   sizeType: 1
   positionType: 0
   slotSpacing: 0
   lineID: 697
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
-  fontScaleFactor: 2
-  fontColor: {r: 1, g: 1, b: 1, a: 1}
-  fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
+  fontScaleFactor: 2.5
+  fontColor: {r: 0, g: 0.24013244, b: 0.9716981, a: 1}
+  fontHighlightColor: {r: 0.9528302, g: 0.8720103, b: 0, a: 1}
   isVisible: 1
   isClickable: 1
   orientation: 1
   gridWidth: 3
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: f0726ab8508596142bf2fe9c6cb5545d, type: 3}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 2800000, guid: ac2dde689ce194d9a81a41f09e6b56b4, type: 3}
   hoverSound: {fileID: 0}
@@ -259,24 +259,24 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 11.4048
-    y: 153.024
+    x: 10.56
+    y: 244.8
     width: 380.16
-    height: 24
+    height: 48
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
   uiDropdown: {fileID: 0}
   actionListOnClick: {fileID: 0}
   label: Language
-  textEffects: 0
+  textEffects: 1
   outlineSize: 2
-  anchor: 3
+  anchor: 4
   selected: 0
   optionsArray:
   - Original
-  - "\u0641\u0627\u0631\u0633\u06CC"
   - English
+  - Farsi
   cycleType: 0
   splitLanguageType: 0
   varID: 0
@@ -1268,8 +1268,8 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 11.4048
-    y: 188.4288
+    x: 10.56
+    y: 303.36002
     width: 380.16
     height: 24
   relativePosition: {x: 0, y: 0}
@@ -1979,21 +1979,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 1
   title: SpeechSlider
-  slotSize: {x: 36, y: 5}
+  slotSize: {x: 36, y: 10}
   sizeType: 1
   positionType: 0
   slotSpacing: 0
   lineID: 694
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
-  fontScaleFactor: 2
-  fontColor: {r: 1, g: 1, b: 1, a: 1}
-  fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
+  fontScaleFactor: 2.5
+  fontColor: {r: 0, g: 0.24013244, b: 0.9716981, a: 1}
+  fontHighlightColor: {r: 0.9528302, g: 0.8720103, b: 0, a: 1}
   isVisible: 1
   isClickable: 1
   orientation: 1
   gridWidth: 3
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: ae361ef66cb2ee746a3f76b3e966e600, type: 3}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 2800000, guid: ac2dde689ce194d9a81a41f09e6b56b4, type: 3}
   hoverSound: {fileID: 0}
@@ -2004,10 +2004,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 11.4048
-    y: 46.8096
+    x: 10.56
+    y: 69.12
     width: 380.16
-    height: 24
+    height: 48
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiSlider: {fileID: 0}
@@ -2015,15 +2015,15 @@ MonoBehaviour:
   minValue: 0
   maxValue: 1
   label: Speech volume
-  textEffects: 0
+  textEffects: 1
   outlineSize: 2
-  anchor: 3
-  sliderTexture: {fileID: 2800000, guid: 681d61a077bb84b4aa05cc6d42d19cfd, type: 3}
+  anchor: 4
+  sliderTexture: {fileID: 2800000, guid: f0726ab8508596142bf2fe9c6cb5545d, type: 3}
   sliderDisplayType: 0
   sliderOrientation: 0
   sliderType: 0
   blockSize: {x: 0.05, y: 1}
-  useFullWidth: 0
+  useFullWidth: 1
   varID: 0
   numberOfSteps: 0
   actionListOnChange: {fileID: 0}
@@ -2930,23 +2930,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 1
   title: OptionsButton
-  slotSize: {x: 16, y: 5}
+  slotSize: {x: 16, y: 10}
   sizeType: 1
   positionType: 0
   slotSpacing: 0
   lineID: 689
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
-  fontScaleFactor: 2
-  fontColor: {r: 1, g: 1, b: 1, a: 1}
-  fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
+  fontScaleFactor: 3
+  fontColor: {r: 0, g: 0.24013244, b: 0.9716981, a: 1}
+  fontHighlightColor: {r: 0.9528302, g: 0.8720103, b: 0, a: 1}
   isVisible: 1
   isClickable: 1
   orientation: 0
   gridWidth: 3
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: f0726ab8508596142bf2fe9c6cb5545d, type: 3}
   singleSlotBackgrounds: 0
-  highlightTexture: {fileID: 2800000, guid: ac2dde689ce194d9a81a41f09e6b56b4, type: 3}
+  highlightTexture: {fileID: 2800000, guid: ae361ef66cb2ee746a3f76b3e966e600, type: 3}
   hoverSound: {fileID: 0}
   clickSound: {fileID: 0}
   changeCursor: 0
@@ -2955,10 +2955,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 5.28
-    y: 34.56
+    x: 15.84
+    y: 79.68
     width: 168.96
-    height: 24
+    height: 48
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -2967,7 +2967,7 @@ MonoBehaviour:
   hotspotLabel: 
   hotspotLabelID: -1
   anchor: 4
-  textEffects: 0
+  textEffects: 1
   outlineSize: 2
   buttonClickType: 1
   actionList: {fileID: 0}
@@ -3117,7 +3117,7 @@ MonoBehaviour:
   _isLocked: 0
   id: 12
   title: Pause
-  manualSize: {x: 17, y: 19.4}
+  manualSize: {x: 19, y: 43.2}
   positionType: 0
   manualPosition: {x: 528, y: 240}
   positionSmoothing: 0
@@ -3133,7 +3133,7 @@ MonoBehaviour:
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
-  backgroundTexture: {fileID: 2800000, guid: 5f4f3dd6223164fe49aea7eb6c0bc529, type: 3}
+  backgroundTexture: {fileID: 2800000, guid: 3b9f30d5209190848924d4270a3ef152, type: 3}
   visibleElements:
   - {fileID: 1661021797063010418}
   - {fileID: -2629644097135478389}
@@ -3155,7 +3155,7 @@ MonoBehaviour:
   - {fileID: 5904333263648234343}
   - {fileID: 1043093648439338829}
   - {fileID: 6737470743322959975}
-  spacing: 0.5
+  spacing: 1.5
   sizeType: 0
   autoSizeEveryFrame: 0
   orientation: 1
@@ -3194,13 +3194,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 174.24, y: 87.84}
+  biggestElementSize: {x: 184.8, y: 191.52}
   rect:
     serializedVersion: 2
-    x: 438.24
-    y: 193.44
-    width: 179.52
-    height: 93.119995
+    x: 427.68
+    y: 136.32
+    width: 200.64
+    height: 207.36
   showInFilter: 1
 --- !u!114 &-2011889074673794730
 MonoBehaviour:
@@ -3286,21 +3286,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 2
   title: MusicSlider
-  slotSize: {x: 36, y: 5}
+  slotSize: {x: 36, y: 10}
   sizeType: 1
   positionType: 0
   slotSpacing: 0
   lineID: 695
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
-  fontScaleFactor: 2
-  fontColor: {r: 1, g: 1, b: 1, a: 1}
-  fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
+  fontScaleFactor: 2.5
+  fontColor: {r: 0, g: 0.24013244, b: 0.9716981, a: 1}
+  fontHighlightColor: {r: 0.9528302, g: 0.8720103, b: 0, a: 1}
   isVisible: 1
   isClickable: 1
   orientation: 1
   gridWidth: 3
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: ae361ef66cb2ee746a3f76b3e966e600, type: 3}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 2800000, guid: ac2dde689ce194d9a81a41f09e6b56b4, type: 3}
   hoverSound: {fileID: 0}
@@ -3311,10 +3311,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 11.4048
-    y: 82.2144
+    x: 10.56
+    y: 127.68
     width: 380.16
-    height: 24
+    height: 48
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiSlider: {fileID: 0}
@@ -3322,15 +3322,15 @@ MonoBehaviour:
   minValue: 0
   maxValue: 1
   label: Music volume
-  textEffects: 0
+  textEffects: 1
   outlineSize: 2
-  anchor: 3
-  sliderTexture: {fileID: 2800000, guid: 681d61a077bb84b4aa05cc6d42d19cfd, type: 3}
+  anchor: 4
+  sliderTexture: {fileID: 2800000, guid: f0726ab8508596142bf2fe9c6cb5545d, type: 3}
   sliderDisplayType: 0
   sliderOrientation: 0
   sliderType: 1
   blockSize: {x: 0.05, y: 1}
-  useFullWidth: 0
+  useFullWidth: 1
   varID: 0
   numberOfSteps: 0
   actionListOnChange: {fileID: 0}
@@ -3357,7 +3357,7 @@ MonoBehaviour:
   _isLocked: 0
   id: 0
   title: Options
-  manualSize: {x: 38.160004, y: 54.008}
+  manualSize: {x: 38, y: 77.600006}
   positionType: 0
   manualPosition: {x: 528, y: 240}
   positionSmoothing: 0
@@ -3373,7 +3373,7 @@ MonoBehaviour:
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
-  backgroundTexture: {fileID: 2800000, guid: 5f4f3dd6223164fe49aea7eb6c0bc529, type: 3}
+  backgroundTexture: {fileID: 2800000, guid: 3b9f30d5209190848924d4270a3ef152, type: 3}
   visibleElements:
   - {fileID: 5790826555277278405}
   - {fileID: -4805918354863427187}
@@ -3401,7 +3401,7 @@ MonoBehaviour:
   - {fileID: -8527061030517426470}
   - {fileID: -6911262007681954893}
   - {fileID: 6373787861556315798}
-  spacing: 1.08
+  spacing: 1
   sizeType: 0
   autoSizeEveryFrame: 0
   orientation: 1
@@ -3440,13 +3440,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 391.56482, y: 247.8336}
+  biggestElementSize: {x: 390.72, y: 361.92}
   rect:
     serializedVersion: 2
-    x: 326.5152
-    y: 110.3808
-    width: 402.96964
-    height: 259.2384
+    x: 327.36
+    y: 53.759995
+    width: 401.28
+    height: 372.48
   showInFilter: 1
 --- !u!114 &-1623898918341585016
 MonoBehaviour:
@@ -4518,7 +4518,7 @@ MonoBehaviour:
   lineID: 691
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
-  fontScaleFactor: 2
+  fontScaleFactor: 3
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 0
@@ -4548,7 +4548,7 @@ MonoBehaviour:
   hotspotLabel: 
   hotspotLabelID: -1
   anchor: 4
-  textEffects: 0
+  textEffects: 1
   outlineSize: 2
   buttonClickType: 1
   actionList: {fileID: 0}
@@ -4999,23 +4999,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: ResumeButton
-  slotSize: {x: 16, y: 5}
+  slotSize: {x: 16, y: 10}
   sizeType: 1
   positionType: 0
   slotSpacing: 0
   lineID: 688
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
-  fontScaleFactor: 2
-  fontColor: {r: 1, g: 1, b: 1, a: 1}
-  fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
+  fontScaleFactor: 3
+  fontColor: {r: 0, g: 0.24013244, b: 0.9716981, a: 1}
+  fontHighlightColor: {r: 0.9528302, g: 0.8720103, b: 0, a: 1}
   isVisible: 1
   isClickable: 1
   orientation: 0
   gridWidth: 3
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: f0726ab8508596142bf2fe9c6cb5545d, type: 3}
   singleSlotBackgrounds: 0
-  highlightTexture: {fileID: 2800000, guid: ac2dde689ce194d9a81a41f09e6b56b4, type: 3}
+  highlightTexture: {fileID: 2800000, guid: ae361ef66cb2ee746a3f76b3e966e600, type: 3}
   hoverSound: {fileID: 0}
   clickSound: {fileID: 0}
   changeCursor: 0
@@ -5024,10 +5024,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 5.28
-    y: 5.28
+    x: 15.84
+    y: 15.84
     width: 168.96
-    height: 24
+    height: 48
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -5036,7 +5036,7 @@ MonoBehaviour:
   hotspotLabel: 
   hotspotLabelID: -1
   anchor: 4
-  textEffects: 0
+  textEffects: 1
   outlineSize: 2
   buttonClickType: 0
   actionList: {fileID: 0}
@@ -5270,21 +5270,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 3
   title: SFXSlider
-  slotSize: {x: 36, y: 5}
+  slotSize: {x: 36, y: 10}
   sizeType: 1
   positionType: 0
   slotSpacing: 0
   lineID: 696
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
-  fontScaleFactor: 2
-  fontColor: {r: 1, g: 1, b: 1, a: 1}
-  fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
+  fontScaleFactor: 2.5
+  fontColor: {r: 0, g: 0.24013244, b: 0.9716981, a: 1}
+  fontHighlightColor: {r: 0.9528302, g: 0.8720103, b: 0, a: 1}
   isVisible: 1
   isClickable: 1
   orientation: 1
   gridWidth: 3
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: ae361ef66cb2ee746a3f76b3e966e600, type: 3}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 2800000, guid: ac2dde689ce194d9a81a41f09e6b56b4, type: 3}
   hoverSound: {fileID: 0}
@@ -5295,10 +5295,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 11.4048
-    y: 117.6192
+    x: 10.56
+    y: 186.24
     width: 380.16
-    height: 24
+    height: 48
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiSlider: {fileID: 0}
@@ -5306,15 +5306,15 @@ MonoBehaviour:
   minValue: 0
   maxValue: 1
   label: SFX volume
-  textEffects: 0
+  textEffects: 1
   outlineSize: 2
-  anchor: 3
-  sliderTexture: {fileID: 2800000, guid: 681d61a077bb84b4aa05cc6d42d19cfd, type: 3}
+  anchor: 4
+  sliderTexture: {fileID: 2800000, guid: f0726ab8508596142bf2fe9c6cb5545d, type: 3}
   sliderDisplayType: 0
   sliderOrientation: 0
   sliderType: 2
   blockSize: {x: 0.05, y: 1}
-  useFullWidth: 0
+  useFullWidth: 1
   varID: 0
   numberOfSteps: 0
   actionListOnChange: {fileID: 0}
@@ -6851,21 +6851,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: TitleLabel
-  slotSize: {x: 36, y: 5}
+  slotSize: {x: 36, y: 10}
   sizeType: 1
   positionType: 0
   slotSpacing: 0
   lineID: 693
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
-  fontScaleFactor: 2
-  fontColor: {r: 1, g: 1, b: 1, a: 1}
+  fontScaleFactor: 3
+  fontColor: {r: 0, g: 0.24013244, b: 0.9716981, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
   isClickable: 0
   orientation: 1
   gridWidth: 3
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: b52a5dfd9a8f3084e8db95dc9684ea40, type: 3}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 0}
   hoverSound: {fileID: 0}
@@ -6876,16 +6876,16 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 11.4048
-    y: 11.4048
+    x: 10.56
+    y: 10.56
     width: 380.16
-    height: 24
+    height: 48
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
   label: Options
   anchor: 4
-  textEffects: 0
+  textEffects: 1
   outlineSize: 2
   labelType: 0
   variableID: 0
@@ -6919,7 +6919,7 @@ MonoBehaviour:
   lineID: 690
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
-  fontScaleFactor: 2
+  fontScaleFactor: 3.5
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 0
@@ -7145,8 +7145,8 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 11.4048
-    y: 223.8336
+    x: 10.56
+    y: 337.92
     width: 380.16
     height: 24
   relativePosition: {x: 0, y: 0}
@@ -7483,23 +7483,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 4
   title: QuitButton
-  slotSize: {x: 16, y: 5}
+  slotSize: {x: 16, y: 10}
   sizeType: 1
   positionType: 0
   slotSpacing: 0
   lineID: 692
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
-  fontScaleFactor: 2
-  fontColor: {r: 1, g: 1, b: 1, a: 1}
-  fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
+  fontScaleFactor: 3
+  fontColor: {r: 0, g: 0.24013244, b: 0.9716981, a: 1}
+  fontHighlightColor: {r: 0.9528302, g: 0.8720103, b: 0, a: 1}
   isVisible: 1
   isClickable: 1
   orientation: 0
   gridWidth: 3
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: f0726ab8508596142bf2fe9c6cb5545d, type: 3}
   singleSlotBackgrounds: 0
-  highlightTexture: {fileID: 2800000, guid: ac2dde689ce194d9a81a41f09e6b56b4, type: 3}
+  highlightTexture: {fileID: 2800000, guid: ae361ef66cb2ee746a3f76b3e966e600, type: 3}
   hoverSound: {fileID: 0}
   clickSound: {fileID: 0}
   changeCursor: 0
@@ -7508,10 +7508,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 5.28
-    y: 63.84
+    x: 15.84
+    y: 143.52
     width: 168.96
-    height: 24
+    height: 48
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -7520,7 +7520,7 @@ MonoBehaviour:
   hotspotLabel: 
   hotspotLabelID: -1
   anchor: 4
-  textEffects: 0
+  textEffects: 1
   outlineSize: 2
   buttonClickType: 3
   actionList: {fileID: 11400000, guid: 673b36f59d83c4cc5b707d270f4ad87a, type: 2}

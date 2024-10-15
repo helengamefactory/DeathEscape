@@ -59,10 +59,10 @@ MonoBehaviour:
   disableFreeAimWhenDragging: 0
   runConversationsWithKeys: 0
   clickUpInteractions: 0
-  defaultMouseClicks: 1
+  defaultMouseClicks: 0
   allowGameplayDuringConversations: 1
   shareInventory: 0
-  inventoryDragDrop: 0
+  inventoryDragDrop: 1
   dragDropThreshold: 0
   allowInventoryInteractionsDuringConversations: 0
   inventoryDropLook: 0
