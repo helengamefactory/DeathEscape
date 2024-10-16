@@ -47,7 +47,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Nemishe ke !!!
-  lineID: 738
+  lineID: 638
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
