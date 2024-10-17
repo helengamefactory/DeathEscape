@@ -173,8 +173,44 @@ MonoBehaviour:
   spawnPersistentEnginePrefab: 0
   playMusicWhilePaused: 0
   playAmbienceWhilePaused: 0
-  musicStorages: []
-  ambienceStorages: []
+  musicStorages:
+  - ID: 0
+    audioClip: {fileID: 8300000, guid: 68a18b130c0012a45bed0956aa898b12, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 1
+    audioClip: {fileID: 8300000, guid: d577f74b5538a7c4788e638875eae147, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  ambienceStorages:
+  - ID: 0
+    audioClip: {fileID: 8300000, guid: c1f01dcaee737ed4495a8ff84d78c4ff, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 1
+    audioClip: {fileID: 8300000, guid: 1a76bf0e0d2e88d4ea683ba7e28d14f5, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 2
+    audioClip: {fileID: 8300000, guid: 64d642a67fbfe934cb1324392ac2e423, type: 3}
+    relativeVolume: 0.504
+    overrideMixerGroup: {fileID: 0}
+  - ID: 3
+    audioClip: {fileID: 8300000, guid: 7ccf2918b2737d34d8c25435b34b95ec, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 4
+    audioClip: {fileID: 8300000, guid: bc6dc0099192aa543b9d5c3d7ab004a6, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 5
+    audioClip: {fileID: 8300000, guid: 4f846da83403fd343af616f170b6c1df, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 6
+    audioClip: {fileID: 8300000, guid: 4d728306a8fa9174596466eaad729043, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
   loadAmbienceFadeTime: 0
   crossfadeAmbienceWhenLoading: 0
   restartAmbienceTrackWhenLoading: 0
