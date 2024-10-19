@@ -726,8 +726,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: StartButton
-  slotSize: {x: 18, y: 12}
-  sizeType: 1
+  slotSize: {x: 14.962121, y: 6.4583335}
+  sizeType: 0
   positionType: 0
   slotSpacing: 0
   lineID: 633
@@ -740,7 +740,7 @@ MonoBehaviour:
   isClickable: 1
   orientation: 1
   gridWidth: 3
-  backgroundTexture: {fileID: 2800000, guid: 4936806cf704c9641a39102e1552802a, type: 3}
+  backgroundTexture: {fileID: 2800000, guid: eed8e726a169c8b4bab8a695c9e2fce6, type: 3}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 0}
   hoverSound: {fileID: 0}
@@ -753,8 +753,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 52.8
     y: 147.6
-    width: 190.08
-    height: 57.600002
+    width: 158
+    height: 31.000002
   relativePosition: {x: 12.5, y: 46.2}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -796,14 +796,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 1
   title: Label
-  slotSize: {x: 17, y: 3.125}
-  sizeType: 1
-  positionType: 2
+  slotSize: {x: 22.348484, y: 6.4583335}
+  sizeType: 0
+  positionType: 0
   slotSpacing: 0
   lineID: 632
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
-  fontScaleFactor: 2
+  fontScaleFactor: 3
   fontColor: {r: 1, g: 1, b: 1, a: 1}
   fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
   isVisible: 1
@@ -821,10 +821,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 728.64
-    y: 374.40002
-    width: 179.52
-    height: 15.000001
+    x: 18.0576
+    y: 228.1152
+    width: 236
+    height: 31.000002
   relativePosition: {x: 69, y: 78}
   numSlots: 1
   uiText: {fileID: 0}
@@ -3008,7 +3008,7 @@ MonoBehaviour:
   _isLocked: 0
   id: 18
   title: TitleScreenSecond
-  manualSize: {x: 34.62121, y: 53.75}
+  manualSize: {x: 34.62121, y: 48.208336}
   positionType: 1
   manualPosition: {x: 528, y: 240}
   positionSmoothing: 0
@@ -3084,13 +3084,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 312.8, y: 205.20001}
+  biggestElementSize: {x: 312.8, y: 178.6}
   rect:
     serializedVersion: 2
     x: 345.2
-    y: 111
+    y: 124.299995
     width: 365.59998
-    height: 258
+    height: 231.40001
   showInFilter: 1
 --- !u!114 &-2111190305744473262
 MonoBehaviour:
@@ -3597,7 +3597,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: FirstLabel
-  slotSize: {x: 33.71212, y: 12.916667}
+  slotSize: {x: 25.94697, y: 12.916667}
   sizeType: 0
   positionType: 0
   slotSpacing: 0
@@ -3624,12 +3624,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 5.28
     y: 5.28
-    width: 356
+    width: 274
     height: 62.000004
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiText: {fileID: 0}
-  label: 'In Memory of Kian Pirfalak
+  label: 'In Memory of Kian
 
     Who loved rainbows'
   anchor: 4
@@ -4793,7 +4793,7 @@ MonoBehaviour:
   _isLocked: 0
   id: 16
   title: EndGameMemory
-  manualSize: {x: 34.71212, y: 15.116668}
+  manualSize: {x: 26.94697, y: 15.116668}
   positionType: 0
   manualPosition: {x: 528, y: 240}
   positionSmoothing: 0
@@ -4869,12 +4869,12 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 361.28, y: 67.28001}
+  biggestElementSize: {x: 279.28, y: 67.28001}
   rect:
     serializedVersion: 2
-    x: 344.72
+    x: 385.72
     y: 203.72
-    width: 366.56
+    width: 284.56
     height: 72.560005
   showInFilter: 1
 --- !u!114 &1576085568333994014
@@ -5909,9 +5909,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: HelenGameFactoryLogo
-  slotSize: {x: 32, y: 40}
+  slotSize: {x: 30, y: 40}
   sizeType: 1
-  positionType: 2
+  positionType: 0
   slotSpacing: 0
   lineID: -1
   alternativeInputButton: 
@@ -5934,9 +5934,9 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 654.72003
-    y: 216.00002
-    width: 337.92
+    x: 18.0576
+    y: 18.0576
+    width: 316.80002
     height: 192
   relativePosition: {x: 62, y: 45}
   numSlots: 1
@@ -5953,7 +5953,8 @@ MonoBehaviour:
     endAnimOnLastFrame: 0
     skipFirstFrameWhenLooping: 0
     clickOffset: {x: 0, y: 0}
-    frameSpeeds: []
+    frameSpeeds:
+    - 1
     alwaysAnimate: 0
   uiRawImage: {fileID: 0}
   uiImageType: 0
@@ -7123,9 +7124,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 17
   title: TitleScreenFirst
-  manualSize: {x: 100, y: 100}
-  positionType: 0
-  manualPosition: {x: 528, y: 240}
+  manualSize: {x: 33.42, y: 57.74433}
+  positionType: 2
+  manualPosition: {x: 100, y: 100}
   positionSmoothing: 0
   alignment: 4
   toggleKey: 
@@ -7139,7 +7140,7 @@ MonoBehaviour:
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: eed8e726a169c8b4bab8a695c9e2fce6, type: 3}
   visibleElements:
   - {fileID: 3746349770443794844}
   - {fileID: -7888324682722728581}
@@ -7157,8 +7158,8 @@ MonoBehaviour:
   elements:
   - {fileID: 3746349770443794844}
   - {fileID: -7888324682722728581}
-  spacing: 0.5
-  sizeType: 1
+  spacing: 1.71
+  sizeType: 0
   autoSizeEveryFrame: 0
   orientation: 1
   transitionType: 0
@@ -7196,13 +7197,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 216.48001, y: 115.68}
+  biggestElementSize: {x: 334.8576, y: 259.1152}
   rect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1056
-    height: 480
+    x: 703.08484
+    y: 202.82721
+    width: 352.9152
+    height: 277.1728
   showInFilter: 1
 --- !u!114 &6446944509013008580
 MonoBehaviour:

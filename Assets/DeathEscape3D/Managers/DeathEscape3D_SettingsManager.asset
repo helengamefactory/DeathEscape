@@ -182,6 +182,26 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: d577f74b5538a7c4788e638875eae147, type: 3}
     relativeVolume: 1
     overrideMixerGroup: {fileID: 0}
+  - ID: 2
+    audioClip: {fileID: 8300000, guid: 70c47bbb6fc8b9a4a8561a28cf58dbf2, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 3
+    audioClip: {fileID: 8300000, guid: b878ade31f1dabd43b126314f235d207, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 4
+    audioClip: {fileID: 8300000, guid: 85326ba6614392c42899c3944b50eef1, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 5
+    audioClip: {fileID: 8300000, guid: 09a0a1424ee98f74eb96aa4aead56717, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 6
+    audioClip: {fileID: 8300000, guid: f0dd733ba4ceb324c8e22939135a58e2, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
   ambienceStorages:
   - ID: 0
     audioClip: {fileID: 8300000, guid: c1f01dcaee737ed4495a8ff84d78c4ff, type: 3}
