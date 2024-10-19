@@ -47,7 +47,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: roosh neveshte ghabele hal shodan
-  lineID: 740
+  lineID: 640
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -107,7 +107,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: ye joor poodr tooshe ....
-  lineID: 739
+  lineID: 639
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
