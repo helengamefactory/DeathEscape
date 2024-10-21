@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: DeathEscape3D_SpeechManager
   m_EditorClassIdentifier: 
   scrollSubtitles: 1
-  scrollNarration: 0
+  scrollNarration: 1
   textScrollSpeed: 30
   textScrollCLip: {fileID: 0}
   narrationTextScrollCLip: {fileID: 0}
@@ -41,7 +41,7 @@ MonoBehaviour:
   autoLipsyncFolder: Lipsync
   forceSubtitles: 1
   translateAudio: 1
-  separateVoiceAndTextLanguages: 0
+  separateVoiceAndTextLanguages: 1
   fallbackAudio: 0
   keepTextInBuffer: 0
   relegateBackgroundSpeechAudio: 0
@@ -5342,7 +5342,7 @@ MonoBehaviour:
     description: 'From: Inventory_Unhandled_Combine'
     textType: 0
     translationText:
-    - " \uFBFD\uFEEB\uFEA9 \uFEAE\uFEC8\uFEE7"
+    - "!\uFEE9\uFEAD\uFE8D\uFEAA\uFEE7 \uFEE2\uFEEB \uFEEA\uFE91 \uFBFD\uFEC4\uFE91\uFEAD\r"
     - Are  not interrelated.
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
@@ -5461,7 +5461,7 @@ MonoBehaviour:
   translatableTextTypes: -1
   maxID: 641
   speechIDRecycling: 1
-  activeLineID: 637
+  activeLineID: 638
   mergeMatchingSpeechIDs: 0
   useSpeechTags: 0
   speechTags:
