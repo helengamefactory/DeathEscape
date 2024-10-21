@@ -19,7 +19,7 @@ MonoBehaviour:
   narrationTextScrollCLip: {fileID: 0}
   playScrollAudioEveryCharacter: 1
   speechScrollAudioSource: 0
-  waitTimeOffset: 0
+  waitTimeOffset: 0.2
   displayForever: 0
   displayNarrationForever: 0
   playAnimationForever: 1
@@ -5218,11 +5218,8 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - ":\uFEEA\uFECC\uFEB3\uFEEE\uFE97 \uFEED \uFBFD\uFEA3\uFE8D\uFEAE\uFEC3\n\uFEE5\uFEAB\uFEEE\uFEE3
-      \uFEE6\uFEE4\uFEEC\uFE91"
-    - 'Designed and Developed by:
-
-      BAHMAN Moazzen'
+    - 
+    - 
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -5461,7 +5458,7 @@ MonoBehaviour:
   translatableTextTypes: -1
   maxID: 641
   speechIDRecycling: 1
-  activeLineID: 638
+  activeLineID: 628
   mergeMatchingSpeechIDs: 0
   useSpeechTags: 0
   speechTags:
