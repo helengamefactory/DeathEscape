@@ -162,13 +162,13 @@ MonoBehaviour:
   navMeshLayer: NavMesh
   backgroundImageLayer: BackgroundImage
   deactivatedLayer: Ignore Raycast
-  useLoadingScreen: 0
+  useLoadingScreen: 1
   manualSceneActivation: 0
   loadingSceneIs: 0
   loadingSceneName: 
-  loadingScene: 0
-  useAsyncLoading: 0
-  loadingDelay: 0
+  loadingScene: 3
+  useAsyncLoading: 1
+  loadingDelay: 0.1
   blackOutWhenInitialising: 0
   spawnPersistentEnginePrefab: 0
   playMusicWhilePaused: 0

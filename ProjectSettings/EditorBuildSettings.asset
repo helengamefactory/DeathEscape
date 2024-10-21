@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/DeathEscape3D/Scenes/EndCast.unity
     guid: 849e575304d5b0540ab967566e191e4a
+  - enabled: 1
+    path: Assets/DeathEscape3D/Scenes/LoadingScene.unity
+    guid: 70a1d06ee6a937e46a99a4e2bc6fb7a0
   m_configObjects: {}
