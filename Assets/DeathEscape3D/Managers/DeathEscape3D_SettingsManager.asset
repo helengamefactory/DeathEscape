@@ -243,6 +243,10 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: 1a76bf0e0d2e88d4ea683ba7e28d14f5, type: 3}
     relativeVolume: 0.5
     overrideMixerGroup: {fileID: 0}
+  - ID: 10
+    audioClip: {fileID: 8300000, guid: 166978b364f388641a790a791dacd77a, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
   loadAmbienceFadeTime: 0
   crossfadeAmbienceWhenLoading: 0
   restartAmbienceTrackWhenLoading: 0
