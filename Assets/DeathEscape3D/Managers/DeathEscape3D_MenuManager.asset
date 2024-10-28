@@ -1344,7 +1344,7 @@ MonoBehaviour:
   _isLocked: 0
   id: 20
   title: HotspotMarker
-  manualSize: {x: 8, y: 16}
+  manualSize: {x: 6, y: 12}
   positionType: 5
   manualPosition: {x: 50, y: 44.4}
   positionSmoothing: 0
@@ -1415,13 +1415,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 84.48, y: 76.8}
+  biggestElementSize: {x: 63.36, y: 57.600002}
   rect:
     serializedVersion: 2
-    x: 485.76
-    y: 174.72
-    width: 84.48
-    height: 76.8
+    x: 496.32
+    y: 184.31999
+    width: 63.36
+    height: 57.600002
   showInFilter: 1
 --- !u!114 &-6499500897259725144
 MonoBehaviour:
@@ -5153,7 +5153,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: Graphic
-  slotSize: {x: 8, y: 16}
+  slotSize: {x: 6, y: 12}
   sizeType: 1
   positionType: 0
   slotSpacing: 0
@@ -5180,8 +5180,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 84.48
-    height: 76.8
+    width: 63.36
+    height: 57.600002
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiImage: {fileID: 0}
