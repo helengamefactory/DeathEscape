@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: DeathEscape3D_SpeechManager
   m_EditorClassIdentifier: 
   scrollSubtitles: 1
-  scrollNarration: 0
+  scrollNarration: 1
   textScrollSpeed: 30
   textScrollCLip: {fileID: 0}
   narrationTextScrollCLip: {fileID: 0}
   playScrollAudioEveryCharacter: 1
   speechScrollAudioSource: 0
-  waitTimeOffset: 0
+  waitTimeOffset: 0.2
   displayForever: 0
   displayNarrationForever: 0
   playAnimationForever: 1
@@ -41,7 +41,7 @@ MonoBehaviour:
   autoLipsyncFolder: Lipsync
   forceSubtitles: 1
   translateAudio: 1
-  separateVoiceAndTextLanguages: 0
+  separateVoiceAndTextLanguages: 1
   fallbackAudio: 0
   keepTextInBuffer: 0
   relegateBackgroundSpeechAudio: 0
@@ -5100,10 +5100,10 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - "\uFEDA\uFEE0\uFED3\uFEAE\uFBFF\uFB58 \uFEE5\uFE8E\uFBFF\uFEDB \uFEA9\uFE8E\uFBFE
-      \uFEEA\uFE91\n\uFEA9\uFEEE\uFE91 \uFEE5\uFE8E\uFEE4\uFEDB \uFEE6\uFBFF\uFB95\uFEE7\uFEAD
-      \uFED6\uFEB7\uFE8E\uFECB \uFEEA\uFEDB "
-    - 'In Memory of Kian Pirfalak
+    - "\uFEE5\uFE8E\uFBFF\uFEDB \uFEA9\uFE8E\uFBFE \uFEEA\uFE91\n\uFEA9\uFEEE\uFE91
+      \uFEE5\uFE8E\uFEE4\uFEDB \uFEE6\uFBFF\uFB95\uFEE7\uFEAD \uFED6\uFEB7\uFE8E\uFECB
+      \uFEEA\uFEDB "
+    - 'In Memory of Kian
 
       Who loved rainbows'
     customAudioClip: {fileID: 0}
@@ -5147,9 +5147,9 @@ MonoBehaviour:
     textType: 5
     translationText:
     - "\uFEAA\uFEE8\uFE98\uFED3\uFEAE\uFB94 \uFEE6\uFEE3 \uFEAF\uFE8D \uFE8D\uFEAD
-      \uFEEE\uFE97 \uFBFD\uFE98\uFED7\uFEED \uFEAF\uFE8D\n\uFE96\uFEB4\uFBFE\uFEAF\uFE8E\uFECF\uFE81
-      \uFEE5\uFE8E\uFEE4\uFEDB \uFEE6\uFBFF\uFB95\uFEE7\uFEAD\n\uFEE6\uFEE3 \uFEE5\uFE8E\uFEE4\uFEB8\uFB7C
-      \uFEE5\uFE8D\uFEAD\uFE8E\uFE91 \uFEAE\uFE91"
+      \uFEEE\uFE97 \uFBFD\uFE98\uFED7\uFEED \uFEAF\uFE8D\n \uFEE5\uFE8E\uFEE4\uFEDB
+      \uFEE6\uFBFF\uFB95\uFEE7\uFEAD\n\uFE96\uFEB3\uFE8D \uFEE9\uFEAA\uFEB7 \u0649\uFEAF\uFE8E\uFECF\uFE81\n\uFEE6\uFEE3
+      \uFEE5\uFE8E\uFEE4\uFEB8\uFB7C \uFEE5\uFE8D\uFEAD\uFE8E\uFE91 \uFEAE\uFE91"
     - "Since they took you from me\nrainbow is the begginer\nof the rain \nfrom my
       eyes."
     customAudioClip: {fileID: 0}
@@ -5218,11 +5218,8 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - ":\uFEEA\uFECC\uFEB3\uFEEE\uFE97 \uFEED \uFBFD\uFEA3\uFE8D\uFEAE\uFEC3\n\uFEE5\uFEAB\uFEEE\uFEE3
-      \uFEE6\uFEE4\uFEEC\uFE91"
-    - 'Designed and Developed by:
-
-      BAHMAN Moazzen'
+    - Thanks for playing!
+    - Thanks for playing!
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -5342,7 +5339,7 @@ MonoBehaviour:
     description: 'From: Inventory_Unhandled_Combine'
     textType: 0
     translationText:
-    - " \uFBFD\uFEEB\uFEA9 \uFEAE\uFEC8\uFEE7"
+    - "!\uFEE9\uFEAD\uFE8D\uFEAA\uFEE7 \uFEE2\uFEEB \uFEEA\uFE91 \uFBFD\uFEC4\uFE91\uFEAD\r"
     - Are  not interrelated.
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
@@ -5461,7 +5458,7 @@ MonoBehaviour:
   translatableTextTypes: -1
   maxID: 641
   speechIDRecycling: 1
-  activeLineID: 503
+  activeLineID: 631
   mergeMatchingSpeechIDs: 0
   useSpeechTags: 0
   speechTags:

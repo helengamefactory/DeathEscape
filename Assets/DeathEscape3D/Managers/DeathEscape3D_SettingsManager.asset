@@ -162,13 +162,13 @@ MonoBehaviour:
   navMeshLayer: NavMesh
   backgroundImageLayer: BackgroundImage
   deactivatedLayer: Ignore Raycast
-  useLoadingScreen: 0
+  useLoadingScreen: 1
   manualSceneActivation: 0
   loadingSceneIs: 0
   loadingSceneName: 
-  loadingScene: 0
-  useAsyncLoading: 0
-  loadingDelay: 0
+  loadingScene: 3
+  useAsyncLoading: 1
+  loadingDelay: 0.1
   blackOutWhenInitialising: 0
   spawnPersistentEnginePrefab: 0
   playMusicWhilePaused: 0
@@ -180,6 +180,26 @@ MonoBehaviour:
     overrideMixerGroup: {fileID: 0}
   - ID: 1
     audioClip: {fileID: 8300000, guid: d577f74b5538a7c4788e638875eae147, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 2
+    audioClip: {fileID: 8300000, guid: 70c47bbb6fc8b9a4a8561a28cf58dbf2, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 3
+    audioClip: {fileID: 8300000, guid: b878ade31f1dabd43b126314f235d207, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 4
+    audioClip: {fileID: 8300000, guid: 85326ba6614392c42899c3944b50eef1, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 5
+    audioClip: {fileID: 8300000, guid: 09a0a1424ee98f74eb96aa4aead56717, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 6
+    audioClip: {fileID: 8300000, guid: f0dd733ba4ceb324c8e22939135a58e2, type: 3}
     relativeVolume: 1
     overrideMixerGroup: {fileID: 0}
   ambienceStorages:
@@ -217,6 +237,18 @@ MonoBehaviour:
     overrideMixerGroup: {fileID: 0}
   - ID: 8
     audioClip: {fileID: 8300000, guid: 48996967b6b99574182f198c7bcf3b1a, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 9
+    audioClip: {fileID: 8300000, guid: 1a76bf0e0d2e88d4ea683ba7e28d14f5, type: 3}
+    relativeVolume: 0.5
+    overrideMixerGroup: {fileID: 0}
+  - ID: 10
+    audioClip: {fileID: 8300000, guid: 166978b364f388641a790a791dacd77a, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 11
+    audioClip: {fileID: 8300000, guid: 6fa9a250bffc6454a840a823ac5ae71d, type: 3}
     relativeVolume: 1
     overrideMixerGroup: {fileID: 0}
   loadAmbienceFadeTime: 0
