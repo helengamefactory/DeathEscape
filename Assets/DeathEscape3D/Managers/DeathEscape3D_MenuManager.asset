@@ -1344,7 +1344,7 @@ MonoBehaviour:
   _isLocked: 0
   id: 20
   title: HotspotMarker
-  manualSize: {x: 2, y: 4}
+  manualSize: {x: 8, y: 16}
   positionType: 5
   manualPosition: {x: 50, y: 44.4}
   positionSmoothing: 0
@@ -1415,13 +1415,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 21.12, y: 19.2}
+  biggestElementSize: {x: 84.48, y: 76.8}
   rect:
     serializedVersion: 2
-    x: 517.44
-    y: 203.51999
-    width: 21.12
-    height: 19.2
+    x: 485.76
+    y: 174.72
+    width: 84.48
+    height: 76.8
   showInFilter: 1
 --- !u!114 &-6499500897259725144
 MonoBehaviour:
@@ -5153,7 +5153,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: Graphic
-  slotSize: {x: 2, y: 4}
+  slotSize: {x: 8, y: 16}
   sizeType: 1
   positionType: 0
   slotSpacing: 0
@@ -5180,20 +5180,20 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 21.12
-    height: 19.2
+    width: 84.48
+    height: 76.8
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiImage: {fileID: 0}
   graphicType: 0
   graphic:
-    texture: {fileID: 2800000, guid: fc08622aa9ff804478367645306b1b4c, type: 3}
+    texture: {fileID: 2800000, guid: 28353d5c0ba8bc04e9f00c774437b40f, type: 3}
     isAnimated: 1
     numFrames: 4
     numRows: 1
     numCols: 4
     size: 0.015
-    animSpeed: 4
+    animSpeed: 6
     endAnimOnLastFrame: 0
     skipFirstFrameWhenLooping: 0
     clickOffset: {x: 0, y: 0}
