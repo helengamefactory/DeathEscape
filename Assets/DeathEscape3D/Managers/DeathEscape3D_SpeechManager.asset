@@ -72,7 +72,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Test Tube: Indigo Pot_306196_'
+    orderPrefix: 'Test Tube: Indigo Pot_579304_'
   - isPlayer: 1
     lineID: 392
     scene: MainGame
@@ -92,7 +92,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Small Glass Jar: SmallBrains 5_304846_'
+    orderPrefix: 'Small Glass Jar: SmallBrains 5_577912_'
   - isPlayer: 1
     lineID: 394
     scene: MainGame
@@ -112,7 +112,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Test Tube: EmptyPot_304724_'
+    orderPrefix: 'Test Tube: EmptyPot_577752_'
   - isPlayer: 1
     lineID: 397
     scene: MainGame
@@ -133,7 +133,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Drip Tap: Look at_304250_'
+    orderPrefix: 'Drip Tap: Look at_577254_'
   - isPlayer: 0
     lineID: 398
     scene: MainGame
@@ -153,7 +153,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: Standing Zombie Conversation_Option3_304264_
+    orderPrefix: Standing Zombie Conversation_Option3_577268_
   - isPlayer: 1
     lineID: 399
     scene: MainGame
@@ -175,7 +175,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: Standing Zombie Conversation_Option3_304264_
+    orderPrefix: Standing Zombie Conversation_Option3_577268_
   - isPlayer: 0
     lineID: 400
     scene: MainGame
@@ -206,7 +206,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 2
-    orderPrefix: Standing Zombie Conversation_Option3_304264_
+    orderPrefix: Standing Zombie Conversation_Option3_577268_
   - isPlayer: 1
     lineID: 401
     scene: MainGame
@@ -227,7 +227,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'OrangePelakHS: Use_304376_'
+    orderPrefix: 'OrangePelakHS: Use_577380_'
   - isPlayer: 0
     lineID: 402
     scene: MainGame
@@ -247,7 +247,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: Standing Zombie Conversation_Option2_304428_
+    orderPrefix: Standing Zombie Conversation_Option2_577436_
   - isPlayer: 1
     lineID: 403
     scene: MainGame
@@ -268,7 +268,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'autopsy_table: Pick_304436_'
+    orderPrefix: 'autopsy_table: Pick_577444_'
   - isPlayer: 1
     lineID: 404
     scene: MainGame
@@ -289,7 +289,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'TestTubePuzzle: Pick_304466_'
+    orderPrefix: 'TestTubePuzzle: Pick_577478_'
   - isPlayer: 1
     lineID: 405
     scene: MainGame
@@ -313,7 +313,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'SafeBrainHS: Use_304478_'
+    orderPrefix: 'SafeBrainHS: Use_577490_'
   - isPlayer: 1
     lineID: 406
     scene: MainGame
@@ -341,7 +341,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'OrangePelakHS: Look at_304488_'
+    orderPrefix: 'OrangePelakHS: Look at_577500_'
   - isPlayer: 1
     lineID: 407
     scene: MainGame
@@ -363,7 +363,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Safe Key Hole: Look at_304496_'
+    orderPrefix: 'Safe Key Hole: Look at_577508_'
   - isPlayer: 1
     lineID: 408
     scene: MainGame
@@ -385,7 +385,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'Safe Key Hole: Look at_304496_'
+    orderPrefix: 'Safe Key Hole: Look at_577508_'
   - isPlayer: 1
     lineID: 409
     scene: MainGame
@@ -406,7 +406,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'FilledTubes: Look at_304536_'
+    orderPrefix: 'FilledTubes: Look at_577548_'
   - isPlayer: 1
     lineID: 410
     scene: MainGame
@@ -427,7 +427,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'FilledTubes: Look at_304536_'
+    orderPrefix: 'FilledTubes: Look at_577548_'
   - isPlayer: 1
     lineID: 411
     scene: MainGame
@@ -448,7 +448,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Drip Tap: EmptyPot_304538_'
+    orderPrefix: 'Drip Tap: EmptyPot_577550_'
   - isPlayer: 1
     lineID: 412
     scene: MainGame
@@ -469,7 +469,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'Drip Tap: EmptyPot_304538_'
+    orderPrefix: 'Drip Tap: EmptyPot_577550_'
   - isPlayer: 1
     lineID: 413
     scene: MainGame
@@ -490,7 +490,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'autopsy_table: Look at_304574_'
+    orderPrefix: 'autopsy_table: Look at_577594_'
   - isPlayer: 1
     lineID: 414
     scene: MainGame
@@ -511,7 +511,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'SafeBrainHS: Look at_304606_'
+    orderPrefix: 'SafeBrainHS: Look at_577626_'
   - isPlayer: 1
     lineID: 415
     scene: MainGame
@@ -532,7 +532,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Ceramic Sink: Unhandled inventory_304608_'
+    orderPrefix: 'Ceramic Sink: Unhandled inventory_577628_'
   - isPlayer: 1
     lineID: 416
     scene: MainGame
@@ -553,7 +553,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'Ceramic Sink: Unhandled inventory_304608_'
+    orderPrefix: 'Ceramic Sink: Unhandled inventory_577628_'
   - isPlayer: 0
     lineID: 417
     scene: MainGame
@@ -573,7 +573,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: Standing Zombie Conversation_Option_304618_
+    orderPrefix: Standing Zombie Conversation_Option_577638_
   - isPlayer: 1
     lineID: 418
     scene: MainGame
@@ -593,7 +593,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'CorpsDrawerSignHS: Look at_304718_'
+    orderPrefix: 'CorpsDrawerSignHS: Look at_577746_'
   - isPlayer: 1
     lineID: 419
     scene: MainGame
@@ -613,7 +613,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'ceramic_sink: EmptyPot_304784_'
+    orderPrefix: 'ceramic_sink: EmptyPot_577828_'
   - isPlayer: 1
     lineID: 420
     scene: MainGame
@@ -634,7 +634,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'ceramic_sink: EmptyPot_304784_'
+    orderPrefix: 'ceramic_sink: EmptyPot_577828_'
   - isPlayer: 1
     lineID: 421
     scene: MainGame
@@ -655,7 +655,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Drip Tap: Use_304816_'
+    orderPrefix: 'Drip Tap: Use_577882_'
   - isPlayer: 1
     lineID: 422
     scene: MainGame
@@ -676,7 +676,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Trolley: Look at_304852_'
+    orderPrefix: 'Trolley: Look at_577918_'
   - isPlayer: 1
     lineID: 423
     scene: MainGame
@@ -697,7 +697,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'SafePuzzleHS: Pick_304876_'
+    orderPrefix: 'SafePuzzleHS: Pick_577942_'
   - isPlayer: 1
     lineID: 424
     scene: MainGame
@@ -717,7 +717,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Safe Key Hole: Safe Key_304882_'
+    orderPrefix: 'Safe Key Hole: Safe Key_577948_'
   - isPlayer: 1
     lineID: 425
     scene: MainGame
@@ -738,7 +738,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'ceramic_sink: Use_304912_'
+    orderPrefix: 'ceramic_sink: Use_577986_'
   - isPlayer: 1
     lineID: 426
     scene: MainGame
@@ -759,27 +759,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'ceramic_sink: Use_304912_'
-  - isPlayer: 1
-    lineID: 427
-    scene: MainGame
-    owner: PlayerFPS
-    text: che aabe khonaki dare ...
-    description: 'From: ceramic_sink: Use'
-    textType: 0
-    translationText:
-    - "\uFEE9\uFEAD\uFE8D\uFEA9 \uFBFD\uFEDC\uFEE8\uFEA7 \uFE8F\uFE81 \uFEEA\uFB7C"
-    - "Such a cold water \u2026"
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: 2
-    orderPrefix: 'ceramic_sink: Use_304912_'
+    orderPrefix: 'ceramic_sink: Use_577986_'
   - isPlayer: 1
     lineID: 428
     scene: MainGame
@@ -800,7 +780,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Jars: Look at_304946_'
+    orderPrefix: 'Jars: Look at_578020_'
   - isPlayer: 1
     lineID: 429
     scene: MainGame
@@ -821,7 +801,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'Jars: Look at_304946_'
+    orderPrefix: 'Jars: Look at_578020_'
   - isPlayer: 1
     lineID: 430
     scene: MainGame
@@ -842,7 +822,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 2
-    orderPrefix: 'Jars: Look at_304946_'
+    orderPrefix: 'Jars: Look at_578020_'
   - isPlayer: 1
     lineID: 431
     scene: MainGame
@@ -866,27 +846,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 3
-    orderPrefix: 'Jars: Look at_304946_'
-  - isPlayer: 1
-    lineID: 432
-    scene: MainGame
-    owner: PlayerFPS
-    text: puzzle solved
-    description: 'From: CheckJarPuzzle'
-    textType: 0
-    translationText:
-    - ".\uFEAA\uFEB7 \uFEDE\uFEA3 \uFE8E\uFEE4\uFECC\uFEE3"
-    - puzzle Solved
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: 0
-    orderPrefix: CheckJarPuzzle_305032_
+    orderPrefix: 'Jars: Look at_578020_'
   - isPlayer: 1
     lineID: 433
     scene: MainGame
@@ -906,7 +866,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Ceramic Sink: FullPot_305122_'
+    orderPrefix: 'Ceramic Sink: FullPot_578212_'
   - isPlayer: 1
     lineID: 434
     scene: MainGame
@@ -933,7 +893,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Saw: Pick_305134_'
+    orderPrefix: 'Saw: Pick_578224_'
   - isPlayer: 1
     lineID: 435
     scene: MainGame
@@ -957,7 +917,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'OrganePelak: Look at_305150_'
+    orderPrefix: 'OrganePelak: Look at_578240_'
   - isPlayer: 1
     lineID: 436
     scene: MainGame
@@ -978,7 +938,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Jars: Use_305184_'
+    orderPrefix: 'Jars: Use_578274_'
   - isPlayer: 1
     lineID: 437
     scene: MainGame
@@ -999,7 +959,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Safe Key Hole: Use_305206_'
+    orderPrefix: 'Safe Key Hole: Use_578296_'
   - isPlayer: 1
     lineID: 438
     scene: MainGame
@@ -1020,7 +980,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'NoteBook: Look at_305212_'
+    orderPrefix: 'NoteBook: Look at_578302_'
   - isPlayer: 1
     lineID: 439
     scene: MainGame
@@ -1045,27 +1005,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'NoteBook: Look at_305212_'
-  - isPlayer: 1
-    lineID: 440
-    scene: MainGame
-    owner: PlayerFPS
-    text: Seda dad ...
-    description: 'From: SafeCombinationCheck'
-    textType: 0
-    translationText:
-    - "\uFEA9\uFE8D\uFEA9 \uFE8D\uFEAA\uFEBB"
-    - A noise!
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: 0
-    orderPrefix: SafeCombinationCheck_305284_
+    orderPrefix: 'NoteBook: Look at_578302_'
   - isPlayer: 1
     lineID: 441
     scene: MainGame
@@ -1085,8 +1025,8 @@ MonoBehaviour:
     onlyPlaySpeechOnce: 0
     alwaysRetainInSpeechManager: 0
     customFilename: 
-    orderID: 1
-    orderPrefix: SafeCombinationCheck_305284_
+    orderID: 0
+    orderPrefix: SafeCombinationCheck_578374_
   - isPlayer: 1
     lineID: 442
     scene: MainGame
@@ -1106,7 +1046,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'IronBoxFake: Use_305354_'
+    orderPrefix: 'IronBoxFake: Use_578444_'
   - isPlayer: 1
     lineID: 443
     scene: MainGame
@@ -1128,7 +1068,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Zarfe Tarazoo: CompleteBrain_305464_'
+    orderPrefix: 'Zarfe Tarazoo: CompleteBrain_578554_'
   - isPlayer: 0
     lineID: 444
     scene: MainGame
@@ -1149,7 +1089,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: Standing Zombie Conversation_Option4_305534_
+    orderPrefix: Standing Zombie Conversation_Option4_578616_
   - isPlayer: 0
     lineID: 445
     scene: MainGame
@@ -1169,7 +1109,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: Standing Zombie Conversation_Option4_305534_
+    orderPrefix: Standing Zombie Conversation_Option4_578616_
   - isPlayer: 1
     lineID: 446
     scene: MainGame
@@ -1194,7 +1134,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 2
-    orderPrefix: Standing Zombie Conversation_Option4_305534_
+    orderPrefix: Standing Zombie Conversation_Option4_578616_
   - isPlayer: 0
     lineID: 447
     scene: MainGame
@@ -1214,7 +1154,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 3
-    orderPrefix: Standing Zombie Conversation_Option4_305534_
+    orderPrefix: Standing Zombie Conversation_Option4_578616_
   - isPlayer: 1
     lineID: 448
     scene: MainGame
@@ -1236,7 +1176,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 4
-    orderPrefix: Standing Zombie Conversation_Option4_305534_
+    orderPrefix: Standing Zombie Conversation_Option4_578616_
   - isPlayer: 1
     lineID: 449
     scene: MainGame
@@ -1256,7 +1196,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Saw: Use_305540_'
+    orderPrefix: 'Saw: Use_578622_'
   - isPlayer: 1
     lineID: 450
     scene: MainGame
@@ -1277,7 +1217,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Larg Glass Jar: Pick_305546_'
+    orderPrefix: 'Larg Glass Jar: Pick_578628_'
   - isPlayer: 1
     lineID: 451
     scene: MainGame
@@ -1298,7 +1238,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Test Tube: FullPot_305594_'
+    orderPrefix: 'Test Tube: FullPot_578676_'
   - isPlayer: 1
     lineID: 452
     scene: MainGame
@@ -1319,7 +1259,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'autopsy_table 1: Look at_305636_'
+    orderPrefix: 'autopsy_table 1: Look at_578718_'
   - isPlayer: 1
     lineID: 453
     scene: MainGame
@@ -1340,7 +1280,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Photo Frame Kian: Look at_305670_'
+    orderPrefix: 'Photo Frame Kian: Look at_578752_'
   - isPlayer: 1
     lineID: 454
     scene: MainGame
@@ -1362,7 +1302,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'Photo Frame Kian: Look at_305670_'
+    orderPrefix: 'Photo Frame Kian: Look at_578752_'
   - isPlayer: 0
     lineID: 455
     scene: MainGame
@@ -1382,7 +1322,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: Standing Zombie Conversation_Option5_305688_
+    orderPrefix: Standing Zombie Conversation_Option5_578770_
   - isPlayer: 0
     lineID: 456
     scene: MainGame
@@ -1403,7 +1343,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: Standing Zombie Conversation_Option5_305688_
+    orderPrefix: Standing Zombie Conversation_Option5_578770_
   - isPlayer: 1
     lineID: 457
     scene: MainGame
@@ -1423,7 +1363,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 2
-    orderPrefix: Standing Zombie Conversation_Option5_305688_
+    orderPrefix: Standing Zombie Conversation_Option5_578770_
   - isPlayer: 0
     lineID: 458
     scene: MainGame
@@ -1445,7 +1385,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 3
-    orderPrefix: Standing Zombie Conversation_Option5_305688_
+    orderPrefix: Standing Zombie Conversation_Option5_578770_
   - isPlayer: 1
     lineID: 459
     scene: MainGame
@@ -1466,7 +1406,27 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Larg Glass Jar: Look at_305750_'
+    orderPrefix: 'Larg Glass Jar: Look at_578832_'
+  - isPlayer: 0
+    lineID: 641
+    scene: MainGame
+    owner: 
+    text: Human Brain
+    description: 'From: CorpsDrawerSignHS: CompleteBrain'
+    textType: 1
+    translationText:
+    - "\uFEE5\uFE8E\uFEB4\uFEE7\uFE8D \uFEDE\uFEE3\uFE8E\uFEDB \uFEB0\uFED0\uFEE3\r"
+    - Complete Human Brain
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
   - isPlayer: 1
     lineID: 460
     scene: MainGame
@@ -1487,11 +1447,11 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'ElectricSwitch: Look at_305814_'
-  - isPlayer: 0
+    orderPrefix: 'ElectricSwitch: Look at_578896_'
+  - isPlayer: 1
     lineID: 461
     scene: MainGame
-    owner: Narrator
+    owner: PlayerFPS
     text: Az Marg Gorizi nist !!!
     description: 'From: ElectricSwitch: Use'
     textType: 0
@@ -1508,7 +1468,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'ElectricSwitch: Use_305830_'
+    orderPrefix: 'ElectricSwitch: Use_578920_'
   - isPlayer: 1
     lineID: 462
     scene: MainGame
@@ -1530,7 +1490,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'CorpsDrawerSignHS: Sciesors_305874_'
+    orderPrefix: 'CorpsDrawerSignHS: Sciesors_578964_'
   - isPlayer: 1
     lineID: 463
     scene: MainGame
@@ -1550,7 +1510,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'CorpsDrawerSignHS: Sciesors_305874_'
+    orderPrefix: 'CorpsDrawerSignHS: Sciesors_578964_'
   - isPlayer: 1
     lineID: 464
     scene: MainGame
@@ -1570,7 +1530,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'SafePuzzleHS: Look at_306036_'
+    orderPrefix: 'SafePuzzleHS: Look at_579136_'
   - isPlayer: 1
     lineID: 465
     scene: MainGame
@@ -1607,7 +1567,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'SafePuzzleHS: Look at_306036_'
+    orderPrefix: 'SafePuzzleHS: Look at_579136_'
   - isPlayer: 1
     lineID: 466
     scene: MainGame
@@ -1631,7 +1591,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Saw: Look at_306054_'
+    orderPrefix: 'Saw: Look at_579162_'
   - isPlayer: 1
     lineID: 467
     scene: MainGame
@@ -1656,27 +1616,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Knife: Pick_306148_'
-  - isPlayer: 1
-    lineID: 468
-    scene: MainGame
-    owner: PlayerFPS
-    text: Puzzle Hal Shod
-    description: 'From: CheckCombinationLock'
-    textType: 0
-    translationText:
-    - "!\uFEAA\uFEB7 \uFEDE\uFEA3 \uFE8E\uFEE4\uFECC\uFEE3"
-    - Puzzle Solved.
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: 0
-    orderPrefix: CheckCombinationLock_306100_
+    orderPrefix: 'Knife: Pick_579256_'
   - isPlayer: 1
     lineID: 469
     scene: MainGame
@@ -1697,7 +1637,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'CorpsDrawerSignHS: Scalp_306102_'
+    orderPrefix: 'CorpsDrawerSignHS: Scalp_579210_'
   - isPlayer: 1
     lineID: 470
     scene: MainGame
@@ -1718,7 +1658,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'CorpsDrawerSignHS: Scalp_306102_'
+    orderPrefix: 'CorpsDrawerSignHS: Scalp_579210_'
   - isPlayer: 1
     lineID: 471
     scene: MainGame
@@ -1741,7 +1681,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 2
-    orderPrefix: 'CorpsDrawerSignHS: Scalp_306102_'
+    orderPrefix: 'CorpsDrawerSignHS: Scalp_579210_'
   - isPlayer: 1
     lineID: 472
     scene: MainGame
@@ -1761,7 +1701,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Test Tube: Use_306108_'
+    orderPrefix: 'Test Tube: Use_579216_'
   - isPlayer: 1
     lineID: 473
     scene: MainGame
@@ -1786,7 +1726,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'LiquidOnly: Look at_306120_'
+    orderPrefix: 'LiquidOnly: Look at_579228_'
   - isPlayer: 1
     lineID: 474
     scene: MainGame
@@ -1806,27 +1746,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'autopsy_table: Use_306202_'
-  - isPlayer: 0
-    lineID: 475
-    scene: MainGame
-    owner: 
-    text: Me
-    description: 'From: PlayerFPS'
-    textType: 10
-    translationText:
-    - "\uFEE6\uFEE3"
-    - Me
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
+    orderPrefix: 'autopsy_table: Use_579310_'
   - isPlayer: 0
     lineID: 476
     scene: MainGame
@@ -1857,6 +1777,26 @@ MonoBehaviour:
     translationText:
     - "\uFEE6\uFE98\uFEE3"
     - Text
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 475
+    scene: MainGame
+    owner: 
+    text: Me
+    description: 'From: PlayerFPS'
+    textType: 10
+    translationText:
+    - "\uFEE6\uFEE3"
+    - Me
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -3227,66 +3167,6 @@ MonoBehaviour:
     translationText:
     - "\uFE96\uFEE3\uFEFC\uFECB Orange "
     - Orange Sign
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 603
-    scene: 
-    owner: 
-    text: Save
-    description: 
-    textType: 5
-    translationText:
-    - "\uFEE9\uFEAE\uFBFF\uFEA7\uFEAB"
-    - Save
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 604
-    scene: 
-    owner: 
-    text: Import
-    description: 
-    textType: 5
-    translationText:
-    - "\uFEA9\uFEED\uFEAD\uFEED"
-    - Import
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 605
-    scene: 
-    owner: 
-    text: Autosave
-    description: 
-    textType: 5
-    translationText:
-    - "\uFEAD\uFE8E\uFEDB\uFEA9\uFEEE\uFEA7 \uFEE9\uFEAE\uFBFF\uFEA7\uFEAB"
-    - Autosave
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -5094,7 +4974,7 @@ MonoBehaviour:
     lineID: 626
     scene: 
     owner: FirstLabel
-    text: 'In Memory of Kian Pirfalak
+    text: 'In Memory of Kian
 
       Who loved rainbows'
     description: 
@@ -5233,7 +5113,7 @@ MonoBehaviour:
   - isPlayer: 0
     lineID: 632
     scene: 
-    owner: Label
+    owner: Presents
     text: Proudly Presents
     description: 
     textType: 5
@@ -5271,66 +5151,6 @@ MonoBehaviour:
     customFilename: 
     orderID: -1
     orderPrefix: 
-  - isPlayer: 0
-    lineID: 634
-    scene: 
-    owner: ShareButton
-    text: Share the Game
-    description: 
-    textType: 5
-    translationText:
-    - "\u0649\uFEAD\uFE8D\uFEAC\uFB94 \u06A9\uFE8D\uFEAE\uFE98\uFEB7\uFE8D"
-    - Share the Game
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 635
-    scene: 
-    owner: OtherButton
-    text: Other Games
-    description: 
-    textType: 5
-    translationText:
-    - "\uFE8E\uFEEB \u0649\uFEAF\uFE8E\uFE91 \uFEAE\uFB95\uFBFE\uFEA9"
-    - Other Games
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 636
-    scene: 
-    owner: RateButton
-    text: Rate The Game
-    description: 
-    textType: 5
-    translationText:
-    - " \uFBFD\uFEEB\uFEA9 \uFEAE\uFEC8\uFEE7"
-    - Rate The Game
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
   - isPlayer: 1
     lineID: 637
     scene: 
@@ -5350,7 +5170,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: Inventory_Unhandled_Combine_21182_
+    orderPrefix: Inventory_Unhandled_Combine_21252_
   - isPlayer: 1
     lineID: 638
     scene: 
@@ -5370,7 +5190,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: Inventory_Unhandled_Hotspot_21030_
+    orderPrefix: Inventory_Unhandled_Hotspot_21092_
   - isPlayer: 1
     lineID: 639
     scene: 
@@ -5391,7 +5211,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: BlueSack_Examine_20562_
+    orderPrefix: BlueSack_Examine_20610_
   - isPlayer: 1
     lineID: 640
     scene: 
@@ -5414,22 +5234,342 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: BlueSack_Examine_20562_
-  - isPlayer: 0
-    lineID: 641
+    orderPrefix: BlueSack_Examine_20610_
+  - isPlayer: 1
+    lineID: 642
     scene: MainGame
-    owner: 
-    text: Human Brain
-    description: 'From: CorpsDrawerSignHS: CompleteBrain'
-    textType: 1
+    owner: PlayerFPS
+    text: Chera monfajer shod!
+    description: 'From: CombinationLockUnlockCutScene'
+    textType: 0
     translationText:
-    - "\uFEE5\uFE8E\uFEB4\uFEE7\uFE8D \uFEDE\uFEE3\uFE8E\uFEDB \uFEB0\uFED0\uFEE3\r"
-    - Complete Human Brain
+    - Chera monfajer shod!
+    - Chera monfajer shod!
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
     tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: 0
+    orderPrefix: CombinationLockUnlockCutScene_577872_
+  - isPlayer: 1
+    lineID: 643
+    scene: MainGame
+    owner: PlayerFPS
+    text: Inja kojast
+    description: 'From: startupCinemantic'
+    textType: 0
+    translationText:
+    - Inja kojast
+    - Inja kojast
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: 1
+    orderPrefix: startupCinemantic_578490_
+  - isPlayer: 1
+    lineID: 644
+    scene: MainGame
+    owner: PlayerFPS
+    text: In vasayela chie?!
+    description: 'From: startupCinemantic'
+    textType: 0
+    translationText:
+    - In vasayela chie?!
+    - In vasayela chie?!
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: 2
+    orderPrefix: startupCinemantic_578490_
+  - isPlayer: 1
+    lineID: 645
+    scene: MainGame
+    owner: PlayerFPS
+    text: Ye dar oonjast. beram biroon az yeki beporsam
+    description: 'From: startupCinemantic'
+    textType: 0
+    translationText:
+    - Ye dar oonjast. beram biroon az yeki beporsam
+    - Ye dar oonjast. beram biroon az yeki beporsam
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: 3
+    orderPrefix: startupCinemantic_578490_
+  - isPlayer: 1
+    lineID: 646
+    scene: MainGame
+    owner: PlayerFPS
+    text: cheghadr kafe zamin sarde.
+    description: 'From: startupCinemantic'
+    textType: 0
+    translationText:
+    - cheghadr kafe zamin sarde.
+    - cheghadr kafe zamin sarde.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: 4
+    orderPrefix: startupCinemantic_578490_
+  - isPlayer: 1
+    lineID: 647
+    scene: MainGame
+    owner: PlayerFPS
+    text: kafsham kojast?!
+    description: 'From: startupCinemantic'
+    textType: 0
+    translationText:
+    - kafsham kojast?!
+    - kafsham kojast?!
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: 5
+    orderPrefix: startupCinemantic_578490_
+  - isPlayer: 1
+    lineID: 648
+    scene: MainGame
+    owner: PlayerFPS
+    text: dare chera ghofle.
+    description: 'From: startupCinemantic'
+    textType: 0
+    translationText:
+    - dare chera ghofle.
+    - dare chera ghofle.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: 6
+    orderPrefix: startupCinemantic_578490_
+  - isPlayer: 1
+    lineID: 649
+    scene: MainGame
+    owner: PlayerFPS
+    text: hala chetor beram birron.
+    description: 'From: startupCinemantic'
+    textType: 0
+    translationText:
+    - hala chetor beram birron.
+    - hala chetor beram birron.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: 7
+    orderPrefix: startupCinemantic_578490_
+  - isPlayer: 1
+    lineID: 650
+    scene: MainGame
+    owner: PlayerFPS
+    text: Mitarsam daresh ro baz konam.
+    description: 'From: CorpsDrawer: Use'
+    textType: 0
+    translationText:
+    - Mitarsam daresh ro baz konam.
+    - Mitarsam daresh ro baz konam.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: 0
+    orderPrefix: 'CorpsDrawer: Use_578878_'
+  - isPlayer: 0
+    lineID: 651
+    scene: 
+    owner: 
+    text: Save
+    description: 
+    textType: 5
+    translationText:
+    - Save
+    - Save
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 652
+    scene: 
+    owner: 
+    text: Import
+    description: 
+    textType: 5
+    translationText:
+    - Import
+    - Import
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 653
+    scene: 
+    owner: 
+    text: Autosave
+    description: 
+    textType: 5
+    translationText:
+    - Autosave
+    - Autosave
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 654
+    scene: 
+    owner: Tutorials
+    text: Tutorials
+    description: 
+    textType: 5
+    translationText:
+    - Tutorials
+    - Tutorials
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 655
+    scene: 
+    owner: HelenLabel
+    text: Helen Game Factory
+    description: 
+    textType: 5
+    translationText:
+    - Helen Game Factory
+    - Helen Game Factory
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 656
+    scene: 
+    owner: Previous
+    text: Previous
+    description: 
+    textType: 5
+    translationText:
+    - Previous
+    - Previous
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 657
+    scene: 
+    owner: Next
+    text: Next
+    description: 
+    textType: 5
+    translationText:
+    - Next
+    - Next
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 658
+    scene: 
+    owner: Title
+    text: Tutorial
+    description: 
+    textType: 5
+    translationText:
+    - Tutorial
+    - Tutorial
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
     onlyPlaySpeechOnce: 0
     alwaysRetainInSpeechManager: 0
     customFilename: 
@@ -5456,9 +5596,9 @@ MonoBehaviour:
   phonemes: []
   lipSyncSpeed: 1
   translatableTextTypes: -1
-  maxID: 641
+  maxID: 658
   speechIDRecycling: 1
-  activeLineID: 631
+  activeLineID: 637
   mergeMatchingSpeechIDs: 0
   useSpeechTags: 0
   speechTags:

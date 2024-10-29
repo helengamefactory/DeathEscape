@@ -814,7 +814,7 @@ MonoBehaviour:
   - label: RedPot
     id: 15
     altLabel: Red Pot
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -869,7 +869,7 @@ MonoBehaviour:
   - label: GreenPot
     id: 16
     altLabel: Green Pot
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -924,7 +924,7 @@ MonoBehaviour:
   - label: Orange Pot
     id: 17
     altLabel: Orange Pot
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -979,7 +979,7 @@ MonoBehaviour:
   - label: Yellow Pot
     id: 18
     altLabel: Yellow Pot
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -1034,7 +1034,7 @@ MonoBehaviour:
   - label: Blue Pot
     id: 19
     altLabel: Blue Pot
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []

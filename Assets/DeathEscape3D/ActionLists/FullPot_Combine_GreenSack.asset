@@ -23,7 +23,7 @@ MonoBehaviour:
   linkedCutscene: {fileID: 0}
   linkedAsset: {fileID: 0}
   endings:
-  - resultAction: 1
+  - resultAction: 0
     skipAction: -1
     skipActionActual: {fileID: 0}
     linkedCutscene: {fileID: 0}
@@ -33,8 +33,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 70
-    y: 349
+    x: 14
+    y: 338
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -52,6 +52,57 @@ MonoBehaviour:
   playerID: 0
   addToFront: 0
   removeLast: 0
+--- !u!114 &-3640779597609327862
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62039dffc3e3f4364ae507b3a6225ad0, type: 3}
+  m_Name: (Clone)
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 1
+    skipAction: -1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 500
+    width: 300
+    height: 233
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  trackID: 22
+  trackIDParameterID: -1
+  fadeTime: 0
+  fadeTimeParameterID: -1
+  loop: 0
+  isQueued: 0
+  resumeFromStart: 1
+  resumeIfPlayedBefore: 0
+  willWaitComplete: 0
+  musicAction: 0
+  loopingOverlapTime: 0
 --- !u!114 &-1912767060643505810
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85,8 +136,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 70
-    y: 192
+    x: 14
+    y: 176
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -120,6 +171,7 @@ MonoBehaviour:
   - {fileID: 7455915063370896690}
   - {fileID: -1912767060643505810}
   - {fileID: -3692118081657458550}
+  - {fileID: -3640779597609327862}
   isSkippable: 1
   actionListType: 0
   unfreezePauseMenus: 1

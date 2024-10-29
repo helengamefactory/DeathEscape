@@ -1371,7 +1371,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 2
   slotSpacing: 0
-  lineID: -1
+  lineID: 658
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
   fontScaleFactor: 3.5
@@ -2324,7 +2324,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 0
   slotSpacing: 0
-  lineID: -1
+  lineID: 654
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
   fontScaleFactor: 3
@@ -3758,7 +3758,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 2
   slotSpacing: 0
-  lineID: -1
+  lineID: 657
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
   fontScaleFactor: 2
@@ -4867,7 +4867,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 2
   slotSpacing: 0
-  lineID: -1
+  lineID: 656
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
   fontScaleFactor: 2
@@ -5350,7 +5350,7 @@ MonoBehaviour:
   alignment: 4
   toggleKey: 
   ignoreMouseClicks: 0
-  pauseWhenEnabled: 1
+  pauseWhenEnabled: 0
   showWhenPaused: 0
   canClickInCutscene: 0
   enabledOnStart: 0
@@ -8082,7 +8082,7 @@ MonoBehaviour:
   sizeType: 0
   positionType: 2
   slotSpacing: 0
-  lineID: -1
+  lineID: 655
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
   fontScaleFactor: 2.5
