@@ -38,7 +38,7 @@ MonoBehaviour:
   playerSwitching: 1
   player: {fileID: 6400253439099899167, guid: 8a629ef365eafbe458fbcc6153daec4e, type: 3}
   players: []
-  movementMethod: 4
+  movementMethod: 2
   inputMethod: 2
   interactionMethod: 2
   selectInteractions: 0
@@ -56,7 +56,7 @@ MonoBehaviour:
   whenReselectHotspot: 0
   lockCursorOnStart: 0
   hideLockedCursor: 0
-  disableFreeAimWhenDragging: 0
+  disableFreeAimWhenDragging: 1
   runConversationsWithKeys: 0
   clickUpInteractions: 0
   defaultMouseClicks: 0
@@ -113,7 +113,7 @@ MonoBehaviour:
   useFPCamDuringConversations: 1
   onlyInteractWhenCursorUnlocked: 0
   freeAimSmoothSpeed: 50
-  firstPersonMovementSmoothing: 0
+  firstPersonMovementSmoothing: 1
   assumeInputsDefined: 0
   activeInputs: []
   freeAimTouchSpeed: 0.01
