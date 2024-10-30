@@ -886,7 +886,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1388896808}
         m_TargetAssemblyTypeName: BAHMANPublicRelation, Assembly-CSharp
-        m_MethodName: _RateClicked
+        m_MethodName: _ShareClicked
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
