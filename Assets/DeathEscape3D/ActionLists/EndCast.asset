@@ -472,7 +472,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 31
+    skipAction: 32
     skipActionActual: {fileID: 4033699234309702694}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -514,7 +514,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 33
+    skipAction: 34
     skipActionActual: {fileID: 1449304233113936046}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -825,9 +825,10 @@ MonoBehaviour:
   - {fileID: -2283045490786998513}
   - {fileID: 501253859155944260}
   - {fileID: 7015716588713586586}
+  - {fileID: 4688357531847855868}
   - {fileID: -4443616180065563291}
   - {fileID: 4033699234309702694}
-  - {fileID: 420194080016774502}
+  - {fileID: 8581360098717345027}
   - {fileID: 1449304233113936046}
   isSkippable: 0
   actionListType: 0
@@ -839,51 +840,6 @@ MonoBehaviour:
   parameters: []
   tagID: 0
   backupData: []
---- !u!114 &420194080016774502
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c47ef24c0855d41f4a4073c476ef37a2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  id: 0
-  isDisplayed: 1
-  showComment: 0
-  comment: 
-  willWait: 0
-  endAction: 0
-  skipAction: -1
-  skipActionActual: {fileID: 0}
-  linkedCutscene: {fileID: 0}
-  linkedAsset: {fileID: 0}
-  endings:
-  - resultAction: 1
-    skipAction: -1
-    skipActionActual: {fileID: 0}
-    linkedCutscene: {fileID: 0}
-    linkedAsset: {fileID: 0}
-  isEnabled: 1
-  isAssetFile: 1
-  isBreakPoint: 0
-  nodeRect:
-    serializedVersion: 2
-    x: 14
-    y: 5480
-    width: 300
-    height: 64
-  overrideColor: {r: 1, g: 1, b: 1, a: 1}
-  showOutputSockets: 1
-  parentActionListInEditor: {fileID: 0}
-  endGameType: 0
-  chooseSceneBy: 0
-  sceneNumber: 0
-  sceneName: 
-  resetMenus: 0
 --- !u!114 &501253859155944260
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -908,7 +864,7 @@ MonoBehaviour:
   linkedAsset: {fileID: 0}
   endings:
   - resultAction: 2
-    skipAction: 30
+    skipAction: 31
     skipActionActual: {fileID: -4443616180065563291}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
@@ -1426,6 +1382,58 @@ MonoBehaviour:
   lineID: -1
   journalPageIndex: -1
   journalPageIndexParameterID: -1
+--- !u!114 &4688357531847855868
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74813bf97090c47b39d9f3d0ec84a80b, type: 3}
+  m_Name: (Clone)
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 2
+    skipAction: 33
+    skipActionActual: {fileID: 8581360098717345027}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 14
+    y: 5460
+    width: 300
+    height: 172
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  changeType: 1
+  removeJournalPageMethod: 0
+  menuToChange: EndGameMemory
+  menuToChangeParameterID: -1
+  elementToChange: 
+  elementToChangeParameterID: -1
+  journalText: 
+  onlyAddNewJournal: 0
+  doFade: 1
+  lineID: -1
+  journalPageIndex: -1
+  journalPageIndexParameterID: -1
 --- !u!114 &6299460923096914735
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1595,9 +1603,9 @@ MonoBehaviour:
   linkedCutscene: {fileID: 0}
   linkedAsset: {fileID: 0}
   endings:
-  - resultAction: 2
+  - resultAction: 0
     skipAction: 32
-    skipActionActual: {fileID: 420194080016774502}
+    skipActionActual: {fileID: 0}
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
@@ -1608,7 +1616,7 @@ MonoBehaviour:
     x: 14
     y: 5338
     width: 300
-    height: 112
+    height: 92
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -1698,3 +1706,48 @@ MonoBehaviour:
   parentActionListInEditor: {fileID: 0}
   parameterID: -1
   timeToPause: 1
+--- !u!114 &8581360098717345027
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c47ef24c0855d41f4a4073c476ef37a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  isDisplayed: 1
+  showComment: 0
+  comment: 
+  willWait: 0
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  endings:
+  - resultAction: 1
+    skipAction: -1
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isBreakPoint: 0
+  nodeRect:
+    serializedVersion: 2
+    x: 15
+    y: 5663
+    width: 300
+    height: 64
+  overrideColor: {r: 1, g: 1, b: 1, a: 1}
+  showOutputSockets: 1
+  parentActionListInEditor: {fileID: 0}
+  endGameType: 0
+  chooseSceneBy: 0
+  sceneNumber: 0
+  sceneName: 
+  resetMenus: 1

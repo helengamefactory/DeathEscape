@@ -1371,7 +1371,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 2
   slotSpacing: 0
-  lineID: -1
+  lineID: 658
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
   fontScaleFactor: 3.5
@@ -2324,7 +2324,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 0
   slotSpacing: 0
-  lineID: -1
+  lineID: 654
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
   fontScaleFactor: 3
@@ -3438,6 +3438,8 @@ MonoBehaviour:
   visibleElements:
   - {fileID: -4282958009224650304}
   - {fileID: -7992012712813569817}
+  - {fileID: -342464549889674866}
+  - {fileID: -1644161424427271127}
   transitionProgress: 0
   appearType: 0
   speechMenuType: 0
@@ -3452,6 +3454,8 @@ MonoBehaviour:
   elements:
   - {fileID: -4282958009224650304}
   - {fileID: -7992012712813569817}
+  - {fileID: -342464549889674866}
+  - {fileID: -1644161424427271127}
   spacing: 1
   sizeType: 1
   autoSizeEveryFrame: 0
@@ -3758,7 +3762,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 2
   slotSpacing: 0
-  lineID: -1
+  lineID: 657
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
   fontScaleFactor: 2
@@ -3843,8 +3847,8 @@ MonoBehaviour:
   showWhenPaused: 0
   canClickInCutscene: 0
   enabledOnStart: 0
-  actionListOnTurnOn: {fileID: 11400000, guid: d22df600dadbb3144bb81e9588463f43, type: 2}
-  actionListOnTurnOff: {fileID: 0}
+  actionListOnTurnOn: {fileID: 11400000, guid: 966749b508b94234491315ea60659e02, type: 2}
+  actionListOnTurnOff: {fileID: 11400000, guid: d8a8627e0a7ab0f40bfe8253f16acda6, type: 2}
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
@@ -3921,6 +3925,76 @@ MonoBehaviour:
     width: 356.928
     height: 360.384
   showInFilter: 1
+--- !u!114 &-1644161424427271127
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64747f67d47cb4e04a88bea43b7c1cfd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ID: 4
+  title: OtherProducts
+  slotSize: {x: 14.867424, y: 4.7916665}
+  sizeType: 0
+  positionType: 2
+  slotSpacing: 0
+  lineID: 604
+  alternativeInputButton: 
+  font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
+  fontScaleFactor: 2.2
+  fontColor: {r: 0.7877358, g: 0.8408019, b: 1, a: 1}
+  fontHighlightColor: {r: 0.9528302, g: 0.8720103, b: 0, a: 1}
+  isVisible: 1
+  isClickable: 1
+  orientation: 1
+  gridWidth: 3
+  backgroundTexture: {fileID: 0}
+  singleSlotBackgrounds: 0
+  highlightTexture: {fileID: 0}
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 0}
+  changeCursor: 0
+  cursorID: 0
+  linkedUiID: 0
+  maxAutoWidthFactor: 0.5
+  relativeRect:
+    serializedVersion: 2
+    x: 727.58405
+    y: 264
+    width: 157
+    height: 23
+  relativePosition: {x: 68.9, y: 55}
+  numSlots: 1
+  uiButton: {fileID: 0}
+  uiPointerState: 0
+  label: Other Products
+  hotspotLabel: 
+  hotspotLabelID: -1
+  anchor: 4
+  textEffects: 1
+  outlineSize: 2
+  buttonClickType: 3
+  actionList: {fileID: 11400000, guid: 55552c8563c694e42bf6657def693da6, type: 2}
+  parameterID: -1
+  parameterValue: 0
+  doFade: 0
+  switchMenuTitle: 
+  inventoryBoxTitle: 
+  shiftInventory: 0
+  shiftAmount: 1
+  onlyShowWhenEffective: 0
+  loopJournal: 0
+  inputAxis: 
+  simulateInput: 0
+  simulateValue: 1
+  clickTexture: {fileID: 0}
+  allowContinuousClick: 0
+  uiSelectableHideStyle: 0
 --- !u!114 &-1623898918341585016
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -4528,6 +4602,76 @@ MonoBehaviour:
     width: 304.128
     height: 81.12
   showInFilter: 1
+--- !u!114 &-342464549889674866
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64747f67d47cb4e04a88bea43b7c1cfd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ID: 2
+  title: RateUs
+  slotSize: {x: 8.049242, y: 4.7916665}
+  sizeType: 0
+  positionType: 2
+  slotSpacing: 0
+  lineID: 468
+  alternativeInputButton: 
+  font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
+  fontScaleFactor: 2.2
+  fontColor: {r: 0.7877358, g: 0.8408019, b: 1, a: 1}
+  fontHighlightColor: {r: 0.9528302, g: 0.8720103, b: 0, a: 1}
+  isVisible: 1
+  isClickable: 1
+  orientation: 1
+  gridWidth: 3
+  backgroundTexture: {fileID: 0}
+  singleSlotBackgrounds: 0
+  highlightTexture: {fileID: 0}
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 0}
+  changeCursor: 0
+  cursorID: 0
+  linkedUiID: 0
+  maxAutoWidthFactor: 0.5
+  relativeRect:
+    serializedVersion: 2
+    x: 305.18402
+    y: 264
+    width: 85
+    height: 23
+  relativePosition: {x: 28.9, y: 55}
+  numSlots: 1
+  uiButton: {fileID: 0}
+  uiPointerState: 0
+  label: Rate Us
+  hotspotLabel: 
+  hotspotLabelID: -1
+  anchor: 4
+  textEffects: 1
+  outlineSize: 2
+  buttonClickType: 3
+  actionList: {fileID: 11400000, guid: 1ba07ebdc8100c04e9b061fe281f9f99, type: 2}
+  parameterID: -1
+  parameterValue: 0
+  doFade: 0
+  switchMenuTitle: 
+  inventoryBoxTitle: 
+  shiftInventory: 0
+  shiftAmount: 1
+  onlyShowWhenEffective: 0
+  loopJournal: 0
+  inputAxis: 
+  simulateInput: 0
+  simulateValue: 1
+  clickTexture: {fileID: 0}
+  allowContinuousClick: 0
+  uiSelectableHideStyle: 0
 --- !u!114 &-33797363745304070
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -4867,7 +5011,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 2
   slotSpacing: 0
-  lineID: -1
+  lineID: 656
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
   fontScaleFactor: 2
@@ -5350,7 +5494,7 @@ MonoBehaviour:
   alignment: 4
   toggleKey: 
   ignoreMouseClicks: 0
-  pauseWhenEnabled: 1
+  pauseWhenEnabled: 0
   showWhenPaused: 0
   canClickInCutscene: 0
   enabledOnStart: 0
@@ -5460,8 +5604,8 @@ MonoBehaviour:
   showWhenPaused: 0
   canClickInCutscene: 0
   enabledOnStart: 0
-  actionListOnTurnOn: {fileID: 11400000, guid: 4396eea5fba619a429a83f4dfe24a256, type: 2}
-  actionListOnTurnOff: {fileID: 11400000, guid: 321d3fb9672ca0744a1220e855e1eea0, type: 2}
+  actionListOnTurnOn: {fileID: 0}
+  actionListOnTurnOff: {fileID: 0}
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
@@ -8082,7 +8226,7 @@ MonoBehaviour:
   sizeType: 0
   positionType: 2
   slotSpacing: 0
-  lineID: -1
+  lineID: 655
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
   fontScaleFactor: 2.5

@@ -27,11 +27,11 @@ MonoBehaviour:
   saveAssetReferencesWithAddressables: 0
   saveLabels:
     defaultSaveLabel: Save
-    saveLabelID: -1
+    saveLabelID: 427
     defaultImportLabel: Import
-    importLabelID: -1
+    importLabelID: 432
     defaultAutosaveLabel: Autosave
-    autosaveLabelID: -1
+    autosaveLabelID: 440
   sceneAttributes: []
   actionListOnStart: {fileID: 11400000, guid: 49b07663dd0ccc24abd0b93e4f36b7df, type: 2}
   blackOutWhenSkipping: 0
@@ -56,7 +56,7 @@ MonoBehaviour:
   whenReselectHotspot: 0
   lockCursorOnStart: 0
   hideLockedCursor: 0
-  disableFreeAimWhenDragging: 0
+  disableFreeAimWhenDragging: 1
   runConversationsWithKeys: 0
   clickUpInteractions: 0
   defaultMouseClicks: 0
@@ -113,7 +113,7 @@ MonoBehaviour:
   useFPCamDuringConversations: 1
   onlyInteractWhenCursorUnlocked: 0
   freeAimSmoothSpeed: 50
-  firstPersonMovementSmoothing: 0
+  firstPersonMovementSmoothing: 1
   assumeInputsDefined: 0
   activeInputs: []
   freeAimTouchSpeed: 0.01
@@ -202,6 +202,30 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: f0dd733ba4ceb324c8e22939135a58e2, type: 3}
     relativeVolume: 1
     overrideMixerGroup: {fileID: 0}
+  - ID: 7
+    audioClip: {fileID: 8300000, guid: c3e3420d23b3cab46927793d2265747f, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 8
+    audioClip: {fileID: 8300000, guid: d42d16fc7a8dd5c40b0f3d04212c4c8c, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 9
+    audioClip: {fileID: 8300000, guid: d8c5bcee8a3872147bbbc2b5026e13e1, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 10
+    audioClip: {fileID: 8300000, guid: b18f747683102c14aa9a147fdc436530, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 11
+    audioClip: {fileID: 8300000, guid: eb457c54be9affd4e80902dc1e16d55a, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 12
+    audioClip: {fileID: 8300000, guid: 0c9fd6771d8122d4799ad33a83f1bd82, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
   ambienceStorages:
   - ID: 0
     audioClip: {fileID: 8300000, guid: c1f01dcaee737ed4495a8ff84d78c4ff, type: 3}
@@ -249,6 +273,74 @@ MonoBehaviour:
     overrideMixerGroup: {fileID: 0}
   - ID: 11
     audioClip: {fileID: 8300000, guid: 6fa9a250bffc6454a840a823ac5ae71d, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 12
+    audioClip: {fileID: 8300000, guid: ff96752f2f5131c4f9c9317559ee806b, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 13
+    audioClip: {fileID: 8300000, guid: fa84f1c63e1690c46937a48d6ce513f0, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 14
+    audioClip: {fileID: 8300000, guid: 0f1a035259f9f0042a59b350ac593236, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 15
+    audioClip: {fileID: 8300000, guid: 7bce133cf2d9aa149969439272b6d20f, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 16
+    audioClip: {fileID: 8300000, guid: bb0a7a23320674e4287636ea2fd97d50, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 17
+    audioClip: {fileID: 8300000, guid: 068b29664825afd44a2378517c0d8bd2, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 19
+    audioClip: {fileID: 8300000, guid: ba5629feda6484f49a05a0ed55effc66, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 20
+    audioClip: {fileID: 8300000, guid: 5e479e222ec1b4f46ba846e10b802908, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 18
+    audioClip: {fileID: 8300000, guid: 795015f2c0b2622448c367a2ad0f0add, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 21
+    audioClip: {fileID: 8300000, guid: 7b4d52f1f81e51d40bc7f31c0c03cc35, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 22
+    audioClip: {fileID: 8300000, guid: 771abb20a13f71b458c676acf941a2d4, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 23
+    audioClip: {fileID: 8300000, guid: 92309f6f9fc3e3246a3da9c5b034c5fe, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 24
+    audioClip: {fileID: 8300000, guid: 7a97d94a2d711bf4ea5b3bfae6efe5ee, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 25
+    audioClip: {fileID: 8300000, guid: db2dd00de4e536948a4878afbe8fb71d, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 26
+    audioClip: {fileID: 8300000, guid: b007d1504f4502b4abfe478c1049b619, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 27
+    audioClip: {fileID: 8300000, guid: f406e0d8db7332b4c87b09fad5b34804, type: 3}
+    relativeVolume: 0.5
+    overrideMixerGroup: {fileID: 0}
+  - ID: 28
+    audioClip: {fileID: 8300000, guid: 6cdc7dcfcb5f13d4495ac00b727cab6b, type: 3}
     relativeVolume: 1
     overrideMixerGroup: {fileID: 0}
   loadAmbienceFadeTime: 0
