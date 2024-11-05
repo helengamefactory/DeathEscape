@@ -1984,7 +1984,7 @@ MonoBehaviour:
   isClickable: 1
   orientation: 1
   gridWidth: 3
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: e55dc530f6e6623408a1d769c83defd1, type: 3}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 0}
   hoverSound: {fileID: 0}
@@ -2051,9 +2051,9 @@ MonoBehaviour:
   title: DocumentList
   manualSize: {x: 15.599999, y: 40.479996}
   positionType: 1
-  manualPosition: {x: 973.632, y: 97.15199}
+  manualPosition: {x: 973.632, y: 240}
   positionSmoothing: 0
-  alignment: 2
+  alignment: 5
   toggleKey: 
   ignoreMouseClicks: 0
   pauseWhenEnabled: 1
@@ -2126,7 +2126,7 @@ MonoBehaviour:
   rect:
     serializedVersion: 2
     x: 891.26404
-    y: 0
+    y: 142.848
     width: 164.736
     height: 194.30399
   showInFilter: 1
@@ -2564,17 +2564,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 1
   title: ObjectiveMenuButton
-  slotSize: {x: 10, y: 7}
+  slotSize: {x: 6, y: 11}
   sizeType: 1
   positionType: 0
   slotSpacing: 0
   lineID: -1
   alternativeInputButton: 
   font: {fileID: 0}
-  fontScaleFactor: 1.5
+  fontScaleFactor: 1.3
   fontColor: {r: 0.7877358, g: 0.8408019, b: 1, a: 1}
   fontHighlightColor: {r: 0.9528302, g: 0.8720103, b: 0, a: 1}
-  isVisible: 0
+  isVisible: 1
   isClickable: 1
   orientation: 1
   gridWidth: 3
@@ -2589,10 +2589,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 8.5536
-    y: 8.5536
-    width: 105.600006
-    height: 33.600002
+    x: 16.684801
+    y: 16.684801
+    width: 63.36
+    height: 52.800003
   relativePosition: {x: 10, y: 7}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -2602,7 +2602,7 @@ MonoBehaviour:
   hotspotLabelID: -1
   anchor: 4
   textEffects: 1
-  outlineSize: 2
+  outlineSize: 1.5
   buttonClickType: 3
   actionList: {fileID: 11400000, guid: b7eb2a9d17c0828439086a7397bef8b0, type: 2}
   parameterID: -1
@@ -5391,9 +5391,9 @@ MonoBehaviour:
   _isLocked: 0
   id: 22
   title: DocumentMenu
-  manualSize: {x: 0.81, y: 1.7820001}
-  positionType: 1
-  manualPosition: {x: 1051.7233, y: 4.2768}
+  manualSize: {x: 9.16, y: 17.952}
+  positionType: 2
+  manualPosition: {x: 50, y: 13}
   positionSmoothing: 0
   alignment: 2
   toggleKey: 
@@ -5407,8 +5407,9 @@ MonoBehaviour:
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
-  backgroundTexture: {fileID: 2800000, guid: 5afe8d06fd76ba447a30cc25fd23e687, type: 3}
-  visibleElements: []
+  backgroundTexture: {fileID: 2800000, guid: 40fc9f56c7492d64dac99f34614c6fa3, type: 3}
+  visibleElements:
+  - {fileID: -4690715606657021551}
   transitionProgress: 0
   appearType: 13
   speechMenuType: 0
@@ -5423,11 +5424,11 @@ MonoBehaviour:
   elements:
   - {fileID: 6819967153743236893}
   - {fileID: -4690715606657021551}
-  spacing: 0.81
+  spacing: 1.58
   sizeType: 0
   autoSizeEveryFrame: 0
-  orientation: 1
-  transitionType: 0
+  orientation: 0
+  transitionType: 4
   panDirection: 0
   panMovement: 0
   timeCurve:
@@ -5462,13 +5463,13 @@ MonoBehaviour:
   speechProximityLimit: 0
   speechProximityDistance: 10
   deleteUIWhenTurnOff: 0
-  biggestElementSize: {x: 0, y: 0}
+  biggestElementSize: {x: 80.0448, y: 69.4848}
   rect:
     serializedVersion: 2
-    x: 1047.4464
-    y: 0
-    width: 8.5536
-    height: 8.5536
+    x: 479.6352
+    y: 19.315197
+    width: 96.7296
+    height: 86.1696
   showInFilter: 1
 --- !u!114 &790158920499309185
 MonoBehaviour:
@@ -6249,7 +6250,7 @@ MonoBehaviour:
   isClickable: 0
   orientation: 0
   gridWidth: 3
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: e55dc530f6e6623408a1d769c83defd1, type: 3}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 0}
   hoverSound: {fileID: 0}
@@ -6765,7 +6766,7 @@ MonoBehaviour:
   isClickable: 1
   orientation: 1
   gridWidth: 3
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: 653ec5ce0cbc5b74998172439760f889, type: 3}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 2800000, guid: ac2dde689ce194d9a81a41f09e6b56b4, type: 3}
   hoverSound: {fileID: 0}
@@ -8654,7 +8655,7 @@ MonoBehaviour:
   isClickable: 0
   orientation: 1
   gridWidth: 3
-  backgroundTexture: {fileID: 0}
+  backgroundTexture: {fileID: 2800000, guid: e55dc530f6e6623408a1d769c83defd1, type: 3}
   singleSlotBackgrounds: 0
   highlightTexture: {fileID: 0}
   hoverSound: {fileID: 0}
@@ -8830,14 +8831,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ID: 0
   title: DocumentMenuButton
-  slotSize: {x: 10, y: 7}
+  slotSize: {x: 6, y: 11}
   sizeType: 1
   positionType: 0
   slotSpacing: 0
   lineID: -1
   alternativeInputButton: 
   font: {fileID: 0}
-  fontScaleFactor: 1.5
+  fontScaleFactor: 1.3
   fontColor: {r: 0.7877358, g: 0.8408019, b: 1, a: 1}
   fontHighlightColor: {r: 0.9528302, g: 0.8720103, b: 0, a: 1}
   isVisible: 0
@@ -8855,10 +8856,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 8.5536
-    y: 8.5536
-    width: 105.600006
-    height: 33.600002
+    x: 16.684801
+    y: 16.684801
+    width: 63.36
+    height: 52.800003
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -8868,7 +8869,7 @@ MonoBehaviour:
   hotspotLabelID: -1
   anchor: 4
   textEffects: 1
-  outlineSize: 2
+  outlineSize: 1.5
   buttonClickType: 3
   actionList: {fileID: 11400000, guid: 66d05133704ad0442994ca714bfae730, type: 2}
   parameterID: -1
@@ -9246,7 +9247,7 @@ MonoBehaviour:
   alignment: 0
   toggleKey: 
   ignoreMouseClicks: 0
-  pauseWhenEnabled: 0
+  pauseWhenEnabled: 1
   showWhenPaused: 0
   canClickInCutscene: 0
   enabledOnStart: 0
