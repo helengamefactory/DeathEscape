@@ -326,7 +326,7 @@ MonoBehaviour:
     description: 'From: OrangePelakHS: Look at'
     textType: 0
     translationText:
-    - "\u0646\u0648\u0634\u062A\u0647:\nOrange\n954188"
+    - ":\uFEEA\uFE98\uFEB7\uFEEE\uFEE7\nOrange\n954188"
     - 'Reads:
 
       Orange
@@ -4153,7 +4153,7 @@ MonoBehaviour:
     textType: 11
     translationText:
     - "\uFBFD\uFEE8\uFE98\uFEE3 \u06A9\uFEFC\uFB58"
-    - Organe
+    - Text Label
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -6142,7 +6142,7 @@ MonoBehaviour:
   translatableTextTypes: -1
   maxID: 686
   speechIDRecycling: 1
-  activeLineID: 468
+  activeLineID: 583
   mergeMatchingSpeechIDs: 0
   useSpeechTags: 0
   speechTags:
