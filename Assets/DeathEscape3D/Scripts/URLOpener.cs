@@ -7,4 +7,8 @@ public class URLOpener : MonoBehaviour
     {
         Application.OpenURL( _URLToOpen );
     }
+    public void _OpenRatings()
+    {
+        BAHMANPublicRelation._Instance._RateClicked();
+    }
 }
