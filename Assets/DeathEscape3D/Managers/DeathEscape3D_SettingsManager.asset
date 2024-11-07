@@ -359,10 +359,10 @@ MonoBehaviour:
   speechAttentuationParameter: speechVolume
   defaultLanguage: 0
   defaultVoiceLanguage: 0
-  defaultShowSubtitles: 0
-  defaultSfxVolume: 0.9
-  defaultMusicVolume: 0.6
-  defaultSpeechVolume: 1
+  defaultShowSubtitles: 1
+  defaultSfxVolume: 0.8
+  defaultMusicVolume: 1
+  defaultSpeechVolume: 0.8
   showDebugLogs: 1
   printActionCommentsInConsole: 0
   actionCommentLogging: 0

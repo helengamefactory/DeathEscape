@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 17e62d8d078be49cf8ad9ebe2efcaeb2, type: 3}
   m_Name: DeathEscape3D_SpeechManager
   m_EditorClassIdentifier: 
-  scrollSubtitles: 1
-  scrollNarration: 1
+  scrollSubtitles: 0
+  scrollNarration: 0
   textScrollSpeed: 30
   textScrollCLip: {fileID: 0}
   narrationTextScrollCLip: {fileID: 0}
@@ -72,7 +72,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Test Tube: Indigo Pot_103988_'
+    orderPrefix: 'Test Tube: Indigo Pot_215972_'
   - isPlayer: 1
     lineID: 392
     scene: MainGame
@@ -92,7 +92,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Small Glass Jar: SmallBrains 5_102596_'
+    orderPrefix: 'Small Glass Jar: SmallBrains 5_214530_'
   - isPlayer: 1
     lineID: 394
     scene: MainGame
@@ -112,7 +112,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Test Tube: EmptyPot_102436_'
+    orderPrefix: 'Test Tube: EmptyPot_214362_'
   - isPlayer: 1
     lineID: 397
     scene: MainGame
@@ -133,7 +133,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Drip Tap: Look at_101938_'
+    orderPrefix: 'Drip Tap: Look at_213858_'
   - isPlayer: 0
     lineID: 398
     scene: MainGame
@@ -153,7 +153,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: Standing Zombie Conversation_Option3_101952_
+    orderPrefix: Standing Zombie Conversation_Option3_213878_
   - isPlayer: 1
     lineID: 399
     scene: MainGame
@@ -175,7 +175,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: Standing Zombie Conversation_Option3_101952_
+    orderPrefix: Standing Zombie Conversation_Option3_213878_
   - isPlayer: 0
     lineID: 400
     scene: MainGame
@@ -206,7 +206,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 2
-    orderPrefix: Standing Zombie Conversation_Option3_101952_
+    orderPrefix: Standing Zombie Conversation_Option3_213878_
   - isPlayer: 1
     lineID: 401
     scene: MainGame
@@ -227,7 +227,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'OrangePelakHS: Use_102064_'
+    orderPrefix: 'OrangePelakHS: Use_213990_'
   - isPlayer: 0
     lineID: 402
     scene: MainGame
@@ -247,7 +247,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: Standing Zombie Conversation_Option2_102120_
+    orderPrefix: Standing Zombie Conversation_Option2_214046_
   - isPlayer: 1
     lineID: 403
     scene: MainGame
@@ -268,7 +268,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'autopsy_table: Pick_102128_'
+    orderPrefix: 'autopsy_table: Pick_214054_'
   - isPlayer: 1
     lineID: 404
     scene: MainGame
@@ -289,7 +289,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'TestTubePuzzle: Pick_102162_'
+    orderPrefix: 'TestTubePuzzle: Pick_214088_'
   - isPlayer: 1
     lineID: 405
     scene: MainGame
@@ -313,7 +313,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'SafeBrainHS: Use_102174_'
+    orderPrefix: 'SafeBrainHS: Use_214100_'
   - isPlayer: 1
     lineID: 406
     scene: MainGame
@@ -326,7 +326,7 @@ MonoBehaviour:
     description: 'From: OrangePelakHS: Look at'
     textType: 0
     translationText:
-    - "\u0646\u0648\u0634\u062A\u0647:\nOrange\n954188"
+    - ":\uFEEA\uFE98\uFEB7\uFEEE\uFEE7\nOrange\n954188"
     - 'Reads:
 
       Orange
@@ -341,7 +341,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'OrangePelakHS: Look at_102184_'
+    orderPrefix: 'OrangePelakHS: Look at_214110_'
   - isPlayer: 1
     lineID: 407
     scene: MainGame
@@ -363,7 +363,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Safe Key Hole: Look at_102192_'
+    orderPrefix: 'Safe Key Hole: Look at_214118_'
   - isPlayer: 1
     lineID: 408
     scene: MainGame
@@ -385,7 +385,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'Safe Key Hole: Look at_102192_'
+    orderPrefix: 'Safe Key Hole: Look at_214118_'
   - isPlayer: 1
     lineID: 409
     scene: MainGame
@@ -406,7 +406,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'FilledTubes: Look at_102232_'
+    orderPrefix: 'FilledTubes: Look at_214158_'
   - isPlayer: 1
     lineID: 410
     scene: MainGame
@@ -427,7 +427,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'FilledTubes: Look at_102232_'
+    orderPrefix: 'FilledTubes: Look at_214158_'
   - isPlayer: 1
     lineID: 411
     scene: MainGame
@@ -448,7 +448,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Drip Tap: EmptyPot_102234_'
+    orderPrefix: 'Drip Tap: EmptyPot_214160_'
   - isPlayer: 1
     lineID: 412
     scene: MainGame
@@ -469,7 +469,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'Drip Tap: EmptyPot_102234_'
+    orderPrefix: 'Drip Tap: EmptyPot_214160_'
   - isPlayer: 1
     lineID: 413
     scene: MainGame
@@ -490,7 +490,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'autopsy_table: Look at_102278_'
+    orderPrefix: 'autopsy_table: Look at_214204_'
   - isPlayer: 1
     lineID: 414
     scene: MainGame
@@ -511,7 +511,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'SafeBrainHS: Look at_102310_'
+    orderPrefix: 'SafeBrainHS: Look at_214236_'
   - isPlayer: 1
     lineID: 415
     scene: MainGame
@@ -532,7 +532,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Ceramic Sink: Unhandled inventory_102312_'
+    orderPrefix: 'Ceramic Sink: Unhandled inventory_214238_'
   - isPlayer: 1
     lineID: 416
     scene: MainGame
@@ -553,7 +553,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'Ceramic Sink: Unhandled inventory_102312_'
+    orderPrefix: 'Ceramic Sink: Unhandled inventory_214238_'
   - isPlayer: 0
     lineID: 417
     scene: MainGame
@@ -573,7 +573,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: Standing Zombie Conversation_Option_102322_
+    orderPrefix: Standing Zombie Conversation_Option_214248_
   - isPlayer: 1
     lineID: 418
     scene: MainGame
@@ -593,7 +593,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'CorpsDrawerSignHS: Look at_102430_'
+    orderPrefix: 'CorpsDrawerSignHS: Look at_214356_'
   - isPlayer: 1
     lineID: 419
     scene: MainGame
@@ -613,7 +613,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'ceramic_sink: EmptyPot_102512_'
+    orderPrefix: 'ceramic_sink: EmptyPot_214438_'
   - isPlayer: 1
     lineID: 420
     scene: MainGame
@@ -634,7 +634,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'ceramic_sink: EmptyPot_102512_'
+    orderPrefix: 'ceramic_sink: EmptyPot_214438_'
   - isPlayer: 1
     lineID: 642
     scene: MainGame
@@ -654,7 +654,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: CombinationLockUnlockCutScene_102556_
+    orderPrefix: CombinationLockUnlockCutScene_214490_
   - isPlayer: 1
     lineID: 421
     scene: MainGame
@@ -675,7 +675,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Drip Tap: Use_102566_'
+    orderPrefix: 'Drip Tap: Use_214500_'
   - isPlayer: 1
     lineID: 422
     scene: MainGame
@@ -696,7 +696,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Trolley: Look at_102602_'
+    orderPrefix: 'Trolley: Look at_214536_'
   - isPlayer: 1
     lineID: 423
     scene: MainGame
@@ -717,7 +717,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'SafePuzzleHS: Pick_102626_'
+    orderPrefix: 'SafePuzzleHS: Pick_214560_'
   - isPlayer: 1
     lineID: 424
     scene: MainGame
@@ -737,7 +737,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Safe Key Hole: Safe Key_102632_'
+    orderPrefix: 'Safe Key Hole: Safe Key_214566_'
   - isPlayer: 1
     lineID: 425
     scene: MainGame
@@ -758,7 +758,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'ceramic_sink: Use_102670_'
+    orderPrefix: 'ceramic_sink: Use_214604_'
   - isPlayer: 1
     lineID: 426
     scene: MainGame
@@ -779,7 +779,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'ceramic_sink: Use_102670_'
+    orderPrefix: 'ceramic_sink: Use_214604_'
   - isPlayer: 1
     lineID: 428
     scene: MainGame
@@ -800,7 +800,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Jars: Look at_102704_'
+    orderPrefix: 'Jars: Look at_214638_'
   - isPlayer: 1
     lineID: 429
     scene: MainGame
@@ -821,7 +821,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'Jars: Look at_102704_'
+    orderPrefix: 'Jars: Look at_214638_'
   - isPlayer: 1
     lineID: 430
     scene: MainGame
@@ -842,7 +842,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 2
-    orderPrefix: 'Jars: Look at_102704_'
+    orderPrefix: 'Jars: Look at_214638_'
   - isPlayer: 1
     lineID: 431
     scene: MainGame
@@ -866,7 +866,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 3
-    orderPrefix: 'Jars: Look at_102704_'
+    orderPrefix: 'Jars: Look at_214638_'
   - isPlayer: 1
     lineID: 433
     scene: MainGame
@@ -886,7 +886,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Ceramic Sink: FullPot_102896_'
+    orderPrefix: 'Ceramic Sink: FullPot_214872_'
   - isPlayer: 1
     lineID: 434
     scene: MainGame
@@ -913,7 +913,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Saw: Pick_102908_'
+    orderPrefix: 'Saw: Pick_214884_'
   - isPlayer: 1
     lineID: 435
     scene: MainGame
@@ -937,7 +937,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'OrganePelak: Look at_102924_'
+    orderPrefix: 'OrganePelak: Look at_214900_'
   - isPlayer: 1
     lineID: 436
     scene: MainGame
@@ -958,7 +958,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Jars: Use_102958_'
+    orderPrefix: 'Jars: Use_214934_'
   - isPlayer: 1
     lineID: 437
     scene: MainGame
@@ -979,7 +979,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Safe Key Hole: Use_102980_'
+    orderPrefix: 'Safe Key Hole: Use_214956_'
   - isPlayer: 1
     lineID: 438
     scene: MainGame
@@ -1000,7 +1000,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'NoteBook: Look at_102986_'
+    orderPrefix: 'NoteBook: Look at_214962_'
   - isPlayer: 1
     lineID: 439
     scene: MainGame
@@ -1025,7 +1025,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'NoteBook: Look at_102986_'
+    orderPrefix: 'NoteBook: Look at_214962_'
   - isPlayer: 1
     lineID: 441
     scene: MainGame
@@ -1046,7 +1046,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: SafeCombinationCheck_103058_
+    orderPrefix: SafeCombinationCheck_215034_
   - isPlayer: 1
     lineID: 442
     scene: MainGame
@@ -1066,7 +1066,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'IronBoxFake: Use_103128_'
+    orderPrefix: 'IronBoxFake: Use_215104_'
   - isPlayer: 1
     lineID: 643
     scene: MainGame
@@ -1085,8 +1085,8 @@ MonoBehaviour:
     onlyPlaySpeechOnce: 0
     alwaysRetainInSpeechManager: 0
     customFilename: 
-    orderID: 0
-    orderPrefix: startupCinemantic_103174_
+    orderID: 1
+    orderPrefix: startupCinemantic_215150_
   - isPlayer: 1
     lineID: 644
     scene: MainGame
@@ -1105,8 +1105,8 @@ MonoBehaviour:
     onlyPlaySpeechOnce: 0
     alwaysRetainInSpeechManager: 0
     customFilename: 
-    orderID: 1
-    orderPrefix: startupCinemantic_103174_
+    orderID: 2
+    orderPrefix: startupCinemantic_215150_
   - isPlayer: 1
     lineID: 645
     scene: MainGame
@@ -1127,8 +1127,8 @@ MonoBehaviour:
     onlyPlaySpeechOnce: 0
     alwaysRetainInSpeechManager: 0
     customFilename: 
-    orderID: 2
-    orderPrefix: startupCinemantic_103174_
+    orderID: 3
+    orderPrefix: startupCinemantic_215150_
   - isPlayer: 1
     lineID: 646
     scene: MainGame
@@ -1147,8 +1147,8 @@ MonoBehaviour:
     onlyPlaySpeechOnce: 0
     alwaysRetainInSpeechManager: 0
     customFilename: 
-    orderID: 3
-    orderPrefix: startupCinemantic_103174_
+    orderID: 4
+    orderPrefix: startupCinemantic_215150_
   - isPlayer: 1
     lineID: 648
     scene: MainGame
@@ -1167,8 +1167,8 @@ MonoBehaviour:
     onlyPlaySpeechOnce: 0
     alwaysRetainInSpeechManager: 0
     customFilename: 
-    orderID: 4
-    orderPrefix: startupCinemantic_103174_
+    orderID: 5
+    orderPrefix: startupCinemantic_215150_
   - isPlayer: 1
     lineID: 649
     scene: MainGame
@@ -1188,8 +1188,8 @@ MonoBehaviour:
     onlyPlaySpeechOnce: 0
     alwaysRetainInSpeechManager: 0
     customFilename: 
-    orderID: 5
-    orderPrefix: startupCinemantic_103174_
+    orderID: 6
+    orderPrefix: startupCinemantic_215150_
   - isPlayer: 1
     lineID: 443
     scene: MainGame
@@ -1211,7 +1211,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Zarfe Tarazoo: CompleteBrain_103238_'
+    orderPrefix: 'Zarfe Tarazoo: CompleteBrain_215214_'
   - isPlayer: 0
     lineID: 444
     scene: MainGame
@@ -1232,7 +1232,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: Standing Zombie Conversation_Option4_103300_
+    orderPrefix: Standing Zombie Conversation_Option4_215276_
   - isPlayer: 0
     lineID: 445
     scene: MainGame
@@ -1252,7 +1252,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: Standing Zombie Conversation_Option4_103300_
+    orderPrefix: Standing Zombie Conversation_Option4_215276_
   - isPlayer: 1
     lineID: 446
     scene: MainGame
@@ -1277,7 +1277,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 2
-    orderPrefix: Standing Zombie Conversation_Option4_103300_
+    orderPrefix: Standing Zombie Conversation_Option4_215276_
   - isPlayer: 0
     lineID: 447
     scene: MainGame
@@ -1297,7 +1297,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 3
-    orderPrefix: Standing Zombie Conversation_Option4_103300_
+    orderPrefix: Standing Zombie Conversation_Option4_215276_
   - isPlayer: 1
     lineID: 448
     scene: MainGame
@@ -1319,7 +1319,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 4
-    orderPrefix: Standing Zombie Conversation_Option4_103300_
+    orderPrefix: Standing Zombie Conversation_Option4_215276_
   - isPlayer: 1
     lineID: 449
     scene: MainGame
@@ -1339,7 +1339,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Saw: Use_103306_'
+    orderPrefix: 'Saw: Use_215282_'
   - isPlayer: 1
     lineID: 450
     scene: MainGame
@@ -1360,7 +1360,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Larg Glass Jar: Pick_103312_'
+    orderPrefix: 'Larg Glass Jar: Pick_215288_'
   - isPlayer: 1
     lineID: 451
     scene: MainGame
@@ -1381,7 +1381,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Test Tube: FullPot_103360_'
+    orderPrefix: 'Test Tube: FullPot_215336_'
   - isPlayer: 1
     lineID: 452
     scene: MainGame
@@ -1402,7 +1402,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'autopsy_table 1: Look at_103402_'
+    orderPrefix: 'autopsy_table 1: Look at_215378_'
   - isPlayer: 1
     lineID: 453
     scene: MainGame
@@ -1423,7 +1423,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Photo Frame Kian: Look at_103436_'
+    orderPrefix: 'Photo Frame Kian: Look at_215412_'
   - isPlayer: 1
     lineID: 454
     scene: MainGame
@@ -1445,7 +1445,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'Photo Frame Kian: Look at_103436_'
+    orderPrefix: 'Photo Frame Kian: Look at_215412_'
   - isPlayer: 0
     lineID: 455
     scene: MainGame
@@ -1465,7 +1465,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: Standing Zombie Conversation_Option5_103454_
+    orderPrefix: Standing Zombie Conversation_Option5_215430_
   - isPlayer: 0
     lineID: 456
     scene: MainGame
@@ -1486,7 +1486,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: Standing Zombie Conversation_Option5_103454_
+    orderPrefix: Standing Zombie Conversation_Option5_215430_
   - isPlayer: 1
     lineID: 457
     scene: MainGame
@@ -1506,7 +1506,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 2
-    orderPrefix: Standing Zombie Conversation_Option5_103454_
+    orderPrefix: Standing Zombie Conversation_Option5_215430_
   - isPlayer: 0
     lineID: 458
     scene: MainGame
@@ -1528,7 +1528,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 3
-    orderPrefix: Standing Zombie Conversation_Option5_103454_
+    orderPrefix: Standing Zombie Conversation_Option5_215430_
   - isPlayer: 1
     lineID: 459
     scene: MainGame
@@ -1549,7 +1549,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Larg Glass Jar: Look at_103516_'
+    orderPrefix: 'Larg Glass Jar: Look at_215492_'
   - isPlayer: 0
     lineID: 641
     scene: MainGame
@@ -1578,8 +1578,8 @@ MonoBehaviour:
     description: 'From: CorpsDrawer: Use'
     textType: 0
     translationText:
-    - Mitarsam daresh ro baz konam.
-    - Mitarsam daresh ro baz konam.
+    - "\uFEE2\uFEE8\uFEDB \uFEAF\uFE8E\uFE91 \uFEED\uFEAD \uFEB5\uFEAD\uFEA9 \uFEE2\uFEB3\uFEAE\uFE98\uFBFF\uFEE3"
+    - So scarry to be opened!
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -1589,7 +1589,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'CorpsDrawer: Use_103562_'
+    orderPrefix: 'CorpsDrawer: Use_215538_'
   - isPlayer: 1
     lineID: 460
     scene: MainGame
@@ -1610,7 +1610,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'ElectricSwitch: Look at_103580_'
+    orderPrefix: 'ElectricSwitch: Look at_215556_'
   - isPlayer: 1
     lineID: 461
     scene: MainGame
@@ -1631,7 +1631,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'ElectricSwitch: Use_103604_'
+    orderPrefix: 'ElectricSwitch: Use_215580_'
   - isPlayer: 1
     lineID: 462
     scene: MainGame
@@ -1653,7 +1653,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'CorpsDrawerSignHS: Sciesors_103648_'
+    orderPrefix: 'CorpsDrawerSignHS: Sciesors_215624_'
   - isPlayer: 1
     lineID: 463
     scene: MainGame
@@ -1673,7 +1673,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'CorpsDrawerSignHS: Sciesors_103648_'
+    orderPrefix: 'CorpsDrawerSignHS: Sciesors_215624_'
   - isPlayer: 1
     lineID: 464
     scene: MainGame
@@ -1693,7 +1693,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'SafePuzzleHS: Look at_103820_'
+    orderPrefix: 'SafePuzzleHS: Look at_215804_'
   - isPlayer: 1
     lineID: 465
     scene: MainGame
@@ -1730,7 +1730,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'SafePuzzleHS: Look at_103820_'
+    orderPrefix: 'SafePuzzleHS: Look at_215804_'
   - isPlayer: 1
     lineID: 466
     scene: MainGame
@@ -1754,32 +1754,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Saw: Look at_103846_'
-  - isPlayer: 1
-    lineID: 467
-    scene: MainGame
-    owner: PlayerFPS
-    text: 'cheghadr tize ...
-
-      yani ba in chi miboran inja?'
-    description: 'From: Scesors: Pick'
-    textType: 0
-    translationText:
-    - "... \uFEE9\uFEB0\uFBFF\uFE97 \uFEAD\uFEAA\uFED8\uFB7C\n\u061F!\uFEE5\uFEAE\uFE92\uFBFF\uFEE3
-      \uFEB5\uFE8E\uFEEB\uFE8E\uFE91 \uFBFD\uFB7C \uFBFD\uFEE8\uFECC\uFBFE"
-    - 'So sharp ...
-
-      What are they cutting with?'
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: 0
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: 0
-    orderPrefix: 'Knife: Pick_103940_'
+    orderPrefix: 'Saw: Look at_215830_'
   - isPlayer: 1
     lineID: 469
     scene: MainGame
@@ -1800,7 +1775,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: 'CorpsDrawerSignHS: Scalp_103894_'
+    orderPrefix: 'CorpsDrawerSignHS: Scalp_215878_'
   - isPlayer: 1
     lineID: 470
     scene: MainGame
@@ -1821,7 +1796,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'CorpsDrawerSignHS: Scalp_103894_'
+    orderPrefix: 'CorpsDrawerSignHS: Scalp_215878_'
   - isPlayer: 1
     lineID: 471
     scene: MainGame
@@ -1844,7 +1819,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 2
-    orderPrefix: 'CorpsDrawerSignHS: Scalp_103894_'
+    orderPrefix: 'CorpsDrawerSignHS: Scalp_215878_'
   - isPlayer: 1
     lineID: 472
     scene: MainGame
@@ -1864,7 +1839,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'Test Tube: Use_103900_'
+    orderPrefix: 'Test Tube: Use_215884_'
   - isPlayer: 1
     lineID: 473
     scene: MainGame
@@ -1889,7 +1864,32 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'LiquidOnly: Look at_103912_'
+    orderPrefix: 'LiquidOnly: Look at_215896_'
+  - isPlayer: 1
+    lineID: 467
+    scene: MainGame
+    owner: PlayerFPS
+    text: 'cheghadr tize ...
+
+      yani ba in chi miboran inja?'
+    description: 'From: Scesors: Pick'
+    textType: 0
+    translationText:
+    - "... \uFEE9\uFEB0\uFBFF\uFE97 \uFEAD\uFEAA\uFED8\uFB7C\n\u061F!\uFEE5\uFEAE\uFE92\uFBFF\uFEE3
+      \uFEB5\uFE8E\uFEEB\uFE8E\uFE91 \uFBFD\uFB7C \uFBFD\uFEE8\uFECC\uFBFE"
+    - 'So sharp ...
+
+      What are they cutting with?'
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: 0
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: 0
+    orderPrefix: 'Knife: Pick_215924_'
   - isPlayer: 1
     lineID: 474
     scene: MainGame
@@ -1909,7 +1909,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: 'autopsy_table: Use_103994_'
+    orderPrefix: 'autopsy_table: Use_215978_'
   - isPlayer: 0
     lineID: 476
     scene: MainGame
@@ -2158,7 +2158,7 @@ MonoBehaviour:
     description: 'From: organ_scale'
     textType: 1
     translationText:
-    - ' '
+    - "\uFEE1\uFE8D\uFEAA\uFEE7\uFE8D \u0649\uFEED\uFEAF\uFE8D\uFEAE\uFE97"
     - Organ Scale
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
@@ -3341,6 +3341,66 @@ MonoBehaviour:
     orderID: -1
     orderPrefix: 
   - isPlayer: 0
+    lineID: 427
+    scene: 
+    owner: 
+    text: Save
+    description: 
+    textType: 5
+    translationText:
+    - "\uFEE9\uFEAE\uFBFF\uFEA7\uFEAB"
+    - Save
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 432
+    scene: 
+    owner: 
+    text: Import
+    description: 
+    textType: 5
+    translationText:
+    - "\uFEE5\uFEA9\uFEAE\uFEDB \uFEA9\uFEAD\uFE8D\uFEED"
+    - Import
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 440
+    scene: 
+    owner: 
+    text: Autosave
+    description: 
+    textType: 5
+    translationText:
+    - "\uFEAD\uFE8E\uFEDB\uFEA9\uFEEE\uFEA7 \uFEE9\uFEAE\uFBFF\uFEA7\uFEAB"
+    - Autosave
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
     lineID: 546
     scene: 
     owner: 
@@ -3868,7 +3928,7 @@ MonoBehaviour:
     description: 
     textType: 11
     translationText:
-    - "\uFEE6\uFE98\uFEE3 Orange "
+    - "\u0649\uFEA9\uFEAA\uFECB \uFBFD\uFEE8\uFE98\uFEE3 \u06A9\uFEFC\uFB58"
     - Orange Text
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
@@ -3884,7 +3944,9 @@ MonoBehaviour:
     lineID: 573
     scene: 
     owner: 
-    text: 'Orange
+    text: 'Reads:
+
+      Orange
 
       954187'
     description: 
@@ -3914,7 +3976,7 @@ MonoBehaviour:
     description: 
     textType: 11
     translationText:
-    - "\uFEE6\uFE98\uFEE3 \uFEE5\uFEAA\uFBFE\uFEA9"
+    - "\uFEE9\uFEAD\uFE8D \u0649\uFEED\uFEAD \uFEEA\uFE98\uFEB7\uFEEE\uFEE7"
     - Saw Scripts
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
@@ -3930,53 +3992,17 @@ MonoBehaviour:
     lineID: 575
     scene: 
     owner: 
-    text: "***\n   **\n     ***"
+    text: Some strange signs with no meaning but, in some categorized way on a bone
+      saw.
     description: 
     textType: 11
     translationText:
-    - ' '
+    - ".\uFEE9\uFEAA\uFEB7 \u0649\uFEAA\uFEE8\uFE91 \uFEEA\uFE98\uFEB3\uFEA9 \u0649\uFEAD\uFEEE\uFE9F
+      \uFEEA\uFBFE \uFEAD\uFE8E\uFB95\uFEE7\uFE8D \uFBFD\uFEDF\uFEED \uFEE9\uFEAA\uFBFF\uFEE4\uFEE7
+      \uFBFD\uFEBB\uFE8E\uFEA7 \uFBFD\uFEE8\uFECC\uFEE3 .\uFE96\uFEB4\uFEEB \uFEAE\uFE91
+      \uFEE5\uFE8D\uFEEE\uFEA8\uFE98\uFEB3\uFE8D \uFEE9\uFEAD\uFE8D \u0649\uFEED\uFEAD
+      \uFE96\uFEE3\uFEFC\uFECB \u0649\uFEAE\uFEB3 \uFEEA\uFBFE"
     - "***\n   **\n     ***"
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 576
-    scene: 
-    owner: 
-    text: Very Strange on a bone saw
-    description: 
-    textType: 11
-    translationText:
-    - "\uFEE5\uFE8D\uFEEE\uFEA8\uFE98\uFEB3\uFE8D \uFEE9\uFEAD\uFE8D \u0649\uFEED\uFEAD
-      \uFE90\uFBFF\uFEA0\uFECB \uFEE2\uFE8B\uFEFC\uFECB"
-    - Very strange on a bone saw
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 577
-    scene: 
-    owner: 
-    text: The Strange Sign
-    description: 
-    textType: 11
-    translationText:
-    - "\uFE90\uFBFF\uFEA0\uFECB \uFE96\uFEE3\uFEFC\uFECB"
-    - The Strange Sign
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -3991,7 +4017,7 @@ MonoBehaviour:
     lineID: 578
     scene: 
     owner: 
-    text: it is a very strange sign on the test table
+    text: it is a very strange sign on the test table.
     description: 
     textType: 11
     translationText:
@@ -4058,7 +4084,7 @@ MonoBehaviour:
     lineID: 581
     scene: 
     owner: 
-    text: Photo
+    text: The Photo
     description: 
     textType: 11
     translationText:
@@ -4120,12 +4146,14 @@ MonoBehaviour:
     lineID: 584
     scene: 
     owner: 
-    text: Organe
+    text: 'Reads:
+
+      Organe'
     description: 
     textType: 11
     translationText:
-    - Organe
-    - Organe
+    - "\uFBFD\uFEE8\uFE98\uFEE3 \u06A9\uFEFC\uFB58"
+    - Text Label
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -4181,7 +4209,7 @@ MonoBehaviour:
     lineID: 587
     scene: 
     owner: 
-    text: Medium Circles
+    text: Small Circles
     description: 
     textType: 11
     translationText:
@@ -4198,15 +4226,15 @@ MonoBehaviour:
     orderID: -1
     orderPrefix: 
   - isPlayer: 0
-    lineID: 383
+    lineID: 605
     scene: 
     owner: 
-    text: Find the combination of the lock
+    text: Liquid Text
     description: 
-    textType: 13
+    textType: 11
     translationText:
-    - "\uFEE6\uFEDB \uFE8D\uFEAA\uFBFF\uFB58 \uFE8D\uFEAD \uFEDE\uFED4\uFED7 \uFEB0\uFEE3\uFEAD"
-    - Find the combination of the lock
+    - "\uFE95\uFE8E\uFECC\uFBFE\uFE8E\uFEE3 \uFEAF\uFE8D \uFEE9\uFEA9\uFE8E\uFED4\uFE98\uFEB3\uFE8D"
+    - Use Liquids
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -4218,21 +4246,20 @@ MonoBehaviour:
     orderID: -1
     orderPrefix: 
   - isPlayer: 0
-    lineID: 384
+    lineID: 634
     scene: 
     owner: 
-    text: there is a lock hangign on a corps drawer. find the combination and unlock
-      the door to see what is inside it.
+    text: 'Reads:
+
+      Use Liquids Only!'
     description: 
-    textType: 13
+    textType: 11
     translationText:
-    - "\u061F\uFEEA\uFBFF\uFB7C \uFEB6\uFEE0\uFEA7\uFE8D\uFEA9 \uFEE6\uFBFF\uFE92\uFE91
-      \uFEED \uFEE6\uFEDB \uFE8D\uFEAA\uFBFF\uFB58 \uFEED\uFEAD \uFEE5\uFEED\uFE8D
-      \uFEB0\uFEE3\uFEAD .\uFE96\uFEB3\uFE8D \uFEE9\uFEAA\uFEB7 \uFE8F\uFEAD\uFEA9
-      \uFEE5\uFEAA\uFEB7 \uFEAF\uFE8E\uFE91 \uFEAF\uFE8D \uFECA\uFEE7\uFE8E\uFEE3
-      \uFEDE\uFED4\uFED7 \uFEDA\uFBFE"
-    - There is a lock hangign on a corps drawer. Find the combination and unlock
-      the door to see what is inside it.
+    - ".\uFEAA\uFBFF\uFEE8\uFEDB \uFEE9\uFEA9\uFE8E\uFED4\uFE98\uFEB3\uFE8D \uFE95\uFE8E\uFECC\uFBFE\uFE8E\uFEE3
+      \uFEAF\uFE8D \uFEC2\uFED8\uFED3 \uFEEA\uFE98\uFEB7\uFEEE\uFEE7"
+    - 'Reads:
+
+      Use Liquids Only!'
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -4244,14 +4271,105 @@ MonoBehaviour:
     orderID: -1
     orderPrefix: 
   - isPlayer: 0
-    lineID: 385
+    lineID: 635
+    scene: 
+    owner: 
+    text: Test Tubes
+    description: 
+    textType: 11
+    translationText:
+    - "\uFEB6\uFBFE\uFE8E\uFEE3\uFEAF\uFE81 \u0649\uFE8E\uFEEB \uFEEA\uFEDF\uFEEE\uFEDF"
+    - Test Tubes
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 636
+    scene: 
+    owner: 
+    text: Two closely-colored test tube.
+    description: 
+    textType: 11
+    translationText:
+    - ".\uFEE9\uFEAA\uFEB7 \uFEAE\uFB58 \uFBFD\uFEE4\uFEEB \uFEEA\uFE91 \uFEDA\uFBFE\uFEA9\uFEB0\uFEE7
+      \u0649\uFE8E\uFEEB \uFB93\uFEE7\uFEAD \uFE8E\uFE91 \uFEB5\uFEEE\uFE97 \uFEEA\uFEDB
+      \uFEB6\uFBFE\uFE8E\uFEE3\uFEAF\uFE81 \uFEEA\uFEDF\uFEEE\uFEDF \uFE8E\uFE97
+      \uFEED\uFEA9"
+    - Two closely-colored test tube.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 647
+    scene: 
+    owner: 
+    text: Find a way out!
+    description: 
+    textType: 13
+    translationText:
+    - "\uFBFD\uFE9F\uFEED\uFEAE\uFEA7 \uFEE9\uFE8D\uFEAD \uFEE5\uFEA9\uFEAE\uFEDB
+      \uFE8D\uFEAA\uFBFF\uFB58"
+    - Find a way out!
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 651
+    scene: 
+    owner: 
+    text: I should get out of here and talk to someone knows where is here and why
+      am I left in this cold place.
+    description: 
+    textType: 13
+    translationText:
+    - "\u061F\uFEE2\uFE98\uFEB4\uFEEB \uFE8E\uFEA0\uFEE8\uFBFE\uFE8D \uFE8D\uFEAE\uFB7C
+      \uFEE6\uFEE3 \uFEED \uFE96\uFEB3\uFE8E\uFEA0\uFEDB \uFE8E\uFEA0\uFEE8\uFBFE\uFE8D
+      \uFEE2\uFEB3\uFEAE\uFB59\uFE91 \uFEB5\uFEAF\uFE8D \uFEED \uFEE2\uFEE8\uFEDB
+      \uFE8D\uFEAA\uFBFF\uFB58 \uFEED\uFEAD \uFEAE\uFED4\uFEE7 \uFEEA\uFBFE \uFEED
+      \uFEE5\uFEED\uFEAE\uFBFF\uFE91 \uFEE1\uFEAE\uFE91 \uFE8E\uFEA0\uFEE8\uFBFE\uFE8D
+      \uFEAF\uFE8D \uFEAA\uFBFE\uFE8E\uFE91"
+    - I should get out of here and talk to someone knows where is here and why am
+      I left in this cold place.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 652
     scene: 
     owner: 
     text: Started
     description: 
     textType: 13
     translationText:
-    - "\uFEAA\uFEB7 \uFEC9\uFEED\uFEAE\uFEB7"
+    - "\uFEDD\uFE8E\uFECC\uFED3"
     - Started
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
@@ -4264,15 +4382,18 @@ MonoBehaviour:
     orderID: -1
     orderPrefix: 
   - isPlayer: 0
-    lineID: 386
+    lineID: 653
     scene: 
     owner: 
-    text: find the combination.
+    text: There is a lock door that I should find a way to open it up.
     description: 
     textType: 13
     translationText:
-    - "\uFEE6\uFEDB \uFE8D\uFEAA\uFBFF\uFB58 \uFEED\uFEAD \uFEB0\uFEE3\uFEAD"
-    - find the combination.
+    - ".\uFEE2\uFEE8\uFEDB \uFE8D\uFEAA\uFBFF\uFB58 \uFEB6\uFEE7\uFEA9\uFEAE\uFEDB
+      \uFEAF\uFE8E\uFE91 \u0649\uFE8D\uFEAE\uFE91 \uFEE9\uFE8D\uFEAD \uFEEA\uFBFE
+      \uFEAA\uFBFE\uFE8E\uFE91 .\uFEEA\uFEE0\uFED4\uFED7 \uFEEA\uFEDB \uFE96\uFEB4\uFEEB
+      \uFEAD\uFEA9 \uFEEA\uFBFE"
+    - There is a lock door that I should find a way to open it up.
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -4284,14 +4405,14 @@ MonoBehaviour:
     orderID: -1
     orderPrefix: 
   - isPlayer: 0
-    lineID: 387
+    lineID: 659
     scene: 
     owner: 
     text: Completed
     description: 
     textType: 13
     translationText:
-    - "\uFEE9\uFEAA\uFEB7 \uFEE1\uFE8E\uFEA0\uFEE7\uFE8D"
+    - "\uFEAA\uFEB7 \uFEE1\uFE8E\uFEA0\uFEE7\uFE8D"
     - Completed
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
@@ -4304,15 +4425,16 @@ MonoBehaviour:
     orderID: -1
     orderPrefix: 
   - isPlayer: 0
-    lineID: 388
+    lineID: 660
     scene: 
     owner: 
-    text: the combination was 958417
+    text: The door is now open. Let's get out of here and talk to someone.
     description: 
     textType: 13
     translationText:
-    - "\uFEA9\uFEEE\uFE91 \u0669\u0665\u0668\u0664\u0661\u0667 \uFEB0\uFEE3\uFEAD"
-    - The combination was 958417
+    - "\uFEE5\uFEED\uFEAE\uFBFF\uFE91 \uFEE1\uFEAE\uFE91 \uFEAA\uFBFE\uFE8E\uFE91
+      .\uFEE9\uFEAA\uFEB7 \uFEAF\uFE8E\uFE91 \uFEAD\uFEA9"
+    - The door is now open. Let's get out of here and talk to someone.
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -4324,15 +4446,16 @@ MonoBehaviour:
     orderID: -1
     orderPrefix: 
   - isPlayer: 0
-    lineID: 389
+    lineID: 661
     scene: 
     owner: 
-    text: Open the safe box
+    text: Find a combination lock numbers.
     description: 
     textType: 13
     translationText:
-    - "\uFEE6\uFEDB \uFEAF\uFE8E\uFE91 \uFEED\uFEAD \uFED5\uFEED\uFEAA\uFEE8\uFEBB\uFEED\uFE8E\uFB94"
-    - Open the safe box
+    - "\uFEE2\uFEE8\uFEDB \uFE8D\uFEAA\uFBFF\uFB58 \uFEAA\uFBFE\uFE8E\uFE91 \uFEED\uFEAD
+      \uFEDE\uFED4\uFED7 \uFEB0\uFEE3\uFEAD"
+    - Find a combination lock numbers.
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -4344,21 +4467,133 @@ MonoBehaviour:
     orderID: -1
     orderPrefix: 
   - isPlayer: 0
-    lineID: 390
+    lineID: 662
     scene: 
     owner: 
-    text: I should find a way to open up the safe and see inside it. It may be a
-      way to get out of here.
+    text: I should find a 6 digit combination to unlock the drawer.
     description: 
     textType: 13
     translationText:
-    - ".\uFEE9\uFEAA\uFE91 \uFE96\uFEE7\uFEEE\uFEB8\uFEE7 \uFE9D\uFEED\uFEAE\uFEA7
-      \u0649\uFE8D\uFEAE\uFE91 \uFBFD\uFEEB\uFE8D\uFEAD \uFEEA\uFEE8\uFEDC\uFEE4\uFEE3
-      \u061F\uFEEA\uFBFF\uFB7C \uFEB5\uFEEE\uFE97 \uFEE6\uFBFF\uFE92\uFE91 \uFEED
-      \uFEE6\uFEDB \uFEAF\uFE8E\uFE91 \uFEED\uFEAD \uFED5\uFEED\uFEAA\uFEE8\uFEBB\uFEED\uFE8E\uFB94
+    - "\uFEE2\uFEE8\uFEDB \uFE8D\uFEAA\uFBFF\uFB58 \uFEAA\uFBFE\uFE8E\uFE91 \uFEDE\uFED4\uFED7
+      \uFEE6\uFBFE\uFE8D \u0649\uFE8D\uFEAE\uFE91 \uFBFD\uFEE4\uFED7\uFEAD \uFEB6\uFEB7
+      \uFEB0\uFEE3\uFEAD \uFEEA\uFBFE"
+    - I should find a 6 digit combination to unlock the drawer.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 663
+    scene: 
+    owner: 
+    text: The combination was 958417. so easy!
+    description: 
+    textType: 13
+    translationText:
+    - ".\uFEA9\uFEEE\uFE91 \uFE96\uFEA3\uFE8D\uFEAD \uFBFD\uFEE0\uFBFF\uFEA7 !\uFEE1\uFEA9\uFEAE\uFEDB
+      \uFE8D\uFEAA\uFBFF\uFB58 \uFE8D\uFEAA\uFBFF\uFB58  \uFEED\uFEAD \uFEDE\uFED4\uFED7
+      \uFEB0\uFEE3\uFEAD"
+    - The combination was 958417. so easy!
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 664
+    scene: 
+    owner: 
+    text: Safe Lock
+    description: 
+    textType: 13
+    translationText:
+    - "\uFED5\uFEED\uFEAA\uFEE8\uFEBB\uFEED\uFE8E\uFB94 \uFEDE\uFED4\uFED7"
+    - Safe Lock
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 665
+    scene: 
+    owner: 
+    text: Find a way to open the safe door. It may contains some clue to how to open
+      the door.
+    description: 
+    textType: 13
+    translationText:
+    - "\uFEEA\uFEB7\uFE8E\uFE91 \uFEB5\uFEEE\uFE97 \uFED5\uFE8E\uFE97\uFE8D \uFEAF\uFE8D
+      \uFE9D\uFEED\uFEAE\uFEA7 \u0649\uFE8D\uFEAE\uFE91 \uFBFD\uFEEB\uFE8D\uFEAD
+      \uFEEA\uFEE8\uFEDC\uFEE4\uFEE3 .\uFEE6\uFEDB \uFE8D\uFEAA\uFBFF\uFB58 \uFED5\uFEED\uFEAA\uFEE8\uFEBB\uFEED\uFE8E\uFB94
+      \uFEAD\uFEA9 \uFEE5\uFEA9\uFEAE\uFEDB \uFEAF\uFE8E\uFE91 \u0649\uFE8D\uFEAE\uFE91
+      \uFBFD\uFEEB\uFE8D\uFEAD"
+    - Find a way to open the safe door. It may contains some clue to how to open
+      the door.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 666
+    scene: 
+    owner: 
+    text: A handle and a rotator combination beside a key necessary to open the safe's
+      door.
+    description: 
+    textType: 13
+    translationText:
+    - ".\uFEE9\uFEAF\uFE8E\uFBFF\uFEE7 \uFED5\uFEED\uFEAA\uFEE8\uFEBB\uFEED\uFE8E\uFB94
+      \uFEE5\uFEA9\uFEAE\uFEDB \uFEAF\uFE8E\uFE91 \u0649\uFE8D\uFEAE\uFE91 \uFEAA\uFBFF\uFEE0\uFEDB
+      \uFEEA\uFBFE \uFEED \uFBFD\uFB58\uFEEE\uFE97 \uFEED \uFEE9\uFEAE\uFBFF\uFB95\uFE98\uFEB3\uFEA9
+      \uFEAF\uFE8D \uFBFD\uFE92\uFBFF\uFEDB\uFEAE\uFE97"
+    - A handle and a rotator combination beside a key necessary to open the safe's
+      door.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 667
+    scene: 
+    owner: 
+    text: The door is opened to a discussting feature. A human mind!
+    description: 
+    textType: 13
+    translationText:
+    - ".\uFEE5\uFE8E\uFEB4\uFEE7\uFE8D \uFEB0\uFED0\uFEE3 \uFEEA\uFBFE !\uFEAA\uFEB7
+      \uFEAF\uFE8E\uFE91 \uFEE5\uFEAF \uFEE2\uFEEB \uFEEA\uFE91 \uFEDD\uFE8E\uFEA3
+      \uFEEA\uFEE8\uFEA4\uFEBB \uFEEA\uFBFE \uFEEA\uFE91 \uFED5\uFEED\uFEAA\uFEE8\uFEBB\uFEED\uFE8E\uFB94
       \uFEAD\uFEA9"
-    - I should find a way to open up the safe and see inside it. It may be a way
-      to get out of here.
+    - The door is opened to a discussting feature. A human mind!
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -4370,17 +4605,19 @@ MonoBehaviour:
     orderID: -1
     orderPrefix: 
   - isPlayer: 0
-    lineID: 393
+    lineID: 668
     scene: 
     owner: 
-    text: Find something to fill in the jars
+    text: These jar and shelves are so suspicious! I should find a way to figure
+      it out.
     description: 
     textType: 13
     translationText:
-    - "\uFEE9\uFEAE\uFBFF\uFB95\uFE91 \uFEAD\uFE8D\uFEAE\uFED7 \uFE8E\uFEEB \uFEEA\uFEB8\uFBFF\uFEB7
-      \uFEDE\uFEA7\uFE8D\uFEA9 \uFEEA\uFEDB \uFEE6\uFEDB \uFE8D\uFEAA\uFBFF\uFB58
-      \u0649\uFEB0\uFBFF\uFB7C \uFEEA\uFBFE"
-    - Find something to fill in the jars
+    - ".\uFEE2\uFEE8\uFEDC\uFE91 \uFBFD\uFEB3\uFEAD\uFEAE\uFE91 \uFEEA\uFBFE \uFEAA\uFBFE\uFE8E\uFE91
+      .\uFEAA\uFEE8\uFE98\uFEB4\uFEEB \u06A9\uFEEE\uFEDC\uFEB8\uFEE3 \uFE8E\uFEEB
+      \uFEEA\uFEB4\uFED4\uFED7 \uFEED \u0649\uFE8D \uFEEA\uFEB8\uFBFF\uFEB7 \uFED1\uFEED\uFEAE\uFEC7
+      \uFEE6\uFBFE\uFE8D"
+    - These jar and shelves are so suspicious! I should find a way to figure it out.
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -4392,15 +4629,17 @@ MonoBehaviour:
     orderID: -1
     orderPrefix: 
   - isPlayer: 0
-    lineID: 395
+    lineID: 669
     scene: 
     owner: 
-    text: In progress
+    text: How should I handle these jars?
     description: 
     textType: 13
     translationText:
-    - "\uFEE1\uFE8E\uFEA0\uFEE7\uFE8D \uFEDD\uFE8E\uFEA3 \uFEAD\uFEA9"
-    - In progress
+    - "\u061F\uFEE2\uFEE8\uFEDB \uFEAD\uFE8E\uFEDB \u0649\uFE8D \uFEEA\uFEB8\uFBFF\uFEB7
+      \uFED1\uFEED\uFEAE\uFEC7 \uFEE6\uFBFE\uFE8D \uFE8E\uFE91 \uFEAA\uFBFE\uFE8E\uFE91
+      \uFEAD\uFEEE\uFEC4\uFB7C"
+    - How should I handle these jars?
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -4412,17 +4651,174 @@ MonoBehaviour:
     orderID: -1
     orderPrefix: 
   - isPlayer: 0
-    lineID: 396
+    lineID: 670
     scene: 
     owner: 
-    text: Fit the brain inside the jars in right places.
+    text: I am discussed! Four pieces of mind inserted in the small jars by me!
     description: 
     textType: 13
     translationText:
-    - "\uFEE9\uFEAA\uFE91 \uFEAD\uFE8D\uFEAE\uFED7 \uFE90\uFEB3\uFE8E\uFEE8\uFEE3
-      \u0649\uFE8E\uFE9F \uFEAD\uFEA9 \uFE8E\uFEEB \uFEEA\uFEB8\uFBFF\uFEB7 \uFEDE\uFEA7\uFE8D\uFEA9
-      \uFEED\uFEAD \uFE8E\uFEEB \uFEB0\uFED0\uFEE3"
-    - Fit the brain inside the jars in right places.
+    - ".\uFEE6\uFEE3 \uFEC2\uFEB3\uFEEE\uFE97 \uFEE2\uFEE7\uFEED\uFE8D !\u0649\uFE8D
+      \uFEEA\uFEB8\uFBFF\uFEB7 \uFED1\uFEED\uFEAE\uFEC7 \u0649\uFEEE\uFE97 \uFEAA\uFEB7
+      \uFEEA\uFE98\uFEA8\uFBFE\uFEAD \uFEB0\uFED0\uFEE3 \uFEEA\uFEDC\uFE97 \uFE8E\uFE97
+      \uFEAD\uFE8E\uFEEC\uFB7C !\uFEA9\uFEAD\uFEEE\uFEA7 \uFEE2\uFEEB \uFEEA\uFE91
+      \uFEE2\uFEDF\uFE8E\uFEA3"
+    - I am discussed! Four pieces of mind inserted in the small jars by me!
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 671
+    scene: 
+    owner: 
+    text: I dont't know if these tubes are related to the door or not. I should get
+      to know it.
+    description: 
+    textType: 13
+    translationText:
+    - ".\uFEE1\uFEAD\uFE8E\uFBFF\uFE91 \uFEAD\uFEA9 \uFEAE\uFEB3 \uFEAA\uFBFE\uFE8E\uFE91
+      .\uFEEA\uFEE7 \uFE8E\uFBFE \uFEE9\uFEAD\uFE8D\uFEA9 \uFEAD\uFEA9 \uFEEA\uFE91
+      \uFBFD\uFEC4\uFE91\uFEAD \uFEB6\uFBFE\uFE8E\uFEE3\uFEAF\uFE81 \u0649\uFE8E\uFEEB
+      \uFEEA\uFEDF\uFEEE\uFEDF \uFEE6\uFBFE\uFE8D \uFEE2\uFEE7\uFEED\uFEAA\uFBFF\uFEE4\uFEE7"
+    - I dont't know if these tubes are related to the door or not. I should get to
+      know it.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 672
+    scene: 
+    owner: 
+    text: Some test tubes are here. I don't know the usage.
+    description: 
+    textType: 13
+    translationText:
+    - ".\uFEE2\uFEE7\uFEED\uFEA9 \uFBFD\uFEE4\uFEE7 \uFEED\uFEAD \uFEB5\uFEA9\uFEAE\uFEDB\uFEAD\uFE8E\uFEDB
+      .\uFE96\uFEB3\uFE8E\uFEA0\uFEE8\uFBFE\uFE8D \uFEB6\uFBFE\uFE8E\uFEE3\uFEAF\uFE81
+      \uFEEA\uFEDF\uFEEE\uFEDF \uFEA9\uFE8D\uFEAA\uFECC\uFE97 \uFEEA\uFBFE"
+    - Some test tubes are here. I don't know the usage.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 673
+    scene: 
+    owner: 
+    text: The rainbow power is awesome!
+    description: 
+    textType: 13
+    translationText:
+    - "\uFEA9\uFEEE\uFE91 \uFEE9\uFEA9\uFE8E\uFECC\uFEDF\uFE8D \uFED5\uFEEE\uFED3
+      \uFEE5\uFE8E\uFEE4\uFEDB \uFEE6\uFBFF\uFB95\uFEE7\uFEAD \uFE95\uFEAD\uFEAA\uFED7"
+    - The rainbow power is awesome!
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 674
+    scene: 
+    owner: 
+    text: Talk To Somebody
+    description: 
+    textType: 13
+    translationText:
+    - "\uFEE6\uFEDB \uFE96\uFE92\uFEA4\uFEBB \uFEAE\uFED4\uFEE7 \uFEDA\uFBFE \uFE8E\uFE91"
+    - Talk To Somebody
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 675
+    scene: 
+    owner: 
+    text: I should find some one to ask about my situation.
+    description: 
+    textType: 13
+    translationText:
+    - "\uFEE2\uFEE8\uFEDB \uFE96\uFE92\uFEA4\uFEBB \uFEE1\uFEA9\uFEEE\uFEA7 \uFE96\uFBFF\uFECC\uFEBF\uFEED
+      \uFEB9\uFEEE\uFEBC\uFEA7 \uFEAD\uFEA9 \uFEB5\uFE8E\uFEEB\uFE8E\uFE91 \uFEED
+      \uFEE2\uFEE8\uFEDB \uFE8D\uFEAA\uFBFF\uFB58 \uFEED\uFEAD \uFEAE\uFED4\uFEE7
+      \uFEDA\uFBFE \uFEAA\uFBFE\uFE8E\uFE91"
+    - I should find some one to ask about my situation.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 676
+    scene: 
+    owner: 
+    text: I don't know where is here? I should ask someone.
+    description: 
+    textType: 13
+    translationText:
+    - ".\uFEE2\uFEB3\uFEAE\uFB59\uFE91 \uFEAE\uFED4\uFEE7 \uFEDA\uFBFE \uFEAF\uFE8D
+      \uFEAA\uFBFE\uFE8E\uFE91 \u061F\uFE96\uFEB3\uFE8E\uFEA0\uFEDB \uFE8E\uFEA0\uFEE8\uFBFE\uFE8D
+      \uFEE2\uFEE7\uFEED\uFEAA\uFBFF\uFEE4\uFEE7"
+    - I don't know where is here? I should ask someone.
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 677
+    scene: 
+    owner: 
+    text: I still don't know where is here and why I am here.
+    description: 
+    textType: 13
+    translationText:
+    - ".\uFEE1\uFE8E\uFEA0\uFEE8\uFBFE\uFE8D \uFEE6\uFEE3 \uFE8D\uFEAE\uFB7C \uFEED
+      \uFE96\uFEB3\uFE8E\uFEA0\uFEDB \uFE8E\uFEA0\uFEE8\uFBFE\uFE8D \uFEE2\uFEE7\uFEED\uFEAA\uFBFF\uFEE4\uFEE7
+      \uFEAF\uFEEE\uFEE8\uFEEB \uFEE6\uFEE3"
+    - I still don't know where is here and why I am here.
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -5322,7 +5718,7 @@ MonoBehaviour:
     description: 
     textType: 5
     translationText:
-    - Helen Game Factory
+    - "\uFEE6\uFEE0\uFEEB \u0649\uFEAF\uFE8E\uFEB3 \u0649\uFEAF\uFE8E\uFE91 \uFEEA\uFEE7\uFE8E\uFEA7\uFEAD\uFE8E\uFEDB"
     - Helen Game Factory
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
@@ -5344,6 +5740,46 @@ MonoBehaviour:
     translationText:
     - "\u0649\uFEAF\uFE8E\uFE91 \uFEAF\uFE8E\uFECF\uFE81"
     - Start Game
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 468
+    scene: 
+    owner: RateUs
+    text: Rate Us
+    description: 
+    textType: 5
+    translationText:
+    - "\u0649\uFEAF\uFE8E\uFE91 \uFEEA\uFE91 \uFEAF\uFE8E\uFBFF\uFE98\uFEE3\uFE8D\r"
+    - Rate Us
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 604
+    scene: 
+    owner: OtherProducts
+    text: Other Products
+    description: 
+    textType: 5
+    translationText:
+    - "\uFE95\uFEFB\uFEEE\uFEBC\uFEA4\uFEE3 \uFEAE\uFBFE\uFE8E\uFEB3\r"
+    - Other Products
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -5414,6 +5850,273 @@ MonoBehaviour:
     customFilename: 
     orderID: -1
     orderPrefix: 
+  - isPlayer: 0
+    lineID: 678
+    scene: 
+    owner: Lbl0
+    text: Use to move
+    description: 
+    textType: 5
+    translationText:
+    - "\uFEAA\uFBFF\uFEE8\uFEDB \uFEE9\uFEA9\uFE8E\uFED4\uFE98\uFEB3\uFE8D \uFE96\uFEDB\uFEAE\uFEA3
+      \u0649\uFE8D\uFEAE\uFE91"
+    - Use to move
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 679
+    scene: 
+    owner: Lbl1
+    text: Items Found
+    description: 
+    textType: 5
+    translationText:
+    - "\uFEE9\uFEAA\uFEB7 \uFE8D\uFEAA\uFBFF\uFB58 \uFEDE\uFBFE\uFE8E\uFEB3\uFEED"
+    - Items Found
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 680
+    scene: 
+    owner: Lbl2
+    text: Operates Item
+    description: 
+    textType: 5
+    translationText:
+    - "\uFEDE\uFBFE\uFE8E\uFEB3\uFEED \uFE8E\uFE91 \uFEE5\uFEA9\uFEAE\uFEDB \uFEAD\uFE8E\uFEDB"
+    - Operates Item
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 681
+    scene: 
+    owner: Lbl3
+    text: Looks the item
+    description: 
+    textType: 5
+    translationText:
+    - "\uFEDE\uFBFE\uFE8E\uFEB3\uFEED \uFEEA\uFE91 \uFEE5\uFEA9\uFEAE\uFEDB \uFEE9\uFE8E\uFB95\uFEE7"
+    - Looks the item
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 682
+    scene: 
+    owner: Lbl4
+    text: Pick-ups items
+    description: 
+    textType: 5
+    translationText:
+    - "\uFEDE\uFBFE\uFE8E\uFEB3\uFEED \uFEE6\uFE98\uFEB7\uFE8D\uFEA9\uFEAE\uFE91"
+    - Pick-ups items
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 683
+    scene: 
+    owner: Lbl5
+    text: Drag to look around
+    description: 
+    textType: 5
+    translationText:
+    - "\uFEAA\uFBFF\uFEE8\uFEDB \uFEB2\uFEE4\uFEDF \uFED1\uFE8D\uFEAE\uFEC3\uFE8D
+      \uFEEA\uFE91 \uFEE9\uFE8E\uFB95\uFEE7 \u0649\uFE8D\uFEAE\uFE91"
+    - Drag to look around
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 684
+    scene: 
+    owner: Lbl6
+    text: Drag items on objects to operate
+    description: 
+    textType: 5
+    translationText:
+    - "\uFEAA\uFBFE\uFEAA\uFE91 \uFEAD\uFE8D\uFEAE\uFED7 \uFE80\uFE8E\uFBFF\uFEB7\uFE8D
+      \u0649\uFEED\uFEAD \uFEAE\uFE91 \uFEED \uFEAA\uFBFF\uFEB8\uFEDC\uFE91 \uFE8D\uFEAD
+      \uFEE5\uFE81 \uFEDE\uFBFE\uFE8E\uFEB3\uFEED \uFEAF\uFE8D \uFEE9\uFEA9\uFE8E\uFED4\uFE98\uFEB3\uFE8D
+      \u0649\uFE8D\uFEAE\uFE91"
+    - Drag items on objects to operate
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 685
+    scene: 
+    owner: DocumentMenuButton
+    text: Memos
+    description: 
+    textType: 5
+    translationText:
+    - "\uFEE9\uFEAE\uFEC3\uFE8E\uFEA7"
+    - Memos
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 686
+    scene: 
+    owner: ObjectiveMenuButton
+    text: Goals
+    description: 
+    textType: 5
+    translationText:
+    - "\uFED1\uFE8D\uFEAA\uFEEB\uFE8D"
+    - Goals
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 393
+    scene: 
+    owner: NeedHelpButton
+    text: Need Help?
+    description: 
+    textType: 5
+    translationText:
+    - "\u061F\u0649\uFE8D\uFEEE\uFEA7 \uFBFD\uFEE3 \uFEDA\uFEE4\uFEDB\r"
+    - Need Help?
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 395
+    scene: 
+    owner: RateTitle
+    text: Give us a five start rate if you liked the game?
+    description: 
+    textType: 5
+    translationText:
+    - "\uFEE9\uFEAA\uFE91 \uFEE9\uFEAD\uFE8E\uFE98\uFEB3 \uFE9E\uFEE8\uFB58 \uFEAE\uFEC8\uFEE7
+      \uFEEA\uFBFE \uFBFD\uFE98\uFEB7\uFE8D\uFEA9 \uFE96\uFEB3\uFEED\uFEA9 \uFEED\uFEAD
+      \u0649\uFEAF\uFE8E\uFE91 \uFEEA\uFB94\uFE8D\r"
+    - Give us a five start rate if you liked the game?
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 396
+    scene: 
+    owner: RateYesButton
+    text: Yes
+    description: 
+    textType: 5
+    translationText:
+    - Yes
+    - Yes
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
+  - isPlayer: 0
+    lineID: 576
+    scene: 
+    owner: RateNoButton
+    text: No
+    description: 
+    textType: 5
+    translationText:
+    - No
+    - No
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []
+    tagID: -1
+    onlyPlaySpeechOnce: 0
+    alwaysRetainInSpeechManager: 0
+    customFilename: 
+    orderID: -1
+    orderPrefix: 
   - isPlayer: 1
     lineID: 637
     scene: 
@@ -5433,7 +6136,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: Inventory_Unhandled_Combine_21238_
+    orderPrefix: Inventory_Unhandled_Combine_21296_
   - isPlayer: 1
     lineID: 638
     scene: 
@@ -5453,7 +6156,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: Inventory_Unhandled_Hotspot_21078_
+    orderPrefix: Inventory_Unhandled_Hotspot_21132_
   - isPlayer: 1
     lineID: 639
     scene: 
@@ -5474,7 +6177,7 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 0
-    orderPrefix: BlueSack_Examine_20596_
+    orderPrefix: BlueSack_Examine_20628_
   - isPlayer: 1
     lineID: 640
     scene: 
@@ -5497,117 +6200,17 @@ MonoBehaviour:
     alwaysRetainInSpeechManager: 0
     customFilename: 
     orderID: 1
-    orderPrefix: BlueSack_Examine_20596_
+    orderPrefix: BlueSack_Examine_20628_
   - isPlayer: 0
-    lineID: 427
-    scene: 
+    lineID: 577
+    scene: MainGame
     owner: 
-    text: Save
-    description: 
-    textType: 5
+    text: Corps
+    description: 'From: ZombiePosing'
+    textType: 1
     translationText:
-    - Save
-    - Save
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 432
-    scene: 
-    owner: 
-    text: Import
-    description: 
-    textType: 5
-    translationText:
-    - Import
-    - Import
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 440
-    scene: 
-    owner: 
-    text: Autosave
-    description: 
-    textType: 5
-    translationText:
-    - Autosave
-    - Autosave
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 468
-    scene: 
-    owner: RateUs
-    text: Rate Us
-    description: 
-    textType: 5
-    translationText:
-    - "\u0649\uFEAF\uFE8E\uFE91 \uFEEA\uFE91 \uFEAF\uFE8E\uFBFF\uFE98\uFEE3\uFE8D\r"
-    - Rate Us
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 603
-    scene: 
-    owner: Share
-    text: Share
-    description: 
-    textType: 5
-    translationText:
-    - "\uFEE5\uFE8E\uFE98\uFEB3\uFEED\uFEA9 \u0649\uFE8D\uFEAE\uFE91 \uFEDD\uFE8E\uFEB3\uFEAD\uFE8D"
-    - Share
-    customAudioClip: {fileID: 0}
-    customLipsyncFile: {fileID: 0}
-    customTranslationAudioClips: []
-    customTranslationLipsyncFiles: []
-    tagID: -1
-    onlyPlaySpeechOnce: 0
-    alwaysRetainInSpeechManager: 0
-    customFilename: 
-    orderID: -1
-    orderPrefix: 
-  - isPlayer: 0
-    lineID: 604
-    scene: 
-    owner: OtherProducts
-    text: Other Products
-    description: 
-    textType: 5
-    translationText:
-    - "\uFE95\uFEFB\uFEEE\uFEBC\uFEA4\uFEE3 \uFEAE\uFBFE\uFE8E\uFEB3\r"
-    - Other Products
+    - "\uFEAA\uFEB4\uFE9F"
+    - Corps
     customAudioClip: {fileID: 0}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
@@ -5639,9 +6242,9 @@ MonoBehaviour:
   phonemes: []
   lipSyncSpeed: 1
   translatableTextTypes: -1
-  maxID: 604
+  maxID: 602
   speechIDRecycling: 1
-  activeLineID: 468
+  activeLineID: 395
   mergeMatchingSpeechIDs: 0
   useSpeechTags: 0
   speechTags:
