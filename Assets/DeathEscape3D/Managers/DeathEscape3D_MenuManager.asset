@@ -4023,8 +4023,8 @@ MonoBehaviour:
   showWhenPaused: 0
   canClickInCutscene: 0
   enabledOnStart: 0
-  actionListOnTurnOn: {fileID: 0}
-  actionListOnTurnOff: {fileID: 0}
+  actionListOnTurnOn: {fileID: 11400000, guid: d6a9b8bdcc6662e4d839783ade06b469, type: 2}
+  actionListOnTurnOff: {fileID: 11400000, guid: 08bd57cc9873ef74c9d1894b158f149b, type: 2}
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
   fitWithinScreen: 1
@@ -4869,7 +4869,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 0
   slotSpacing: 0
-  lineID: -1
+  lineID: 576
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
   fontScaleFactor: 2
@@ -7246,7 +7246,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 0
   slotSpacing: 0
-  lineID: -1
+  lineID: 396
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
   fontScaleFactor: 2
@@ -8864,7 +8864,7 @@ MonoBehaviour:
   sizeType: 1
   positionType: 0
   slotSpacing: 0
-  lineID: -1
+  lineID: 395
   alternativeInputButton: 
   font: {fileID: 12800000, guid: 84211003358ed8d448a1d84288481aa5, type: 3}
   fontScaleFactor: 2.5

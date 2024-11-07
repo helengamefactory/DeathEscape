@@ -58,10 +58,10 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 10
-    y: 262
+    x: 16
+    y: 243
     width: 300
-    height: 132
+    height: 152
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
@@ -73,7 +73,7 @@ MonoBehaviour:
   elementToChangeParameterID: -1
   journalText: 
   onlyAddNewJournal: 0
-  doFade: 0
+  doFade: 1
   lineID: -1
   journalPageIndex: -1
   journalPageIndexParameterID: -1
@@ -128,7 +128,7 @@ MonoBehaviour:
   jumpToActionParameterID: -1
   jumpToActionActual: {fileID: 0}
   runInParallel: 1
-  isSkippable: 0
+  isSkippable: 1
   localParameters: []
   parameterIDs: 
   setParameters: 0
