@@ -13,14 +13,14 @@ MonoBehaviour:
   m_Name: DeathEscape3D_SettingsManager
   m_EditorClassIdentifier: 
   separateEditorSaveFiles: 0
-  saveFileName: DeathEscape
+  saveFileName: Room
   saveTimeDisplay: 1
   customSaveFormat: MMMM dd, yyyy
   takeSaveScreenshots: 0
-  saveScreenshots: 1
+  saveScreenshots: 0
   screenshotResolutionFactor: 1
-  useProfiles: 1
-  maxSaves: 1
+  useProfiles: 0
+  maxSaves: 3
   orderSavesByUpdateTime: 0
   reloadSceneWhenLoading: 1
   saveWithThreading: 0
@@ -38,7 +38,7 @@ MonoBehaviour:
   playerSwitching: 1
   player: {fileID: 6400253439099899167, guid: 8a629ef365eafbe458fbcc6153daec4e, type: 3}
   players: []
-  movementMethod: 2
+  movementMethod: 4
   inputMethod: 2
   interactionMethod: 2
   selectInteractions: 0
@@ -136,7 +136,7 @@ MonoBehaviour:
   cameraPerspective: 2
   cacheCameraMain: 0
   linearColorTextures: 0
-  relyOnSafeArea: 0
+  relyOnSafeArea: 1
   movingTurning: 3
   hotspotDetection: 0
   closeInteractionMenusIfPlayerLeavesVicinity: 0
